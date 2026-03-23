@@ -1,0 +1,392 @@
+
+
+
+--- Group-level boost summary ---
+ M1 (Crossed)
+# A tibble: 2 × 4
+  TrialType   Arg  Conc Boost
+  <fct>     <dbl> <dbl> <dbl>
+1 Homonymy  0.304 0.162 0.141
+2 Polysemy  0.612 0.363 0.249
+
+
+
+--- Item-level boost summary ---
+ M1 (Crossed)
+# A tibble: 25 × 7
+   TargetWord TrialType  mean    P1    P2 SoloConc   Boost
+   <fct>      <fct>     <dbl> <dbl> <dbl>    <dbl>   <dbl>
+ 1 ball       Homonymy  0.293 0.471 0.590   0.0755  0.217 
+ 2 bat        Homonymy  0.283 0.706 0.801   0.202   0.0813
+ 3 board      Homonymy  0.253 0.473 0.588   0.0639  0.189 
+ 4 book       Polysemy  0.758 0.765 0.473   0.379   0.379 
+ 5 breakfast  Polysemy  0.505 0.704 0.583   0.281   0.224 
+ 6 cabinet    Homonymy  0.222 0.569 0.673   0.0641  0.158 
+ 7 change     Homonymy  0.525 0.614 0.670   0.497   0.0286
+ 8 city       Polysemy  0.747 0.614 0.504   0.354   0.393 
+ 9 college    Polysemy  0.626 0.649 0.644   0.543   0.0831
+10 company    Polysemy  0.596 0.509 0.550   0.293   0.302 
+11 dinner     Polysemy  0.535 0.858 0.624   0.390   0.145 
+12 letter     Polysemy  0.828 0.806 0.485   0.703   0.125 
+13 lunch      Polysemy  0.424 0.789 0.628   0.110   0.314 
+14 magazines  Polysemy  0.525 0.529 0.683   0.166   0.359 
+15 match      Homonymy  0.374 0.611 0.656   0.0920  0.282 
+16 novel      Polysemy  0.586 0.710 0.515   0.207   0.379 
+17 picnic     Polysemy  0.687 0.404 0.608   0.527   0.160 
+18 ring       Homonymy  0.263 0.524 0.623   0.172   0.0901
+19 rock       Homonymy  0.242 0.668 0.570   0.0740  0.168 
+20 ruler      Homonymy  0.323 0.633 0.593   0.259   0.0642
+21 school     Polysemy  0.525 0.627 0.734   0.406   0.119 
+22 star       Homonymy  0.384 0.494 0.566   0.0900  0.294 
+23 suit       Homonymy  0.253 0.617 0.673   0.280  -0.0277
+24 wave       Homonymy  0.296 0.95  0.2     0.128   0.168 
+25 Wave       Homonymy  0.236 0.4   0.7     0.109   0.127 
+
+
+
+### M1 (Crossed) Item-level polysemy boost (simple lm)
+
+Call:
+lm(formula = Boost ~ TrialType, data = item.boost)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.16920 -0.08835  0.01665  0.07594  0.15231 
+
+Coefficients:
+                  Estimate Std. Error t value  Pr(>|t|)    
+(Intercept)        0.14150    0.02944   4.807 0.0000754 ***
+TrialTypePolysemy  0.10711    0.04249   2.521    0.0191 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1061 on 23 degrees of freedom
+Multiple R-squared:  0.2165,	Adjusted R-squared:  0.1824 
+F-statistic: 6.355 on 1 and 23 DF,  p-value: 0.01909
+
+
+
+
+--- Group-level boost summary ---
+ M2 (Balanced)
+# A tibble: 2 × 4
+  TrialType   Arg  Conc Boost
+  <fct>     <dbl> <dbl> <dbl>
+1 Homonymy  0.477 0.314 0.164
+2 Polysemy  0.646 0.309 0.337
+
+
+
+--- Item-level boost summary ---
+ M2 (Balanced)
+# A tibble: 23 × 7
+   TargetWord TrialType  mean    P1    P2 SoloConc   Boost
+   <fct>      <fct>     <dbl> <dbl> <dbl>    <dbl>   <dbl>
+ 1 ball       Homonymy  0.357 0.231 0.949    0.175  0.182 
+ 2 bat        Homonymy  0.5   0.897 0.436    0.4    0.1   
+ 3 board      Homonymy  0.393 0.359 0.897    0.1    0.293 
+ 4 book       Polysemy  0.607 0.359 0.667    0.128  0.479 
+ 5 breakfast  Polysemy  0.786 0.949 0.231    0.525  0.261 
+ 6 cabinet    Homonymy  0.393 0.897 0.256    0.025  0.368 
+ 7 change     Homonymy  0.75  0.923 0.513    1     -0.25  
+ 8 city       Polysemy  0.821 0.974 0.282    0.375  0.446 
+ 9 college    Polysemy  0.857 0.923 0.538    0.575  0.282 
+10 company    Polysemy  0.643 0.333 0.923    0.25   0.393 
+11 dinner     Polysemy  0.179 0.872 0.816    0.225 -0.0464
+12 letter     Polysemy  0.857 0.974 0.179    0.7    0.157 
+13 lunch      Polysemy  0.536 0.179 0.872    0.125  0.411 
+14 magazines  Polysemy  0.571 0.103 0.923    0.128  0.443 
+15 match      Homonymy  0.679 0.487 0.949    0.85  -0.171 
+16 novel      Polysemy  0.75  0.846 0.641    0.15   0.6   
+17 picnic     Polysemy  0.643 0.816 0.256    0.425  0.218 
+18 ring       Homonymy  0.464 0.974 0.333    0.275  0.189 
+19 rock       Homonymy  0.25  0.974 0.385    0.050  0.2   
+20 ruler      Homonymy  0.464 0.256 0.974    0.125  0.339 
+21 school     Polysemy  0.5   0.641 0.872    0.1    0.4   
+22 star       Homonymy  0.75  0.718 0.256    0.375  0.375 
+23 suit       Homonymy  0.25  0.436 0.949    0.075  0.175 
+
+
+
+### M2 (Balanced) Item-level polysemy boost (simple lm)
+
+Call:
+lm(formula = Boost ~ TrialType, data = item.boost)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.41364 -0.06994  0.03636  0.11934  0.26303 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)   
+(Intercept)        0.16364    0.05703   2.869  0.00918 **
+TrialTypePolysemy  0.17333    0.07895   2.195  0.03952 * 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1891 on 21 degrees of freedom
+Multiple R-squared:  0.1867,	Adjusted R-squared:  0.1479 
+F-statistic:  4.82 on 1 and 21 DF,  p-value: 0.03952
+
+
+
+
+--- Group-level boost summary ---
+ M3 (Prime/Related)
+# A tibble: 2 × 4
+  TrialType   Arg  Conc   Boost
+  <fct>     <dbl> <dbl>   <dbl>
+1 Unrelated 0.102 0.138 -0.0357
+2 Related   0.245 0.279 -0.0342
+
+
+
+--- Item-level boost summary ---
+ M3 (Prime/Related)
+# A tibble: 24 × 7
+   TargetWord          TrialType   mean    P1    P2 SoloConc    Boost
+   <fct>               <fct>      <dbl> <dbl> <dbl>    <dbl>    <dbl>
+ 1 ambulance_emergency Related   0.0645 1     0.933   0.0385  0.0261 
+ 2 beans_rice          Related   0.290  1     0.733   0.538  -0.248  
+ 3 blackboard_chalk    Related   0.226  0.633 0.933   0.231  -0.00496
+ 4 cloak_dagger        Related   0.194  0.833 0.8     0.0385  0.155  
+ 5 compass_direction   Related   0.290  1     0.767   0.154   0.136  
+ 6 gang_feet           Unrelated 0.258  0.9   1       0.577  -0.319  
+ 7 jaw _mouth          Related   0.161  0.867 0.933   0.115   0.0459 
+ 8 journal_hamburger   Unrelated 0.161  0.833 0.533   0.0385  0.123  
+ 9 knight_armor        Related   0.194  0.933 0.3     0.346  -0.153  
+10 lion_religion       Unrelated 0.194  0.9   0.867   0.154   0.0397 
+11 mammal_weekend      Unrelated 0.0323 1     0.9     0.115  -0.0831 
+12 microscope_mob      Unrelated 0.0968 0.433 1       0.115  -0.0186 
+13 noun_verb           Related   0.258  0.733 0.933   0.346  -0.0881 
+14 official_cereal     Unrelated 0.0323 0.6   1       0       0.0323 
+15 pepperoni_alcohol   Unrelated 0.0645 0.667 0.9     0.115  -0.0509 
+16 rabbi_toothbrush    Unrelated 0.0968 0.9   0.833   0.192  -0.0955 
+17 sack_clam           Unrelated 0.0645 0.833 1       0.0385  0.0261 
+18 sock_shoe           Related   0.194  1     0.241   0.385  -0.191  
+19 spider_soda         Unrelated 0.129  0.966 0.931   0       0.129  
+20 surgery_hall        Unrelated 0.0645 0.433 1       0.231  -0.166  
+21 throne _king        Related   0.0968 0.667 1       0.154  -0.0571 
+22 thunder_lightning   Related   0.355  0.690 0.966   0.154   0.201  
+23 tortoise_syrup      Unrelated 0.0323 0.933 1       0.0769 -0.0447 
+24 waist_hip           Related   0.613  1     0.333   0.846  -0.233  
+
+
+
+### M3 (Prime/Related) Item-level polysemy boost (simple lm)
+
+Call:
+lm(formula = Boost ~ TrialType, data = item.boost)
+
+Residuals:
+      Min        1Q    Median        3Q       Max 
+-0.283189 -0.074493  0.004032  0.076561  0.235215 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)
+(Intercept)      -0.035670   0.040295  -0.885    0.386
+TrialTypeRelated  0.001447   0.056986   0.025    0.980
+
+Residual standard error: 0.1396 on 22 degrees of freedom
+Multiple R-squared:  2.933e-05,	Adjusted R-squared:  -0.04542 
+F-statistic: 0.0006452 on 1 and 22 DF,  p-value: 0.98
+
+
+
+
+--- Group-level boost summary ---
+ M1-M2-together
+# A tibble: 2 × 4
+  TrialType   Arg  Conc Boost
+  <fct>     <dbl> <dbl> <dbl>
+1 Homonymy  0.335 0.189 0.146
+2 Polysemy  0.619 0.351 0.268
+
+
+
+--- Item-level boost summary ---
+ M1-M2-together
+# A tibble: 25 × 7
+   TargetWord TrialType  mean    P1    P2 SoloConc   Boost
+   <fct>      <fct>     <dbl> <dbl> <dbl>    <dbl>   <dbl>
+ 1 ball       Homonymy  0.307 0.418 0.669   0.0974  0.210 
+ 2 bat        Homonymy  0.331 0.748 0.720   0.245   0.0854
+ 3 board      Homonymy  0.283 0.448 0.656   0.0718  0.212 
+ 4 book       Polysemy  0.724 0.676 0.516   0.324   0.401 
+ 5 breakfast  Polysemy  0.567 0.758 0.506   0.335   0.232 
+ 6 cabinet    Homonymy  0.260 0.642 0.581   0.0555  0.204 
+ 7 change     Homonymy  0.575 0.682 0.635   0.608  -0.0329
+ 8 city       Polysemy  0.764 0.694 0.455   0.359   0.405 
+ 9 college    Polysemy  0.677 0.709 0.621   0.550   0.127 
+10 company    Polysemy  0.606 0.470 0.632   0.284   0.322 
+11 dinner     Polysemy  0.457 0.861 0.666   0.354   0.103 
+12 letter     Polysemy  0.835 0.843 0.418   0.702   0.132 
+13 lunch      Polysemy  0.449 0.655 0.682   0.114   0.335 
+14 magazines  Polysemy  0.535 0.435 0.736   0.158   0.378 
+15 match      Homonymy  0.441 0.584 0.721   0.259   0.182 
+16 novel      Polysemy  0.622 0.740 0.543   0.194   0.428 
+17 picnic     Polysemy  0.677 0.494 0.530   0.504   0.173 
+18 ring       Homonymy  0.307 0.623 0.559   0.195   0.112 
+19 rock       Homonymy  0.244 0.735 0.529   0.0687  0.175 
+20 ruler      Homonymy  0.354 0.550 0.677   0.229   0.125 
+21 school     Polysemy  0.520 0.630 0.764   0.339   0.181 
+22 star       Homonymy  0.465 0.544 0.498   0.153   0.312 
+23 suit       Homonymy  0.252 0.577 0.734   0.235   0.0170
+24 wave       Homonymy  0.296 0.95  0.2     0.128   0.168 
+25 Wave       Homonymy  0.236 0.4   0.7     0.109   0.127 
+
+
+
+### M1-M2-together Item-level polysemy boost (simple lm)
+
+Call:
+lm(formula = Boost ~ TrialType, data = item.boost)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.17869 -0.08715  0.02226  0.06580  0.16588 
+
+Coefficients:
+                  Estimate Std. Error t value  Pr(>|t|)    
+(Intercept)        0.14583    0.02954   4.936 0.0000547 ***
+TrialTypePolysemy  0.12226    0.04264   2.867   0.00871 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.1065 on 23 degrees of freedom
+Multiple R-squared:  0.2633,	Adjusted R-squared:  0.2313 
+F-statistic:  8.22 on 1 and 23 DF,  p-value: 0.008714
+
+
+
+
+--- Group-level boost summary ---
+ S1 (Load)
+# A tibble: 2 × 4
+  TrialType   Arg  Conc Boost
+  <fct>     <dbl> <dbl> <dbl>
+1 Homonymy  0.441 0.314 0.127
+2 Polysemy  0.555 0.309 0.246
+
+
+
+--- Item-level boost summary ---
+ S1 (Load)
+# A tibble: 92 × 7
+   TargetWord         TrialType  mean    P1    P2 SoloConc    Boost
+   <chr>              <fct>     <dbl> <dbl> <dbl>    <dbl>    <dbl>
+ 1 ball_1500ms        Homonymy  0.2   0.231 0.949    0.175  0.0250 
+ 2 ball_750ms         Homonymy  0.379 0.231 0.949    0.175  0.204  
+ 3 ball_FiveDig       Homonymy  0.3   0.231 0.949    0.175  0.125  
+ 4 ball_ThreeDig      Homonymy  0.276 0.231 0.949    0.175  0.101  
+ 5 bat_1500ms         Homonymy  0.2   0.897 0.436    0.4   -0.2    
+ 6 bat_750ms          Homonymy  0.517 0.897 0.436    0.4    0.117  
+ 7 bat_FiveDig        Homonymy  0.367 0.897 0.436    0.4   -0.0333 
+ 8 bat_ThreeDig       Homonymy  0.414 0.897 0.436    0.4    0.0138 
+ 9 board_1500ms       Homonymy  0.233 0.359 0.897    0.1    0.133  
+10 board_750ms        Homonymy  0.552 0.359 0.897    0.1    0.452  
+11 board_FiveDig      Homonymy  0.5   0.359 0.897    0.1    0.4    
+12 board_ThreeDig     Homonymy  0.276 0.359 0.897    0.1    0.176  
+13 book_1500ms        Polysemy  0.4   0.359 0.667    0.128  0.272  
+14 book_750ms         Polysemy  0.448 0.359 0.667    0.128  0.320  
+15 book_FiveDig       Polysemy  0.633 0.359 0.667    0.128  0.505  
+16 book_ThreeDig      Polysemy  0.586 0.359 0.667    0.128  0.458  
+17 breakfast_1500ms   Polysemy  0.567 0.949 0.231    0.525  0.0417 
+18 breakfast_750ms    Polysemy  0.690 0.949 0.231    0.525  0.165  
+19 breakfast_FiveDig  Polysemy  0.767 0.949 0.231    0.525  0.242  
+20 breakfast_ThreeDig Polysemy  0.552 0.949 0.231    0.525  0.0267 
+21 cabinet_1500ms     Homonymy  0.2   0.897 0.256    0.025  0.175  
+22 cabinet_750ms      Homonymy  0.276 0.897 0.256    0.025  0.251  
+23 cabinet_FiveDig    Homonymy  0.3   0.897 0.256    0.025  0.275  
+24 cabinet_ThreeDig   Homonymy  0.345 0.897 0.256    0.025  0.320  
+25 change_1500ms      Homonymy  0.533 0.923 0.513    1     -0.467  
+26 change_750ms       Homonymy  0.759 0.923 0.513    1     -0.241  
+27 change_FiveDig     Homonymy  0.733 0.923 0.513    1     -0.267  
+28 change_ThreeDig    Homonymy  0.862 0.923 0.513    1     -0.138  
+29 city_1500ms        Polysemy  0.767 0.974 0.282    0.375  0.392  
+30 city_750ms         Polysemy  0.621 0.974 0.282    0.375  0.246  
+31 city_FiveDig       Polysemy  0.767 0.974 0.282    0.375  0.392  
+32 city_ThreeDig      Polysemy  0.828 0.974 0.282    0.375  0.453  
+33 college_1500ms     Polysemy  0.6   0.923 0.538    0.575  0.0250 
+34 college_750ms      Polysemy  0.759 0.923 0.538    0.575  0.184  
+35 college_FiveDig    Polysemy  0.6   0.923 0.538    0.575  0.0250 
+36 college_ThreeDig   Polysemy  0.483 0.923 0.538    0.575 -0.0922 
+37 company_1500ms     Polysemy  0.433 0.333 0.923    0.25   0.183  
+38 company_750ms      Polysemy  0.552 0.333 0.923    0.25   0.302  
+39 company_FiveDig    Polysemy  0.5   0.333 0.923    0.25   0.25   
+40 company_ThreeDig   Polysemy  0.621 0.333 0.923    0.25   0.371  
+41 dinner_1500ms      Polysemy  0.233 0.872 0.816    0.225  0.00833
+42 dinner_750ms       Polysemy  0.276 0.872 0.816    0.225  0.0509 
+43 dinner_FiveDig     Polysemy  0.3   0.872 0.816    0.225  0.075  
+44 dinner_ThreeDig    Polysemy  0.310 0.872 0.816    0.225  0.0853 
+45 letter_1500ms      Polysemy  0.767 0.974 0.179    0.7    0.0667 
+46 letter_750ms       Polysemy  0.862 0.974 0.179    0.7    0.162  
+47 letter_FiveDig     Polysemy  0.9   0.974 0.179    0.7    0.2    
+48 letter_ThreeDig    Polysemy  0.655 0.974 0.179    0.7   -0.0448 
+49 lunch_1500ms       Polysemy  0.233 0.179 0.872    0.125  0.108  
+50 lunch_750ms        Polysemy  0.448 0.179 0.872    0.125  0.323  
+51 lunch_FiveDig      Polysemy  0.367 0.179 0.872    0.125  0.242  
+52 lunch_ThreeDig     Polysemy  0.379 0.179 0.872    0.125  0.254  
+53 magazines_1500ms   Polysemy  0.448 0.103 0.923    0.128  0.320  
+54 magazines_750ms    Polysemy  0.655 0.103 0.923    0.128  0.527  
+55 magazines_FiveDig  Polysemy  0.633 0.103 0.923    0.128  0.505  
+56 magazines_ThreeDig Polysemy  0.586 0.103 0.923    0.128  0.458  
+57 match_1500ms       Homonymy  0.6   0.487 0.949    0.85  -0.25   
+58 match_750ms        Homonymy  0.552 0.487 0.949    0.85  -0.298  
+59 match_FiveDig      Homonymy  0.667 0.487 0.949    0.85  -0.183  
+60 match_ThreeDig     Homonymy  0.552 0.487 0.949    0.85  -0.298  
+61 novel_1500ms       Polysemy  0.767 0.846 0.641    0.15   0.617  
+62 novel_750ms        Polysemy  0.828 0.846 0.641    0.15   0.678  
+63 novel_FiveDig      Polysemy  0.633 0.846 0.641    0.15   0.483  
+64 novel_ThreeDig     Polysemy  0.621 0.846 0.641    0.15   0.471  
+65 picnic_1500ms      Polysemy  0.533 0.816 0.256    0.425  0.108  
+66 picnic_750ms       Polysemy  0.483 0.816 0.256    0.425  0.0578 
+67 picnic_FiveDig     Polysemy  0.667 0.816 0.256    0.425  0.242  
+68 picnic_ThreeDig    Polysemy  0.517 0.816 0.256    0.425  0.0922 
+69 ring_1500ms        Homonymy  0.367 0.974 0.333    0.275  0.0917 
+70 ring_750ms         Homonymy  0.379 0.974 0.333    0.275  0.104  
+71 ring_FiveDig       Homonymy  0.467 0.974 0.333    0.275  0.192  
+72 ring_ThreeDig      Homonymy  0.517 0.974 0.333    0.275  0.242  
+73 rock_1500ms        Homonymy  0.2   0.974 0.385    0.050  0.15   
+74 rock_750ms         Homonymy  0.276 0.974 0.385    0.050  0.226  
+75 rock_FiveDig       Homonymy  0.333 0.974 0.385    0.050  0.283  
+76 rock_ThreeDig      Homonymy  0.276 0.974 0.385    0.050  0.226  
+77 ruler_1500ms       Homonymy  0.333 0.256 0.974    0.125  0.208  
+78 ruler_750ms        Homonymy  0.759 0.256 0.974    0.125  0.634  
+79 ruler_FiveDig      Homonymy  0.333 0.256 0.974    0.125  0.208  
+80 ruler_ThreeDig     Homonymy  0.345 0.256 0.974    0.125  0.220  
+81 school_1500ms      Polysemy  0.3   0.641 0.872    0.1    0.2    
+82 school_750ms       Polysemy  0.276 0.641 0.872    0.1    0.176  
+83 school_FiveDig     Polysemy  0.433 0.641 0.872    0.1    0.333  
+84 school_ThreeDig    Polysemy  0.345 0.641 0.872    0.1    0.245  
+85 star_1500ms        Homonymy  0.5   0.718 0.256    0.375  0.125  
+86 star_750ms         Homonymy  0.793 0.718 0.256    0.375  0.418  
+87 star_FiveDig       Homonymy  0.667 0.718 0.256    0.375  0.292  
+88 star_ThreeDig      Homonymy  0.655 0.718 0.256    0.375  0.280  
+89 suit_1500ms        Homonymy  0.3   0.436 0.949    0.075  0.225  
+90 suit_750ms         Homonymy  0.483 0.436 0.949    0.075  0.408  
+91 suit_FiveDig       Homonymy  0.5   0.436 0.949    0.075  0.425  
+92 suit_ThreeDig      Homonymy  0.310 0.436 0.949    0.075  0.235  
+
+
+
+### S1 (Load) Item-level polysemy boost (simple lm)
+
+Call:
+lm(formula = Boost ~ TrialType, data = item.boost)
+
+Residuals:
+     Min       1Q   Median       3Q      Max 
+-0.59360 -0.14156  0.00526  0.13006  0.50669 
+
+Coefficients:
+                  Estimate Std. Error t value Pr(>|t|)    
+(Intercept)        0.12693    0.03162   4.014 0.000123 ***
+TrialTypePolysemy  0.11894    0.04378   2.717 0.007908 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.2098 on 90 degrees of freedom
+Multiple R-squared:  0.07579,	Adjusted R-squared:  0.06552 
+F-statistic:  7.38 on 1 and 90 DF,  p-value: 0.007908
+

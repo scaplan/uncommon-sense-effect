@@ -1,0 +1,248 @@
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Full with random slopes or intercepts (Valid / Invalid Fillers)
+Data: data
+Models:
+M2.models$M2.VI.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M2.models$M2.VI.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                               npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)    
+M2.models$M2.VI.randInt.full      8 846.75 885.14 -415.38   830.75                         
+M2.models$M2.VI.randSlope.full   10 829.11 877.09 -404.55   809.11 21.644  2 0.00001996 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Full with random slopes or intercepts (Valid / Invalid Fillers)
+$\chi^2(2) = 21.64, \textit{p} < .001$ 
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Full vs. no trial type (Valid / Invalid Fillers)
+Data: data
+Models:
+M2.models$M2.VI.randSlope.notrialtype: Response ~ RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+M2.models$M2.VI.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                                      npar    AIC    BIC  logLik deviance  Chisq Df    Pr(>Chisq)    
+M2.models$M2.VI.randSlope.notrialtype    9 857.19 900.37 -419.59   839.19                            
+M2.models$M2.VI.randSlope.full          10 829.11 877.09 -404.55   809.11 30.078  1 0.00000004149 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Full vs. no trial type (Valid / Invalid Fillers)
+$\chi^2(1) = 30.08, \textit{p} < .001$ 
+
+
+### M2 Summary Table: Best fitting model (VI) Valid vs. Invalid Fillers
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 +      stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 |      TargetWord)
+   Data: data
+Control: glmerControl(optimizer = c("Nelder_Mead", "bobyqa"))
+
+     AIC      BIC   logLik deviance df.resid 
+   829.1    877.1   -404.6    809.1      886 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-4.2560 -0.4500  0.2407  0.3993  2.9849 
+
+Random effects:
+ Groups     Name                  Variance Std.Dev. Corr 
+ TargetWord (Intercept)           0.473    0.6878        
+ SubjectID  (Intercept)           1.636    1.2792        
+            TrialTypeValid Filler 2.082    1.4430   -0.85
+Number of obs: 896, groups:  TargetWord, 32; SubjectID, 28
+
+Fixed effects:
+                        Estimate Std. Error z value       Pr(>|z|)    
+(Intercept)             -0.19273    0.32250  -0.598          0.550    
+TrialTypeValid Filler    2.85952    0.46537   6.145 0.000000000802 ***
+RT                      -0.09940    0.11196  -0.888          0.375    
+ItemNum                 -0.11934    0.11545  -1.034          0.301    
+stim.premiseJudgment_P1 -0.08008    0.19679  -0.407          0.684    
+stim.premiseJudgment_P2  0.03150    0.17876   0.176          0.860    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) TrlTVF RT     ItemNm s.J_P1
+TrlTypVldFl -0.692                            
+RT          -0.023  0.042                     
+ItemNum     -0.044  0.066  0.210              
+stm.prmJ_P1 -0.146  0.201 -0.027  0.188       
+stm.prmJ_P2 -0.064  0.110 -0.020 -0.029  0.443
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Full with random slopes or intercepts (Polysemy / Homonymy)
+Data: data
+Models:
+M2.models$M2.PH.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M2.models$M2.PH.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                               npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)
+M2.models$M2.PH.randInt.full      9 692.83 733.04 -337.41   674.83                     
+M2.models$M2.PH.randSlope.full   11 694.59 743.74 -336.30   672.59 2.2369  2     0.3268
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Full with random slopes or intercepts (Polysemy / Homonymy)
+$\chi^2(2) = 2.24, \textit{p} = 0.327$ 
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Full vs. no trial type (Polysemy / Homonymy)
+Data: data
+Models:
+M2.models$M2.PH.randInt.notrialtype: Response ~ RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M2.models$M2.PH.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+                                    npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)    
+M2.models$M2.PH.randInt.notrialtype    8 701.69 737.43 -342.84   685.69                         
+M2.models$M2.PH.randInt.full           9 692.83 733.04 -337.41   674.83 10.857  1  0.0009844 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Full vs. no trial type (Polysemy / Homonymy)
+$\chi^2(1) = 10.86, \textit{p} < .001$ 
+
+
+### M2 Summary Table: Best fitting model (PH) Valid vs. Invalid Fillers
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 +      stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+   Data: data
+Control: glmerControl(optimizer = c("Nelder_Mead", "bobyqa"))
+
+     AIC      BIC   logLik deviance df.resid 
+   692.8    733.0   -337.4    674.8      635 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-6.9946 -0.5623  0.2259  0.5748  2.5119 
+
+Random effects:
+ Groups     Name        Variance Std.Dev.
+ SubjectID  (Intercept) 2.0999   1.4491  
+ TargetWord (Intercept) 0.2042   0.4519  
+Number of obs: 644, groups:  SubjectID, 28; TargetWord, 23
+
+Fixed effects:
+                         Estimate Std. Error z value    Pr(>|z|)    
+(Intercept)             -0.112773   0.338509  -0.333     0.73902    
+TrialTypePolysemy        1.032628   0.280357   3.683     0.00023 ***
+RT                      -0.080011   0.131002  -0.611     0.54135    
+ItemNum                  0.007038   0.121431   0.058     0.95378    
+stim.ConcTruth           0.818847   0.156685   5.226 0.000000173 ***
+stim.premiseJudgment_P1 -0.738619   0.243492  -3.033     0.00242 ** 
+stim.premiseJudgment_P2 -0.601580   0.246011  -2.445     0.01447 *  
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) TrlTyP RT     ItemNm stm.CT s.J_P1
+TrlTypPlysm -0.417                                   
+RT          -0.010  0.018                            
+ItemNum     -0.051  0.085  0.169                     
+stm.CncTrth -0.001  0.065 -0.024 -0.051              
+stm.prmJ_P1 -0.020  0.010 -0.012  0.105 -0.059       
+stm.prmJ_P2 -0.008  0.001  0.018  0.035 -0.266  0.796
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Testing item-number Trial-Type interaction (Polysemy / Homonymy)
+Data: data
+Models:
+M2.models$M2.PH.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+with.item.PH.interaction: Response ~ TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord) + TrialType:ItemNum
+                             npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)
+M2.models$M2.PH.randInt.full    9 692.83 733.04 -337.41   674.83                     
+with.item.PH.interaction       10 694.83 739.51 -337.41   674.83 0.0002  1     0.9893
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Testing item-number Trial-Type interaction (Polysemy / Homonymy)
+$\chi^2(1) = 0, \textit{p} = 0.989$ 
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Main model vs no P1 plausibility (Polysemy / Homonymy)
+Data: data
+Models:
+no.P1: Response ~ TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M2.models$M2.PH.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+                             npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)   
+no.P1                           8 698.52 734.26 -341.26   682.52                        
+M2.models$M2.PH.randInt.full    9 692.83 733.04 -337.41   674.83 7.6857  1   0.005566 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Main model vs no P1 plausibility (Polysemy / Homonymy)
+$\chi^2(1) = 7.69, \textit{p} = 0.006$ 
+
+
+### Exp 2 (Balanced conclusion strength) Nested Models: Main model vs no P2 plausibility (Polysemy / Homonymy)
+Data: data
+Models:
+no.P2: Response ~ TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + (1 | SubjectID) + (1 | TargetWord)
+M2.models$M2.PH.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+                             npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)  
+no.P2                           8 696.09 731.83 -340.04   680.09                       
+M2.models$M2.PH.randInt.full    9 692.83 733.04 -337.41   674.83 5.2582  1    0.02184 *
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 2 (Balanced conclusion strength) LRT prose for paper: Main model vs no P2 plausibility (Polysemy / Homonymy)
+$\chi^2(1) = 5.26, \textit{p} = 0.022$ 
+
+
+### M2 Best fitting model display summary for paper: xtable Polysemy vs. Homonymy
+% latex table generated in R 4.3.1 by xtable 1.8-4 package
+% Mon Mar 23 15:11:32 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrll}
+  \hline
+ & Fixed effect & Coefficient & z & p & Odds Ratio \\ 
+  \hline
+1 & (Intercept) & -0.11 [-0.78, 0.55] & -0.33 & .739 & 0.89 [0.46, 1.73] \\ 
+  2 & Polysemy & 1.03 [0.48, 1.58] & 3.68 & $<$ .001 & 2.81 [1.62, 4.87] \\ 
+  3 & RT & -0.08 [-0.34, 0.18] & -0.61 & .541 & 0.92 [0.71, 1.19] \\ 
+  4 & Trial Number & 0.01 [-0.23, 0.25] & 0.06 & .954 & 1.01 [0.79, 1.28] \\ 
+  5 & Conclusion Strength & 0.82 [0.51, 1.13] & 5.23 & $<$ .001 & 2.27 [1.67, 3.08] \\ 
+  6 & Premise1 Strength & -0.74 [-1.22, -0.26] & -3.03 & .002 & 0.48 [0.3, 0.77] \\ 
+  7 & Premise2 Strength & -0.6 [-1.08, -0.12] & -2.45 & .014 & 0.55 [0.34, 0.89] \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+
+### M2 Best fitting model display summary for paper (Valid / Invalid fillers): xtable Valid vs. Invalid Fillers
+% latex table generated in R 4.3.1 by xtable 1.8-4 package
+% Mon Mar 23 15:11:32 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrll}
+  \hline
+ & Fixed effect & Coefficient & z & p & Odds Ratio \\ 
+  \hline
+1 & (Intercept) & -0.19 [-0.82, 0.44] & -0.60 & .55 & 0.82 [0.44, 1.55] \\ 
+  2 & Valid Filler & 2.86 [1.95, 3.77] & 6.14 & $<$ .001 & 17.45 [7.01, 43.45] \\ 
+  3 & RT & -0.1 [-0.32, 0.12] & -0.89 & .375 & 0.91 [0.73, 1.13] \\ 
+  4 & Trial Number & -0.12 [-0.35, 0.11] & -1.03 & .301 & 0.89 [0.71, 1.11] \\ 
+  5 & Premise1 Strength & -0.08 [-0.47, 0.31] & -0.41 & .684 & 0.92 [0.63, 1.36] \\ 
+  6 & Premise2 Strength & 0.03 [-0.32, 0.38] & 0.18 & .86 & 1.03 [0.73, 1.47] \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+
+### Exp 3 (Semantic Relatedness) Nested Models: Full vs. no trial type (Related / Unrelated)
+Data: data
+Models:
+M3.models$M3.RU.randInt.notrialtype: Response ~ RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M3.models$M3.RU.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+                                    npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)   
+M3.models$M3.RU.randInt.notrialtype    8 599.64 636.54 -291.82   583.64                        
+M3.models$M3.RU.randInt.full           9 594.71 636.22 -288.36   576.71 6.9292  1    0.00848 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 3 (Semantic Relatedness) LRT prose for paper: Full vs. no trial type (Related / Unrelated)
+$\chi^2(1) = 6.93, \textit{p} = 0.008$ 

@@ -1,0 +1,2341 @@
+SubjTrial,SubjectID,ExpNum,ItemNum,Response,TargetWord,TrialType,Syllogism,ListNum,digitMatch,RT,SyllogismSimple,ExpectedResponse,ResponseWasCorrect,excl.subj,excl.trial
+1_1,1,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,3873,Dimatis,0,1,0,0
+1_2,1,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,8014,Barbara,0,1,0,0
+1_3,1,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,5279,Barbara,1,1,0,0
+1_4,1,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,3132,Darii,0,1,0,0
+1_5,1,Pilot-1,5,0,classes,Polysemy,Disamis,2,NA,3967,Disamis,0,1,0,0
+1_6,1,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,6051,Barbara,1,1,0,0
+1_7,1,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3398,Datisi,0,1,0,0
+1_8,1,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2555,Disamis,0,1,0,0
+1_9,1,Pilot-1,9,1,stones,Invalid Filler,Datisi*,2,NA,36962,Datisi,0,0,0,0
+1_10,1,Pilot-1,10,0,phones,Valid Filler,Barbara,2,NA,4077,Barbara,1,0,0,0
+1_11,1,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3193,Datisi,0,0,0,0
+1_12,1,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,3996,Datisi,0,1,0,0
+1_13,1,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,3852,Datisi,0,1,0,0
+1_14,1,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,5161,Darii,1,1,0,0
+1_15,1,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,2860,Disamis,0,0,0,0
+1_16,1,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,3148,Datisi,1,1,0,0
+1_17,1,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2361,Disamis,1,1,0,0
+1_18,1,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,4271,Darii,0,1,0,0
+1_19,1,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,8781,Dimatis,1,1,0,0
+1_20,1,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,3491,Dimatis,0,1,0,0
+1_21,1,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,3145,Datisi,1,1,0,0
+1_22,1,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2128,Datisi,1,1,0,0
+1_23,1,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,3856,Dimatis,0,1,0,0
+1_24,1,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,36887,Dimatis,0,1,0,0
+1_25,1,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,2890,Dimatis,1,1,0,0
+1_26,1,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,2836,Darii,0,1,0,0
+1_27,1,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2834,Darii,1,1,0,0
+1_28,1,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2660,Disamis,1,1,0,0
+1_29,1,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,3772,Barbara,0,1,0,0
+1_30,1,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,3320,Disamis,1,1,0,0
+1_31,1,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,3177,Dimatis,0,1,0,0
+1_32,1,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,2442,Darii,0,1,0,0
+1_33,1,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,3234,Darii,1,1,0,0
+1_34,1,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2782,Dimatis,0,1,0,0
+1_35,1,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,4471,Barbara,0,1,0,0
+1_36,1,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2492,Darii,1,1,0,0
+1_37,1,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,3058,Disamis,0,1,0,0
+1_38,1,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,2611,Disamis,0,0,0,0
+1_39,1,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2714,Barbara,0,1,0,0
+1_40,1,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,2348,Darii,0,1,0,0
+1_41,1,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2495,Datisi,0,1,0,0
+1_42,1,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,3530,Barbara,1,0,0,0
+1_43,1,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,2667,Disamis,0,1,0,0
+1_44,1,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2556,Darii,0,1,0,0
+1_45,1,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3415,Dimatis,1,1,0,0
+1_46,1,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2484,Disamis,0,1,0,0
+1_47,1,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2708,Datisi,1,1,0,0
+1_48,1,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2200,Barbara,0,1,0,0
+1_49,1,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2361,Barbara,0,1,0,0
+1_50,1,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,2960,Darii,0,0,0,0
+1_51,1,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2631,Barbara,0,1,0,0
+1_52,1,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2388,Dimatis,1,1,0,0
+1_53,1,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,3249,Dimatis,0,1,0,0
+1_54,1,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2449,Datisi,0,1,0,0
+1_55,1,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,2466,Dimatis,0,1,0,0
+1_56,1,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,2660,Datisi,0,1,0,0
+1_57,1,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2315,Disamis,1,1,0,0
+1_58,1,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3635,Disamis,0,0,0,0
+1_59,1,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2285,Barbara,0,1,0,0
+1_60,1,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2579,Darii,0,1,0,0
+2_1,2,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,5503,Dimatis,0,1,0,0
+2_2,2,Pilot-1,2,1,clocks,Invalid Filler,Barbara*,2,NA,8286,Barbara,0,0,0,0
+2_3,2,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,8190,Barbara,1,1,0,0
+2_4,2,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,3080,Darii,0,1,0,0
+2_5,2,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,6315,Disamis,0,0,0,0
+2_6,2,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,5312,Barbara,1,1,0,0
+2_7,2,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3415,Datisi,0,1,0,0
+2_8,2,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2800,Disamis,0,1,0,0
+2_9,2,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,5054,Datisi,0,1,0,0
+2_10,2,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3405,Barbara,1,1,0,0
+2_11,2,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,4697,Datisi,0,0,0,0
+2_12,2,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,3781,Datisi,0,1,0,0
+2_13,2,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,5967,Datisi,0,1,0,0
+2_14,2,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,5606,Darii,1,1,0,0
+2_15,2,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,18013,Disamis,0,0,0,0
+2_16,2,Pilot-1,16,0,ponies,Valid Filler,Datisi,2,NA,2751,Datisi,1,0,0,0
+2_17,2,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2019,Disamis,1,1,0,0
+2_18,2,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2757,Darii,0,1,0,0
+2_19,2,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1760,Dimatis,1,1,0,0
+2_20,2,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,4794,Dimatis,0,1,0,0
+2_21,2,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2550,Datisi,1,1,0,0
+2_22,2,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1644,Datisi,1,1,0,0
+2_23,2,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,3049,Dimatis,0,1,0,0
+2_24,2,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,8198,Dimatis,0,1,0,0
+2_25,2,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1819,Dimatis,1,1,0,0
+2_26,2,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,2226,Darii,0,1,0,0
+2_27,2,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,1981,Darii,1,1,0,0
+2_28,2,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1593,Disamis,1,1,0,0
+2_29,2,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,1703,Barbara,0,1,0,0
+2_30,2,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2696,Disamis,1,1,0,0
+2_31,2,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,8398,Dimatis,0,1,0,0
+2_32,2,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,6050,Darii,0,1,0,0
+2_33,2,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2267,Darii,1,1,0,0
+2_34,2,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,1910,Dimatis,0,1,0,0
+2_35,2,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2165,Barbara,0,1,0,0
+2_36,2,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,1999,Darii,1,1,0,0
+2_37,2,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,2122,Disamis,0,0,0,0
+2_38,2,Pilot-1,38,0,examinations,Polysemy,Disamis,2,NA,4680,Disamis,0,1,0,0
+2_39,2,Pilot-1,39,1,admissions,Homonymy,Barbara,2,NA,3150,Barbara,0,0,0,0
+2_40,2,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,5447,Darii,0,0,0,0
+2_41,2,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,4599,Datisi,0,1,0,0
+2_42,2,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,4195,Barbara,1,1,0,0
+2_43,2,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,2858,Disamis,0,1,0,0
+2_44,2,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,5704,Darii,0,1,0,0
+2_45,2,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,4676,Dimatis,1,1,0,0
+2_46,2,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2080,Disamis,0,1,0,0
+2_47,2,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3211,Datisi,1,1,0,0
+2_48,2,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3973,Barbara,0,1,0,0
+2_49,2,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2778,Barbara,0,1,0,0
+2_50,2,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,4663,Darii,0,1,0,0
+2_51,2,Pilot-1,51,1,dinners,Polysemy,Barbara,2,NA,2652,Barbara,0,0,0,0
+2_52,2,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1986,Dimatis,1,1,0,0
+2_53,2,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,11112,Dimatis,0,1,0,0
+2_54,2,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2519,Datisi,0,1,0,0
+2_55,2,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,4379,Dimatis,0,1,0,0
+2_56,2,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,4526,Datisi,0,1,0,0
+2_57,2,Pilot-1,57,0,burgers,Valid Filler,Disamis,2,NA,11106,Disamis,1,0,0,0
+2_58,2,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,4738,Disamis,0,0,0,0
+2_59,2,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2065,Barbara,0,1,0,0
+2_60,2,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,1962,Darii,0,1,0,0
+3_1,3,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,4456,Datisi,1,1,0,0
+3_2,3,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3215,Disamis,1,1,0,0
+3_3,3,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,8935,Darii,0,1,0,0
+3_4,3,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,4656,Dimatis,1,1,0,0
+3_5,3,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,4333,Datisi,1,1,0,0
+3_6,3,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3982,Darii,1,1,0,0
+3_7,3,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,6538,Darii,1,1,0,0
+3_8,3,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,4961,Disamis,0,1,0,0
+3_9,3,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,4845,Disamis,0,1,0,0
+3_10,3,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,10459,Barbara,0,1,0,0
+3_11,3,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,11614,Disamis,1,1,0,0
+3_12,3,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,5979,Datisi,0,1,0,0
+3_13,3,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,6436,Dimatis,0,1,0,0
+3_14,3,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,11781,Dimatis,0,1,0,0
+3_15,3,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,2712,Datisi,0,1,0,0
+3_16,3,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,33987,Datisi,0,1,0,0
+3_17,3,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,5971,Barbara,0,1,0,0
+3_18,3,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,21264,Barbara,1,1,0,0
+3_19,3,Pilot-1,19,1,spices,Invalid Filler,Dimatis*,1,NA,7483,Dimatis,0,0,0,0
+3_20,3,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,5271,Darii,0,1,0,0
+3_21,3,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,6929,Barbara,0,1,0,0
+3_22,3,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,4721,Dimatis,1,1,0,0
+3_23,3,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,6637,Dimatis,0,0,0,0
+3_24,3,Pilot-1,24,1,colors,Invalid Filler,Disamis*,1,NA,7436,Disamis,0,0,0,0
+3_25,3,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,5135,Disamis,0,0,0,0
+3_26,3,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,4426,Darii,0,1,0,0
+3_27,3,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,33024,Barbara,1,1,0,0
+3_28,3,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,2582,Barbara,1,1,0,0
+3_29,3,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3163,Dimatis,0,1,0,0
+3_30,3,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,4766,Barbara,0,1,0,0
+3_31,3,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,4607,Disamis,0,1,0,0
+3_32,3,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3612,Disamis,1,1,0,0
+3_33,3,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,2536,Disamis,1,1,0,0
+3_34,3,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,3621,Datisi,1,1,0,0
+3_35,3,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,2673,Datisi,1,1,0,0
+3_36,3,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2686,Dimatis,1,1,0,0
+3_37,3,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,1,NA,2429,Disamis,0,0,0,0
+3_38,3,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2367,Darii,1,1,0,0
+3_39,3,Pilot-1,39,1,injuries,Invalid Filler,Dimatis*,1,NA,4015,Dimatis,0,0,0,0
+3_40,3,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,5977,Dimatis,0,0,0,0
+3_41,3,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,8223,Darii,0,0,0,0
+3_42,3,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,6297,Datisi,0,1,0,0
+3_43,3,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3921,Datisi,0,1,0,0
+3_44,3,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3437,Barbara,0,1,0,0
+3_45,3,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,7929,Barbara,0,1,0,0
+3_46,3,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,10173,Datisi,0,1,0,0
+3_47,3,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,10549,Darii,0,1,0,0
+3_48,3,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2568,Dimatis,1,1,0,0
+3_49,3,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,3669,Disamis,0,0,0,0
+3_50,3,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,6492,Barbara,1,0,0,0
+3_51,3,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3840,Darii,0,1,0,0
+3_52,3,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,31996,Dimatis,0,1,0,0
+3_53,3,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,3441,Darii,0,1,0,0
+3_54,3,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3414,Disamis,0,1,0,0
+3_55,3,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3083,Datisi,0,1,0,0
+3_56,3,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,14750,Datisi,0,1,0,0
+3_57,3,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,8507,Darii,1,1,0,0
+3_58,3,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4767,Darii,0,1,0,0
+3_59,3,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,3593,Barbara,0,1,0,0
+3_60,3,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,26778,Barbara,0,1,0,0
+4_1,4,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,5501,Dimatis,0,1,0,0
+4_2,4,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,5594,Barbara,0,1,0,0
+4_3,4,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,4052,Barbara,1,1,0,0
+4_4,4,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,6025,Darii,0,0,0,0
+4_5,4,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,5012,Disamis,0,0,0,0
+4_6,4,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4516,Barbara,1,1,0,0
+4_7,4,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3565,Datisi,0,1,0,0
+4_8,4,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,4158,Disamis,0,1,0,0
+4_9,4,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,3747,Datisi,0,1,0,0
+4_10,4,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3308,Barbara,1,1,0,0
+4_11,4,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,6020,Datisi,0,0,0,0
+4_12,4,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,4646,Datisi,0,0,0,0
+4_13,4,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,4789,Datisi,0,1,0,0
+4_14,4,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3037,Darii,1,1,0,0
+4_15,4,Pilot-1,15,0,dates,Homonymy,Disamis,2,NA,4484,Disamis,0,1,0,0
+4_16,4,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,3869,Datisi,1,1,0,0
+4_17,4,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,3381,Disamis,1,1,0,0
+4_18,4,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,3732,Darii,0,1,0,0
+4_19,4,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2612,Dimatis,1,1,0,0
+4_20,4,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,5675,Dimatis,0,1,0,0
+4_21,4,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,4477,Datisi,1,1,0,0
+4_22,4,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3142,Datisi,1,1,0,0
+4_23,4,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,6068,Dimatis,0,1,0,0
+4_24,4,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,4045,Dimatis,0,1,0,0
+4_25,4,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,19533,Dimatis,1,1,0,0
+4_26,4,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,3909,Darii,0,0,0,0
+4_27,4,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2717,Darii,1,1,0,0
+4_28,4,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,3117,Disamis,1,1,0,0
+4_29,4,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,3942,Barbara,0,1,0,0
+4_30,4,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,4239,Disamis,1,1,0,0
+4_31,4,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,5693,Dimatis,0,1,0,0
+4_32,4,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,5979,Darii,0,1,0,0
+4_33,4,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,4636,Darii,1,1,0,0
+4_34,4,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,4758,Dimatis,0,1,0,0
+4_35,4,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,4140,Barbara,0,1,0,0
+4_36,4,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,3061,Darii,1,1,0,0
+4_37,4,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,5133,Disamis,0,0,0,0
+4_38,4,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,35351,Disamis,0,0,0,0
+4_39,4,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,3867,Barbara,0,1,0,0
+4_40,4,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,3629,Darii,0,1,0,0
+4_41,4,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,5181,Datisi,0,1,0,0
+4_42,4,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,3138,Barbara,1,1,0,0
+4_43,4,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,5662,Disamis,0,1,0,0
+4_44,4,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,9541,Darii,0,1,0,0
+4_45,4,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3028,Dimatis,1,1,0,0
+4_46,4,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,3684,Disamis,0,1,0,0
+4_47,4,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3277,Datisi,1,1,0,0
+4_48,4,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3134,Barbara,0,1,0,0
+4_49,4,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,3371,Barbara,0,1,0,0
+4_50,4,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,8013,Darii,0,0,0,0
+4_51,4,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3125,Barbara,0,1,0,0
+4_52,4,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2300,Dimatis,1,1,0,0
+4_53,4,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,3949,Dimatis,0,0,0,0
+4_54,4,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,6822,Datisi,0,1,0,0
+4_55,4,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,3811,Dimatis,0,0,0,0
+4_56,4,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,3783,Datisi,0,0,0,0
+4_57,4,Pilot-1,57,0,burgers,Valid Filler,Disamis,2,NA,4884,Disamis,1,0,0,0
+4_58,4,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3854,Disamis,0,0,0,0
+4_59,4,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2871,Barbara,0,1,0,0
+4_60,4,Pilot-1,60,1,tapes,Homonymy,Darii,2,NA,4020,Darii,0,0,0,0
+5_1,5,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,3941,Dimatis,0,1,0,0
+5_2,5,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,9506,Barbara,0,1,0,0
+5_3,5,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,4363,Barbara,1,1,0,0
+5_4,5,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,4116,Darii,0,1,0,0
+5_5,5,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,4756,Disamis,0,0,0,0
+5_6,5,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4196,Barbara,1,1,0,0
+5_7,5,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3481,Datisi,0,1,0,0
+5_8,5,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,3316,Disamis,0,1,0,0
+5_9,5,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,4110,Datisi,0,1,0,0
+5_10,5,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3806,Barbara,1,1,0,0
+5_11,5,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3359,Datisi,0,0,0,0
+5_12,5,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,3200,Datisi,0,1,0,0
+5_13,5,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,5671,Datisi,0,0,0,0
+5_14,5,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3428,Darii,1,1,0,0
+5_15,5,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,8253,Disamis,0,0,0,0
+5_16,5,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,3636,Datisi,1,1,0,0
+5_17,5,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,3220,Disamis,1,1,0,0
+5_18,5,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,3337,Darii,0,1,0,0
+5_19,5,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2948,Dimatis,1,1,0,0
+5_20,5,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,3652,Dimatis,0,1,0,0
+5_21,5,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,3242,Datisi,1,1,0,0
+5_22,5,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2758,Datisi,1,1,0,0
+5_23,5,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,5054,Dimatis,0,1,0,0
+5_24,5,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,3424,Dimatis,0,1,0,0
+5_25,5,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,3691,Dimatis,1,1,0,0
+5_26,5,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,9999,Darii,0,1,0,0
+5_27,5,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,3405,Darii,1,1,0,0
+5_28,5,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,3042,Disamis,1,1,0,0
+5_29,5,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,3104,Barbara,0,1,0,0
+5_30,5,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,3741,Disamis,1,1,0,0
+5_31,5,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,5756,Dimatis,0,1,0,0
+5_32,5,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,7320,Darii,0,0,0,0
+5_33,5,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2974,Darii,1,1,0,0
+5_34,5,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,3085,Dimatis,0,1,0,0
+5_35,5,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,3574,Barbara,0,1,0,0
+5_36,5,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,3869,Darii,1,1,0,0
+5_37,5,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,4248,Disamis,0,1,0,0
+5_38,5,Pilot-1,38,0,examinations,Polysemy,Disamis,2,NA,4433,Disamis,0,1,0,0
+5_39,5,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,4558,Barbara,0,1,0,0
+5_40,5,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,3092,Darii,0,1,0,0
+5_41,5,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,3341,Datisi,0,1,0,0
+5_42,5,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,7015,Barbara,1,0,0,0
+5_43,5,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3594,Disamis,0,1,0,0
+5_44,5,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,3121,Darii,0,1,0,0
+5_45,5,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3630,Dimatis,1,1,0,0
+5_46,5,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,3069,Disamis,0,1,0,0
+5_47,5,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3219,Datisi,1,1,0,0
+5_48,5,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3742,Barbara,0,1,0,0
+5_49,5,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2765,Barbara,0,1,0,0
+5_50,5,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,3348,Darii,0,1,0,0
+5_51,5,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,4665,Barbara,0,1,0,0
+5_52,5,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,3049,Dimatis,1,1,0,0
+5_53,5,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,3525,Dimatis,0,1,0,0
+5_54,5,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,3129,Datisi,0,1,0,0
+5_55,5,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,3597,Dimatis,0,1,0,0
+5_56,5,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,3329,Datisi,0,1,0,0
+5_57,5,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,3310,Disamis,1,1,0,0
+5_58,5,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,6651,Disamis,0,0,0,0
+5_59,5,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2684,Barbara,0,1,0,0
+5_60,5,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,3063,Darii,0,1,0,0
+6_1,6,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,4121,Datisi,1,1,0,0
+6_2,6,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,5073,Disamis,1,1,0,0
+6_3,6,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,6131,Darii,0,1,0,0
+6_4,6,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,3531,Dimatis,1,1,0,0
+6_5,6,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,3240,Datisi,1,1,0,0
+6_6,6,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3488,Darii,1,1,0,0
+6_7,6,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,3841,Darii,1,1,0,0
+6_8,6,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,3784,Disamis,0,1,0,0
+6_9,6,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,4562,Disamis,0,1,0,0
+6_10,6,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,6619,Barbara,0,1,0,0
+6_11,6,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,4326,Disamis,1,1,0,0
+6_12,6,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,5224,Datisi,0,1,0,0
+6_13,6,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,8460,Dimatis,0,1,0,0
+6_14,6,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,5068,Dimatis,0,1,0,0
+6_15,6,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4234,Datisi,0,1,0,0
+6_16,6,Pilot-1,16,1,oil,Polysemy,Datisi,1,NA,4056,Datisi,0,0,0,0
+6_17,6,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,2792,Barbara,0,1,0,0
+6_18,6,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,69893,Barbara,1,1,0,0
+6_19,6,Pilot-1,19,1,spices,Invalid Filler,Dimatis*,1,NA,8303,Dimatis,0,0,0,0
+6_20,6,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,3056,Darii,0,1,0,0
+6_21,6,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,6604,Barbara,0,1,0,0
+6_22,6,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,4434,Dimatis,1,1,0,0
+6_23,6,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,4585,Dimatis,0,1,0,0
+6_24,6,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,5027,Disamis,0,1,0,0
+6_25,6,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,5019,Disamis,0,0,0,0
+6_26,6,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,4466,Darii,0,1,0,0
+6_27,6,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,3986,Barbara,1,1,0,0
+6_28,6,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,3008,Barbara,1,0,0,0
+6_29,6,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3789,Dimatis,0,1,0,0
+6_30,6,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,3801,Barbara,0,1,0,0
+6_31,6,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,3657,Disamis,0,0,0,0
+6_32,6,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2799,Disamis,1,1,0,0
+6_33,6,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,2905,Disamis,1,1,0,0
+6_34,6,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,2839,Datisi,1,1,0,0
+6_35,6,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,2729,Datisi,1,1,0,0
+6_36,6,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2431,Dimatis,1,1,0,0
+6_37,6,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3232,Disamis,0,1,0,0
+6_38,6,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3170,Darii,1,1,0,0
+6_39,6,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,5746,Dimatis,0,1,0,0
+6_40,6,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,3345,Dimatis,0,1,0,0
+6_41,6,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,4306,Darii,0,0,0,0
+6_42,6,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3931,Datisi,0,1,0,0
+6_43,6,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3802,Datisi,0,1,0,0
+6_44,6,Pilot-1,44,1,movements,Homonymy,Barbara,1,NA,5180,Barbara,0,0,0,0
+6_45,6,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2687,Barbara,0,1,0,0
+6_46,6,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,3878,Datisi,0,0,0,0
+6_47,6,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,5817,Darii,0,0,0,0
+6_48,6,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2737,Dimatis,1,1,0,0
+6_49,6,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,3725,Disamis,0,0,0,0
+6_50,6,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,6480,Barbara,1,0,0,0
+6_51,6,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,4202,Darii,0,1,0,0
+6_52,6,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,3113,Dimatis,0,1,0,0
+6_53,6,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,3993,Darii,0,1,0,0
+6_54,6,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,2628,Disamis,0,1,0,0
+6_55,6,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3376,Datisi,0,1,0,0
+6_56,6,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,1,NA,5541,Datisi,0,0,0,0
+6_57,6,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,3931,Darii,1,1,0,0
+6_58,6,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4026,Darii,0,1,0,0
+6_59,6,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,2784,Barbara,0,1,0,0
+6_60,6,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3397,Barbara,0,1,0,0
+7_1,7,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,7869,Datisi,1,1,0,0
+7_2,7,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,6648,Disamis,1,1,0,0
+7_3,7,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,5710,Darii,0,1,0,0
+7_4,7,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,7659,Dimatis,1,1,0,0
+7_5,7,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,3724,Datisi,1,1,0,0
+7_6,7,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3466,Darii,1,1,0,0
+7_7,7,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,3514,Darii,1,1,0,0
+7_8,7,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,27158,Disamis,0,1,0,0
+7_9,7,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,10718,Disamis,0,1,0,0
+7_10,7,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,8659,Barbara,0,1,0,0
+7_11,7,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3803,Disamis,1,1,0,0
+7_12,7,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,9164,Datisi,0,1,0,0
+7_13,7,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,3105,Dimatis,0,1,0,0
+7_14,7,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,3709,Dimatis,0,1,0,0
+7_15,7,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,6850,Datisi,0,1,0,0
+7_16,7,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,3623,Datisi,0,1,0,0
+7_17,7,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,17924,Barbara,0,1,0,0
+7_18,7,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,3227,Barbara,1,1,0,0
+7_19,7,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,19924,Dimatis,0,1,0,0
+7_20,7,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,3639,Darii,0,0,0,0
+7_21,7,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,12472,Barbara,0,1,0,0
+7_22,7,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,6451,Dimatis,1,1,0,0
+7_23,7,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,15532,Dimatis,0,1,0,0
+7_24,7,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,7809,Disamis,0,1,0,0
+7_25,7,Pilot-1,25,0,examinations,Polysemy,Disamis,1,NA,10480,Disamis,0,1,0,0
+7_26,7,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,2225,Darii,0,1,0,0
+7_27,7,Pilot-1,27,0,dinosaurs,Valid Filler,Barbara,1,NA,3258,Barbara,1,0,0,0
+7_28,7,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,4079,Barbara,1,1,0,0
+7_29,7,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,7581,Dimatis,0,1,0,0
+7_30,7,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,6077,Barbara,0,1,0,0
+7_31,7,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,5687,Disamis,0,0,0,0
+7_32,7,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2919,Disamis,1,1,0,0
+7_33,7,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,4881,Disamis,1,1,0,0
+7_34,7,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,2945,Datisi,1,1,0,0
+7_35,7,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,3712,Datisi,1,1,0,0
+7_36,7,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2863,Dimatis,1,1,0,0
+7_37,7,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,6211,Disamis,0,1,0,0
+7_38,7,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,4273,Darii,1,1,0,0
+7_39,7,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,4855,Dimatis,0,1,0,0
+7_40,7,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,6680,Dimatis,0,0,0,0
+7_41,7,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,5493,Darii,0,0,0,0
+7_42,7,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3317,Datisi,0,1,0,0
+7_43,7,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,5181,Datisi,0,1,0,0
+7_44,7,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,6069,Barbara,0,1,0,0
+7_45,7,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,3039,Barbara,0,1,0,0
+7_46,7,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,5019,Datisi,0,1,0,0
+7_47,7,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,6493,Darii,0,1,0,0
+7_48,7,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2959,Dimatis,1,1,0,0
+7_49,7,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,5954,Disamis,0,0,0,0
+7_50,7,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,5465,Barbara,1,1,0,0
+7_51,7,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3291,Darii,0,1,0,0
+7_52,7,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,7297,Dimatis,0,0,0,0
+7_53,7,Pilot-1,53,1,dances,Invalid Filler,Darii*,1,NA,4341,Darii,0,0,0,0
+7_54,7,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3519,Disamis,0,1,0,0
+7_55,7,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3259,Datisi,0,1,0,0
+7_56,7,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,3591,Datisi,0,1,0,0
+7_57,7,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,4068,Darii,1,1,0,0
+7_58,7,Pilot-1,58,1,mothers,Invalid Filler,Darii*,1,NA,4955,Darii,0,0,0,0
+7_59,7,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,6015,Barbara,0,1,0,0
+7_60,7,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3283,Barbara,0,1,0,0
+8_1,8,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,31516,Dimatis,0,1,0,0
+8_2,8,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,27133,Barbara,0,1,0,0
+8_3,8,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,13935,Barbara,1,1,0,0
+8_4,8,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,18813,Darii,0,1,0,0
+8_5,8,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,17474,Disamis,0,0,0,0
+8_6,8,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,8418,Barbara,1,1,0,0
+8_7,8,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,5477,Datisi,0,1,0,0
+8_8,8,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,6186,Disamis,0,1,0,0
+8_9,8,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,3341,Datisi,0,1,0,0
+8_10,8,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,2856,Barbara,1,1,0,0
+8_11,8,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3129,Datisi,0,0,0,0
+8_12,8,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,6396,Datisi,0,1,0,0
+8_13,8,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,3841,Datisi,0,1,0,0
+8_14,8,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3617,Darii,1,1,0,0
+8_15,8,Pilot-1,15,0,dates,Homonymy,Disamis,2,NA,3498,Disamis,0,1,0,0
+8_16,8,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,15462,Datisi,1,1,0,0
+8_17,8,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2804,Disamis,1,1,0,0
+8_18,8,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,4548,Darii,0,1,0,0
+8_19,8,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2655,Dimatis,1,1,0,0
+8_20,8,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,3633,Dimatis,0,1,0,0
+8_21,8,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,7116,Datisi,1,1,0,0
+8_22,8,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3521,Datisi,1,1,0,0
+8_23,8,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,4681,Dimatis,0,1,0,0
+8_24,8,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,7111,Dimatis,0,1,0,0
+8_25,8,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,3352,Dimatis,1,1,0,0
+8_26,8,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,5491,Darii,0,1,0,0
+8_27,8,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2664,Darii,1,1,0,0
+8_28,8,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,3588,Disamis,1,1,0,0
+8_29,8,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,4531,Barbara,0,1,0,0
+8_30,8,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,3722,Disamis,1,1,0,0
+8_31,8,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,16818,Dimatis,0,0,0,0
+8_32,8,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,8787,Darii,0,1,0,0
+8_33,8,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,3112,Darii,1,1,0,0
+8_34,8,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,3128,Dimatis,0,1,0,0
+8_35,8,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2892,Barbara,0,1,0,0
+8_36,8,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,3057,Darii,1,1,0,0
+8_37,8,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,5782,Disamis,0,1,0,0
+8_38,8,Pilot-1,38,0,examinations,Polysemy,Disamis,2,NA,8711,Disamis,0,1,0,0
+8_39,8,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,7485,Barbara,0,1,0,0
+8_40,8,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,2831,Darii,0,1,0,0
+8_41,8,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,5108,Datisi,0,1,0,0
+8_42,8,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,15205,Barbara,1,1,0,0
+8_43,8,Pilot-1,43,1,colors,Invalid Filler,Disamis*,2,NA,7831,Disamis,0,0,0,0
+8_44,8,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2931,Darii,0,1,0,0
+8_45,8,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,4723,Dimatis,1,1,0,0
+8_46,8,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,1853,Disamis,0,1,0,0
+8_47,8,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3730,Datisi,1,1,0,0
+8_48,8,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2267,Barbara,0,1,0,0
+8_49,8,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,4451,Barbara,0,1,0,0
+8_50,8,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,4003,Darii,0,0,0,0
+8_51,8,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,5943,Barbara,0,1,0,0
+8_52,8,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,3394,Dimatis,1,1,0,0
+8_53,8,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,3609,Dimatis,0,0,0,0
+8_54,8,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,3582,Datisi,0,1,0,0
+8_55,8,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,2936,Dimatis,0,1,0,0
+8_56,8,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,9569,Datisi,0,1,0,0
+8_57,8,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2728,Disamis,1,1,0,0
+8_58,8,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,8227,Disamis,0,1,0,0
+8_59,8,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,3361,Barbara,0,1,0,0
+8_60,8,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2599,Darii,0,1,0,0
+9_1,9,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,4199,Dimatis,0,1,0,0
+9_2,9,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,4573,Barbara,0,1,0,0
+9_3,9,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,6161,Barbara,1,1,0,0
+9_4,9,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,8200,Darii,0,1,0,0
+9_5,9,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,6007,Disamis,0,0,0,0
+9_6,9,Pilot-1,6,0,negotiations,Valid Filler,Barbara,2,NA,5730,Barbara,1,0,0,0
+9_7,9,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3651,Datisi,0,1,0,0
+9_8,9,Pilot-1,8,1,arms,Homonymy,Disamis,2,NA,3998,Disamis,0,0,0,0
+9_9,9,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,3270,Datisi,0,1,0,0
+9_10,9,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3069,Barbara,1,1,0,0
+9_11,9,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3234,Datisi,0,0,0,0
+9_12,9,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,5249,Datisi,0,0,0,0
+9_13,9,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,6897,Datisi,0,1,0,0
+9_14,9,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3392,Darii,1,1,0,0
+9_15,9,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,3448,Disamis,0,0,0,0
+9_16,9,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,3429,Datisi,1,1,0,0
+9_17,9,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2703,Disamis,1,1,0,0
+9_18,9,Pilot-1,18,1,subscriptions,Polysemy,Darii,2,NA,3495,Darii,0,0,0,0
+9_19,9,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2833,Dimatis,1,1,0,0
+9_20,9,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,5015,Dimatis,0,1,0,0
+9_21,9,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,4197,Datisi,1,1,0,0
+9_22,9,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3090,Datisi,1,1,0,0
+9_23,9,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,3072,Dimatis,0,1,0,0
+9_24,9,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,4391,Dimatis,0,1,0,0
+9_25,9,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,3578,Dimatis,1,1,0,0
+9_26,9,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,3651,Darii,0,0,0,0
+9_27,9,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2915,Darii,1,1,0,0
+9_28,9,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2408,Disamis,1,1,0,0
+9_29,9,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2498,Barbara,0,1,0,0
+9_30,9,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2824,Disamis,1,1,0,0
+9_31,9,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,4063,Dimatis,0,0,0,0
+9_32,9,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,5344,Darii,0,0,0,0
+9_33,9,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,11450,Darii,1,1,0,0
+9_34,9,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,5067,Dimatis,0,1,0,0
+9_35,9,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,3184,Barbara,0,1,0,0
+9_36,9,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,3146,Darii,1,1,0,0
+9_37,9,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,4274,Disamis,0,1,0,0
+9_38,9,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,3407,Disamis,0,0,0,0
+9_39,9,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,3722,Barbara,0,1,0,0
+9_40,9,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,3000,Darii,0,0,0,0
+9_41,9,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,4249,Datisi,0,1,0,0
+9_42,9,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,4803,Barbara,1,0,0,0
+9_43,9,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,4940,Disamis,0,1,0,0
+9_44,9,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,3957,Darii,0,1,0,0
+9_45,9,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3128,Dimatis,1,1,0,0
+9_46,9,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,3011,Disamis,0,1,0,0
+9_47,9,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3196,Datisi,1,1,0,0
+9_48,9,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,4482,Barbara,0,1,0,0
+9_49,9,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,3037,Barbara,0,1,0,0
+9_50,9,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,3371,Darii,0,0,0,0
+9_51,9,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3227,Barbara,0,1,0,0
+9_52,9,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,3383,Dimatis,1,1,0,0
+9_53,9,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,3875,Dimatis,0,1,0,0
+9_54,9,Pilot-1,54,1,panels,Homonymy,Datisi,2,NA,3863,Datisi,0,0,0,0
+9_55,9,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,4071,Dimatis,0,0,0,0
+9_56,9,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,4523,Datisi,0,1,0,0
+9_57,9,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,3454,Disamis,1,1,0,0
+9_58,9,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3784,Disamis,0,0,0,0
+9_59,9,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2736,Barbara,0,1,0,0
+9_60,9,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2365,Darii,0,1,0,0
+10_1,10,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,2893,Dimatis,0,1,0,0
+10_2,10,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3182,Barbara,0,1,0,0
+10_3,10,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,1930,Barbara,1,1,0,0
+10_4,10,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,3416,Darii,0,0,0,0
+10_5,10,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,3133,Disamis,0,0,0,0
+10_6,10,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4272,Barbara,1,1,0,0
+10_7,10,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,2401,Datisi,0,0,0,0
+10_8,10,Pilot-1,8,1,arms,Homonymy,Disamis,2,NA,4215,Disamis,0,0,0,0
+10_9,10,Pilot-1,9,1,stones,Invalid Filler,Datisi*,2,NA,2522,Datisi,0,0,0,0
+10_10,10,Pilot-1,10,0,phones,Valid Filler,Barbara,2,NA,4758,Barbara,1,0,0,0
+10_11,10,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,2116,Datisi,0,0,0,0
+10_12,10,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,4169,Datisi,0,0,0,0
+10_13,10,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,3102,Datisi,0,1,0,0
+10_14,10,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2503,Darii,1,1,0,0
+10_15,10,Pilot-1,15,0,dates,Homonymy,Disamis,2,NA,4324,Disamis,0,1,0,0
+10_16,10,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,7424,Datisi,1,1,0,0
+10_17,10,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,1712,Disamis,1,1,0,0
+10_18,10,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2709,Darii,0,1,0,0
+10_19,10,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1755,Dimatis,1,1,0,0
+10_20,10,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,4743,Dimatis,0,1,0,0
+10_21,10,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,1741,Datisi,1,1,0,0
+10_22,10,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1774,Datisi,1,1,0,0
+10_23,10,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,2157,Dimatis,0,1,0,0
+10_24,10,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,5624,Dimatis,0,1,0,0
+10_25,10,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1755,Dimatis,1,1,0,0
+10_26,10,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,3212,Darii,0,1,0,0
+10_27,10,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,1590,Darii,1,1,0,0
+10_28,10,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1436,Disamis,1,1,0,0
+10_29,10,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,1724,Barbara,0,1,0,0
+10_30,10,Pilot-1,30,0,swords,Valid Filler,Disamis,2,NA,1841,Disamis,1,0,0,0
+10_31,10,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,2771,Dimatis,0,1,0,0
+10_32,10,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,4469,Darii,0,0,0,0
+10_33,10,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2873,Darii,1,1,0,0
+10_34,10,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2421,Dimatis,0,1,0,0
+10_35,10,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2324,Barbara,0,1,0,0
+10_36,10,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,1805,Darii,1,1,0,0
+10_37,10,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,2316,Disamis,0,1,0,0
+10_38,10,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,3206,Disamis,0,0,0,0
+10_39,10,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2338,Barbara,0,1,0,0
+10_40,10,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,1885,Darii,0,1,0,0
+10_41,10,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2099,Datisi,0,1,0,0
+10_42,10,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,2993,Barbara,1,0,0,0
+10_43,10,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3455,Disamis,0,1,0,0
+10_44,10,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,4432,Darii,0,1,0,0
+10_45,10,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,2141,Dimatis,1,1,0,0
+10_46,10,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,1746,Disamis,0,1,0,0
+10_47,10,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,1834,Datisi,1,1,0,0
+10_48,10,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2795,Barbara,0,1,0,0
+10_49,10,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2416,Barbara,0,1,0,0
+10_50,10,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,7019,Darii,0,1,0,0
+10_51,10,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2312,Barbara,0,1,0,0
+10_52,10,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1604,Dimatis,1,1,0,0
+10_53,10,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,2322,Dimatis,0,1,0,0
+10_54,10,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2872,Datisi,0,1,0,0
+10_55,10,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,3507,Dimatis,0,0,0,0
+10_56,10,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,4369,Datisi,0,1,0,0
+10_57,10,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2056,Disamis,1,1,0,0
+10_58,10,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,1987,Disamis,0,1,0,0
+10_59,10,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,1822,Barbara,0,1,0,0
+10_60,10,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,1855,Darii,0,1,0,0
+11_1,11,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,4020,Datisi,1,1,0,0
+11_2,11,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3788,Disamis,1,1,0,0
+11_3,11,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,4324,Darii,0,1,0,0
+11_4,11,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,1679,Dimatis,1,1,0,0
+11_5,11,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,1594,Datisi,1,1,0,0
+11_6,11,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,2579,Darii,1,1,0,0
+11_7,11,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2793,Darii,1,1,0,0
+11_8,11,Pilot-1,8,1,arms,Homonymy,Disamis,1,NA,3899,Disamis,0,0,0,0
+11_9,11,Pilot-1,9,1,toilets,Invalid Filler,Disamis*,1,NA,3993,Disamis,0,0,0,0
+11_10,11,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,4476,Barbara,0,1,0,0
+11_11,11,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2563,Disamis,1,1,0,0
+11_12,11,Pilot-1,12,1,chickens,Polysemy,Datisi,1,NA,4806,Datisi,0,0,0,0
+11_13,11,Pilot-1,13,1,boards,Homonymy,Dimatis,1,NA,2962,Dimatis,0,0,0,0
+11_14,11,Pilot-1,14,1,foundations,Homonymy,Dimatis,1,NA,2163,Dimatis,0,0,0,0
+11_15,11,Pilot-1,15,1,panels,Homonymy,Datisi,1,NA,1917,Datisi,0,0,0,0
+11_16,11,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,1283,Datisi,0,1,0,0
+11_17,11,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,898,Barbara,0,1,0,0
+11_18,11,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,853,Barbara,1,1,0,0
+11_19,11,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,2455,Dimatis,0,1,0,0
+11_20,11,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,767,Darii,0,0,0,0
+11_21,11,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,1071,Barbara,0,1,0,0
+11_22,11,Pilot-1,22,0,suitcases,Valid Filler,Dimatis,1,NA,906,Dimatis,1,0,0,0
+11_23,11,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,898,Dimatis,0,1,0,0
+11_24,11,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,1003,Disamis,0,1,0,0
+11_25,11,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,865,Disamis,0,0,0,0
+11_26,11,Pilot-1,26,1,tapes,Homonymy,Darii,1,NA,1696,Darii,0,0,0,0
+11_27,11,Pilot-1,27,0,dinosaurs,Valid Filler,Barbara,1,NA,2268,Barbara,1,0,0,0
+11_28,11,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,1314,Barbara,1,0,0,0
+11_29,11,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,949,Dimatis,0,1,0,0
+11_30,11,Pilot-1,30,1,buildings,Invalid Filler,Barbara*,1,NA,1365,Barbara,0,0,0,0
+11_31,11,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,1169,Disamis,0,1,0,0
+11_32,11,Pilot-1,32,0,grapes,Valid Filler,Disamis,1,NA,791,Disamis,1,0,0,0
+11_33,11,Pilot-1,33,0,swords,Valid Filler,Disamis,1,NA,850,Disamis,1,0,0,0
+11_34,11,Pilot-1,34,0,ponies,Valid Filler,Datisi,1,NA,1043,Datisi,1,0,0,0
+11_35,11,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,1271,Datisi,1,1,0,0
+11_36,11,Pilot-1,36,0,widows,Valid Filler,Dimatis,1,NA,863,Dimatis,1,0,0,0
+11_37,11,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,1,NA,1778,Disamis,0,0,0,0
+11_38,11,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,940,Darii,1,1,0,0
+11_39,11,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,1382,Dimatis,0,1,0,0
+11_40,11,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,867,Dimatis,0,1,0,0
+11_41,11,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,2795,Darii,0,0,0,0
+11_42,11,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,1904,Datisi,0,1,0,0
+11_43,11,Pilot-1,43,1,columns,Homonymy,Datisi,1,NA,1346,Datisi,0,0,0,0
+11_44,11,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,1291,Barbara,0,1,0,0
+11_45,11,Pilot-1,45,1,organs,Invalid Filler,Barbara*,1,NA,1135,Barbara,0,0,0,0
+11_46,11,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,894,Datisi,0,1,0,0
+11_47,11,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,1864,Darii,0,1,0,0
+11_48,11,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,1131,Dimatis,1,1,0,0
+11_49,11,Pilot-1,49,0,classes,Polysemy,Disamis,1,NA,1167,Disamis,0,1,0,0
+11_50,11,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,2890,Barbara,1,0,0,0
+11_51,11,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3378,Darii,0,1,0,0
+11_52,11,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,1515,Dimatis,0,0,0,0
+11_53,11,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,727,Darii,0,1,0,0
+11_54,11,Pilot-1,54,1,shapes,Invalid Filler,Disamis*,1,NA,1032,Disamis,0,0,0,0
+11_55,11,Pilot-1,55,1,sausages,Invalid Filler,Datisi*,1,NA,1111,Datisi,0,0,0,0
+11_56,11,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,944,Datisi,0,1,0,0
+11_57,11,Pilot-1,57,0,singers,Valid Filler,Darii,1,NA,921,Darii,1,0,0,0
+11_58,11,Pilot-1,58,1,mothers,Invalid Filler,Darii*,1,NA,1652,Darii,0,0,0,0
+11_59,11,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,1614,Barbara,0,1,0,0
+11_60,11,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,2060,Barbara,0,1,0,0
+12_1,12,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,2573,Datisi,1,1,0,0
+12_2,12,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,2636,Disamis,1,1,0,0
+12_3,12,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,4056,Darii,0,1,0,0
+12_4,12,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2498,Dimatis,1,1,0,0
+12_5,12,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,1832,Datisi,1,1,0,0
+12_6,12,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,1937,Darii,1,1,0,0
+12_7,12,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2489,Darii,1,1,0,0
+12_8,12,Pilot-1,8,1,arms,Homonymy,Disamis,1,NA,3814,Disamis,0,0,0,0
+12_9,12,Pilot-1,9,1,toilets,Invalid Filler,Disamis*,1,NA,3339,Disamis,0,0,0,0
+12_10,12,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,3127,Barbara,0,1,0,0
+12_11,12,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2603,Disamis,1,1,0,0
+12_12,12,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,2819,Datisi,0,1,0,0
+12_13,12,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,2546,Dimatis,0,1,0,0
+12_14,12,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,1918,Dimatis,0,1,0,0
+12_15,12,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,1801,Datisi,0,1,0,0
+12_16,12,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,3341,Datisi,0,1,0,0
+12_17,12,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,1688,Barbara,0,1,0,0
+12_18,12,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,6285,Barbara,1,1,0,0
+12_19,12,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,2063,Dimatis,0,1,0,0
+12_20,12,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,5659,Darii,0,1,0,0
+12_21,12,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,1787,Barbara,0,1,0,0
+12_22,12,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,2769,Dimatis,1,1,0,0
+12_23,12,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,3193,Dimatis,0,1,0,0
+12_24,12,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,1970,Disamis,0,1,0,0
+12_25,12,Pilot-1,25,0,examinations,Polysemy,Disamis,1,NA,3844,Disamis,0,1,0,0
+12_26,12,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3034,Darii,0,1,0,0
+12_27,12,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,4732,Barbara,1,1,0,0
+12_28,12,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,3045,Barbara,1,1,0,0
+12_29,12,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,2942,Dimatis,0,1,0,0
+12_30,12,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,1606,Barbara,0,1,0,0
+12_31,12,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,4967,Disamis,0,0,0,0
+12_32,12,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,1675,Disamis,1,1,0,0
+12_33,12,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3511,Disamis,1,1,0,0
+12_34,12,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,2816,Datisi,1,1,0,0
+12_35,12,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,1963,Datisi,1,1,0,0
+12_36,12,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,1639,Dimatis,1,1,0,0
+12_37,12,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,2658,Disamis,0,1,0,0
+12_38,12,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,1626,Darii,1,1,0,0
+12_39,12,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,2633,Dimatis,0,1,0,0
+12_40,12,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,1919,Dimatis,0,1,0,0
+12_41,12,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,3646,Darii,0,1,0,0
+12_42,12,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,1916,Datisi,0,1,0,0
+12_43,12,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,1709,Datisi,0,1,0,0
+12_44,12,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3433,Barbara,0,1,0,0
+12_45,12,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,1435,Barbara,0,1,0,0
+12_46,12,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,2254,Datisi,0,0,0,0
+12_47,12,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,4523,Darii,0,0,0,0
+12_48,12,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2407,Dimatis,1,1,0,0
+12_49,12,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,2383,Disamis,0,0,0,0
+12_50,12,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,3372,Barbara,1,1,0,0
+12_51,12,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,2649,Darii,0,1,0,0
+12_52,12,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,2069,Dimatis,0,1,0,0
+12_53,12,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,2042,Darii,0,1,0,0
+12_54,12,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,1615,Disamis,0,1,0,0
+12_55,12,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,1614,Datisi,0,1,0,0
+12_56,12,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,2169,Datisi,0,1,0,0
+12_57,12,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,3341,Darii,1,1,0,0
+12_58,12,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,3289,Darii,0,1,0,0
+12_59,12,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,2263,Barbara,0,1,0,0
+12_60,12,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,2309,Barbara,0,1,0,0
+13_1,13,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,4147,Datisi,1,1,0,0
+13_2,13,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,4249,Disamis,1,1,0,0
+13_3,13,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,7202,Darii,0,1,0,0
+13_4,13,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2039,Dimatis,1,1,0,0
+13_5,13,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2781,Datisi,1,1,0,0
+13_6,13,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3624,Darii,1,1,0,0
+13_7,13,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2983,Darii,1,1,0,0
+13_8,13,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,7132,Disamis,0,1,0,0
+13_9,13,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,4978,Disamis,0,1,0,0
+13_10,13,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,5718,Barbara,0,1,0,0
+13_11,13,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3594,Disamis,1,1,0,0
+13_12,13,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,4851,Datisi,0,1,0,0
+13_13,13,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,9311,Dimatis,0,1,0,0
+13_14,13,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,4201,Dimatis,0,1,0,0
+13_15,13,Pilot-1,15,1,panels,Homonymy,Datisi,1,NA,7827,Datisi,0,0,0,0
+13_16,13,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,4672,Datisi,0,1,0,0
+13_17,13,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,3124,Barbara,0,1,0,0
+13_18,13,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,4322,Barbara,1,1,0,0
+13_19,13,Pilot-1,19,1,spices,Invalid Filler,Dimatis*,1,NA,4858,Dimatis,0,0,0,0
+13_20,13,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,7008,Darii,0,0,0,0
+13_21,13,Pilot-1,21,1,admissions,Homonymy,Barbara,1,NA,6553,Barbara,0,0,0,0
+13_22,13,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,2867,Dimatis,1,1,0,0
+13_23,13,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,4741,Dimatis,0,0,0,0
+13_24,13,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,3015,Disamis,0,1,0,0
+13_25,13,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,3967,Disamis,0,0,0,0
+13_26,13,Pilot-1,26,1,tapes,Homonymy,Darii,1,NA,4475,Darii,0,0,0,0
+13_27,13,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,4147,Barbara,1,1,0,0
+13_28,13,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,3414,Barbara,1,1,0,0
+13_29,13,Pilot-1,29,1,newspapers,Polysemy,Dimatis,1,NA,7688,Dimatis,0,0,0,0
+13_30,13,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,2398,Barbara,0,1,0,0
+13_31,13,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,4516,Disamis,0,0,0,0
+13_32,13,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2054,Disamis,1,1,0,0
+13_33,13,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3906,Disamis,1,1,0,0
+13_34,13,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,1820,Datisi,1,1,0,0
+13_35,13,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,2429,Datisi,1,1,0,0
+13_36,13,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2789,Dimatis,1,1,0,0
+13_37,13,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3928,Disamis,0,1,0,0
+13_38,13,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3047,Darii,1,1,0,0
+13_39,13,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,4303,Dimatis,0,1,0,0
+13_40,13,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,2163,Dimatis,0,0,0,0
+13_41,13,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,3733,Darii,0,0,0,0
+13_42,13,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3625,Datisi,0,1,0,0
+13_43,13,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,6422,Datisi,0,1,0,0
+13_44,13,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,2968,Barbara,0,1,0,0
+13_45,13,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2476,Barbara,0,1,0,0
+13_46,13,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,2368,Datisi,0,0,0,0
+13_47,13,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,2218,Darii,0,1,0,0
+13_48,13,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2094,Dimatis,1,1,0,0
+13_49,13,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,5320,Disamis,0,0,0,0
+13_50,13,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,6054,Barbara,1,1,0,0
+13_51,13,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,5398,Darii,0,1,0,0
+13_52,13,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,3235,Dimatis,0,1,0,0
+13_53,13,Pilot-1,53,1,dances,Invalid Filler,Darii*,1,NA,3214,Darii,0,0,0,0
+13_54,13,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,2627,Disamis,0,1,0,0
+13_55,13,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3539,Datisi,0,1,0,0
+13_56,13,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,4085,Datisi,0,1,0,0
+13_57,13,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,4107,Darii,1,1,0,0
+13_58,13,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,5086,Darii,0,1,0,0
+13_59,13,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,3142,Barbara,0,1,0,0
+13_60,13,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,4693,Barbara,0,1,0,0
+14_1,14,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,6220,Datisi,1,1,0,0
+14_2,14,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,5110,Disamis,1,1,0,0
+14_3,14,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,4852,Darii,0,1,0,0
+14_4,14,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,3091,Dimatis,1,1,0,0
+14_5,14,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2972,Datisi,1,1,0,0
+14_6,14,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,2882,Darii,1,1,0,0
+14_7,14,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2991,Darii,1,1,0,0
+14_8,14,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,5143,Disamis,0,1,0,0
+14_9,14,Pilot-1,9,1,toilets,Invalid Filler,Disamis*,1,NA,5736,Disamis,0,0,0,0
+14_10,14,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,5061,Barbara,0,1,0,0
+14_11,14,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3997,Disamis,1,1,0,0
+14_12,14,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,3653,Datisi,0,1,0,0
+14_13,14,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,2821,Dimatis,0,1,0,0
+14_14,14,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,3773,Dimatis,0,1,0,0
+14_15,14,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,3171,Datisi,0,1,0,0
+14_16,14,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,3793,Datisi,0,1,0,0
+14_17,14,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,3423,Barbara,0,1,0,0
+14_18,14,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,3634,Barbara,1,1,0,0
+14_19,14,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,4567,Dimatis,0,1,0,0
+14_20,14,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,4054,Darii,0,0,0,0
+14_21,14,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,3987,Barbara,0,1,0,0
+14_22,14,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,3264,Dimatis,1,1,0,0
+14_23,14,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,7005,Dimatis,0,1,0,0
+14_24,14,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,5858,Disamis,0,1,0,0
+14_25,14,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,4953,Disamis,0,0,0,0
+14_26,14,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3152,Darii,0,1,0,0
+14_27,14,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,5194,Barbara,1,1,0,0
+14_28,14,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,3942,Barbara,1,0,0,0
+14_29,14,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,4482,Dimatis,0,1,0,0
+14_30,14,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,5929,Barbara,0,1,0,0
+14_31,14,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,10108,Disamis,0,1,0,0
+14_32,14,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3212,Disamis,1,1,0,0
+14_33,14,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3052,Disamis,1,1,0,0
+14_34,14,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,3212,Datisi,1,1,0,0
+14_35,14,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,3273,Datisi,1,1,0,0
+14_36,14,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2831,Dimatis,1,1,0,0
+14_37,14,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,4393,Disamis,0,1,0,0
+14_38,14,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2976,Darii,1,1,0,0
+14_39,14,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,3161,Dimatis,0,1,0,0
+14_40,14,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,3912,Dimatis,0,0,0,0
+14_41,14,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,6199,Darii,0,0,0,0
+14_42,14,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3646,Datisi,0,1,0,0
+14_43,14,Pilot-1,43,1,columns,Homonymy,Datisi,1,NA,5457,Datisi,0,0,0,0
+14_44,14,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,4407,Barbara,0,1,0,0
+14_45,14,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2583,Barbara,0,1,0,0
+14_46,14,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,3050,Datisi,0,0,0,0
+14_47,14,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,4637,Darii,0,0,0,0
+14_48,14,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3317,Dimatis,1,1,0,0
+14_49,14,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,4232,Disamis,0,0,0,0
+14_50,14,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,7126,Barbara,1,0,0,0
+14_51,14,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,5875,Darii,0,0,0,0
+14_52,14,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,3693,Dimatis,0,1,0,0
+14_53,14,Pilot-1,53,1,dances,Invalid Filler,Darii*,1,NA,4293,Darii,0,0,0,0
+14_54,14,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,5323,Disamis,0,1,0,0
+14_55,14,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,2751,Datisi,0,1,0,0
+14_56,14,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,1,NA,6777,Datisi,0,0,0,0
+14_57,14,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,5285,Darii,1,1,0,0
+14_58,14,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4022,Darii,0,1,0,0
+14_59,14,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,5282,Barbara,0,1,0,0
+14_60,14,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3132,Barbara,0,1,0,0
+15_1,15,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,4976,Dimatis,0,1,1,1
+15_2,15,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3863,Barbara,0,1,1,1
+15_3,15,Pilot-1,3,0,whales,Valid Filler,Barbara,2,NA,3959,Barbara,1,0,1,1
+15_4,15,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,4704,Darii,0,0,1,1
+15_5,15,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,3280,Disamis,0,0,1,1
+15_6,15,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4399,Barbara,1,1,1,1
+15_7,15,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,3119,Datisi,0,0,1,1
+15_8,15,Pilot-1,8,1,arms,Homonymy,Disamis,2,NA,3095,Disamis,0,0,1,1
+15_9,15,Pilot-1,9,1,stones,Invalid Filler,Datisi*,2,NA,5080,Datisi,0,0,1,1
+15_10,15,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,2648,Barbara,1,1,1,1
+15_11,15,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3216,Datisi,0,0,1,1
+15_12,15,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,3608,Datisi,0,0,1,1
+15_13,15,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,3266,Datisi,0,0,1,1
+15_14,15,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2240,Darii,1,1,1,1
+15_15,15,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,6048,Disamis,0,0,1,1
+15_16,15,Pilot-1,16,0,ponies,Valid Filler,Datisi,2,NA,2520,Datisi,1,0,1,1
+15_17,15,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2344,Disamis,1,1,1,1
+15_18,15,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2552,Darii,0,1,1,1
+15_19,15,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,3264,Dimatis,1,1,1,1
+15_20,15,Pilot-1,20,1,injuries,Invalid Filler,Dimatis*,2,NA,2616,Dimatis,0,0,1,1
+15_21,15,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2328,Datisi,1,1,1,1
+15_22,15,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2072,Datisi,1,1,1,1
+15_23,15,Pilot-1,23,1,newspapers,Polysemy,Dimatis,2,NA,3960,Dimatis,0,0,1,1
+15_24,15,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,3448,Dimatis,0,0,1,1
+15_25,15,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,2256,Dimatis,1,1,1,1
+15_26,15,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,2767,Darii,0,0,1,1
+15_27,15,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2616,Darii,1,1,1,1
+15_28,15,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1832,Disamis,1,1,1,1
+15_29,15,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2016,Barbara,0,1,1,1
+15_30,15,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2328,Disamis,1,1,1,1
+15_31,15,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,2168,Dimatis,0,0,1,1
+15_32,15,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,4504,Darii,0,0,1,1
+15_33,15,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2776,Darii,1,1,1,1
+15_34,15,Pilot-1,34,1,foundations,Homonymy,Dimatis,2,NA,2752,Dimatis,0,0,1,1
+15_35,15,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2816,Barbara,0,1,1,1
+15_36,15,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2200,Darii,1,1,1,1
+15_37,15,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,2552,Disamis,0,0,1,1
+15_38,15,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,2640,Disamis,0,0,1,1
+15_39,15,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2360,Barbara,0,1,1,1
+15_40,15,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,1384,Darii,0,0,1,1
+15_41,15,Pilot-1,41,1,chickens,Polysemy,Datisi,2,NA,1536,Datisi,0,0,1,1
+15_42,15,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,2320,Barbara,1,0,1,1
+15_43,15,Pilot-1,43,1,colors,Invalid Filler,Disamis*,2,NA,1952,Disamis,0,0,1,1
+15_44,15,Pilot-1,44,1,mothers,Invalid Filler,Darii*,2,NA,1784,Darii,0,0,1,1
+15_45,15,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,1680,Dimatis,1,1,1,1
+15_46,15,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,3207,Disamis,0,1,1,1
+15_47,15,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2192,Datisi,1,1,1,1
+15_48,15,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2696,Barbara,0,1,1,1
+15_49,15,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2256,Barbara,0,1,1,1
+15_50,15,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,2336,Darii,0,0,1,1
+15_51,15,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2376,Barbara,0,1,1,1
+15_52,15,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1576,Dimatis,1,1,1,1
+15_53,15,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,2024,Dimatis,0,0,1,1
+15_54,15,Pilot-1,54,1,panels,Homonymy,Datisi,2,NA,2784,Datisi,0,0,1,1
+15_55,15,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,2120,Dimatis,0,0,1,1
+15_56,15,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,1488,Datisi,0,0,1,1
+15_57,15,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,1704,Disamis,1,1,1,1
+15_58,15,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,1864,Disamis,0,0,1,1
+15_59,15,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,1952,Barbara,0,1,1,1
+15_60,15,Pilot-1,60,1,tapes,Homonymy,Darii,2,NA,1328,Darii,0,0,1,1
+16_1,16,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,6582,Dimatis,0,1,0,0
+16_2,16,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3114,Barbara,0,1,0,0
+16_3,16,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,21032,Barbara,1,1,0,0
+16_4,16,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,4281,Darii,0,1,0,0
+16_5,16,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,6065,Disamis,0,0,0,0
+16_6,16,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,5965,Barbara,1,1,0,0
+16_7,16,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,3649,Datisi,0,0,0,0
+16_8,16,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,15898,Disamis,0,1,0,0
+16_9,16,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,5165,Datisi,0,1,0,0
+16_10,16,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3865,Barbara,1,1,0,0
+16_11,16,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,4432,Datisi,0,0,0,0
+16_12,16,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,23231,Datisi,0,0,0,0
+16_13,16,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,3001,Datisi,0,1,0,0
+16_14,16,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2500,Darii,1,1,0,0
+16_15,16,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,2365,Disamis,0,0,0,0
+16_16,16,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2565,Datisi,1,1,0,0
+16_17,16,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2132,Disamis,1,1,0,0
+16_18,16,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2416,Darii,0,1,0,0
+16_19,16,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1866,Dimatis,1,1,0,0
+16_20,16,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,4031,Dimatis,0,1,0,0
+16_21,16,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2698,Datisi,1,1,0,0
+16_22,16,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1948,Datisi,1,1,0,0
+16_23,16,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,4032,Dimatis,0,1,0,0
+16_24,16,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,3232,Dimatis,0,1,0,0
+16_25,16,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,2165,Dimatis,1,1,0,0
+16_26,16,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,3366,Darii,0,0,0,0
+16_27,16,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2816,Darii,1,1,0,0
+16_28,16,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1781,Disamis,1,1,0,0
+16_29,16,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,1682,Barbara,0,1,0,0
+16_30,16,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2015,Disamis,1,1,0,0
+16_31,16,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,4581,Dimatis,0,1,0,0
+16_32,16,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,19883,Darii,0,1,0,0
+16_33,16,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,4999,Darii,1,1,0,0
+16_34,16,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2365,Dimatis,0,1,0,0
+16_35,16,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2032,Barbara,0,1,0,0
+16_36,16,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,1531,Darii,1,1,0,0
+16_37,16,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,4065,Disamis,0,1,0,0
+16_38,16,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,2749,Disamis,0,0,0,0
+16_39,16,Pilot-1,39,1,admissions,Homonymy,Barbara,2,NA,5249,Barbara,0,0,0,0
+16_40,16,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,2548,Darii,0,1,0,0
+16_41,16,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2517,Datisi,0,1,0,0
+16_42,16,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,2412,Barbara,1,1,0,0
+16_43,16,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,2398,Disamis,0,1,0,0
+16_44,16,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2266,Darii,0,1,0,0
+16_45,16,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3132,Dimatis,1,1,0,0
+16_46,16,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2432,Disamis,0,1,0,0
+16_47,16,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2016,Datisi,1,1,0,0
+16_48,16,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3616,Barbara,0,1,0,0
+16_49,16,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2664,Barbara,0,1,0,0
+16_50,16,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,2115,Darii,0,0,0,0
+16_51,16,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3199,Barbara,0,1,0,0
+16_52,16,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1799,Dimatis,1,1,0,0
+16_53,16,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,2499,Dimatis,0,0,0,0
+16_54,16,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,3266,Datisi,0,1,0,0
+16_55,16,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,4232,Dimatis,0,0,0,0
+16_56,16,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,2782,Datisi,0,1,0,0
+16_57,16,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2215,Disamis,1,1,0,0
+16_58,16,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,3549,Disamis,0,1,0,0
+16_59,16,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,1832,Barbara,0,1,0,0
+16_60,16,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2015,Darii,0,1,0,0
+17_1,17,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,4064,Dimatis,0,1,0,0
+17_2,17,Pilot-1,2,1,clocks,Invalid Filler,Barbara*,2,NA,3559,Barbara,0,0,0,0
+17_3,17,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,2456,Barbara,1,1,0,0
+17_4,17,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,2672,Darii,0,0,0,0
+17_5,17,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,2992,Disamis,0,0,0,0
+17_6,17,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4688,Barbara,1,1,0,0
+17_7,17,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3070,Datisi,0,1,0,0
+17_8,17,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2335,Disamis,0,1,0,0
+17_9,17,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,2983,Datisi,0,1,0,0
+17_10,17,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,2359,Barbara,1,1,0,0
+17_11,17,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3093,Datisi,0,0,0,0
+17_12,17,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,4762,Datisi,0,0,0,0
+17_13,17,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,2991,Datisi,0,0,0,0
+17_14,17,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,1983,Darii,1,1,0,0
+17_15,17,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,5855,Disamis,0,0,0,0
+17_16,17,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2663,Datisi,1,1,0,0
+17_17,17,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2143,Disamis,1,1,0,0
+17_18,17,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,1895,Darii,0,1,0,0
+17_19,17,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1903,Dimatis,1,1,0,0
+17_20,17,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,2735,Dimatis,0,1,0,0
+17_21,17,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,1791,Datisi,1,1,0,0
+17_22,17,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1351,Datisi,1,1,0,0
+17_23,17,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,3823,Dimatis,0,1,0,0
+17_24,17,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,5455,Dimatis,0,0,0,0
+17_25,17,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1511,Dimatis,1,1,0,0
+17_26,17,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,2455,Darii,0,1,0,0
+17_27,17,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,3119,Darii,1,1,0,0
+17_28,17,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1503,Disamis,1,1,0,0
+17_29,17,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,1799,Barbara,0,1,0,0
+17_30,17,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,3015,Disamis,1,1,0,0
+17_31,17,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,2167,Dimatis,0,1,0,0
+17_32,17,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,3511,Darii,0,0,0,0
+17_33,17,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2855,Darii,1,1,0,0
+17_34,17,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2399,Dimatis,0,1,0,0
+17_35,17,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2831,Barbara,0,1,0,0
+17_36,17,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2439,Darii,1,1,0,0
+17_37,17,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,3871,Disamis,0,0,0,0
+17_38,17,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,4079,Disamis,0,0,0,0
+17_39,17,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2927,Barbara,0,1,0,0
+17_40,17,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,1855,Darii,0,1,0,0
+17_41,17,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2343,Datisi,0,1,0,0
+17_42,17,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,2271,Barbara,1,1,0,0
+17_43,17,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3495,Disamis,0,1,0,0
+17_44,17,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2343,Darii,0,1,0,0
+17_45,17,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3863,Dimatis,1,1,0,0
+17_46,17,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2175,Disamis,0,1,0,0
+17_47,17,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,3031,Datisi,1,1,0,0
+17_48,17,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2255,Barbara,0,1,0,0
+17_49,17,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2376,Barbara,0,1,0,0
+17_50,17,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,3583,Darii,0,0,0,0
+17_51,17,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,4423,Barbara,0,1,0,0
+17_52,17,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,3368,Dimatis,1,1,0,0
+17_53,17,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,2495,Dimatis,0,0,0,0
+17_54,17,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2279,Datisi,0,1,0,0
+17_55,17,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,8447,Dimatis,0,0,0,0
+17_56,17,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,3064,Datisi,0,1,0,0
+17_57,17,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2719,Disamis,1,1,0,0
+17_58,17,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,2472,Disamis,0,1,0,0
+17_59,17,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2024,Barbara,0,1,0,0
+17_60,17,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2647,Darii,0,1,0,0
+18_1,18,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,10219,Datisi,1,1,0,0
+18_2,18,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,13372,Disamis,1,1,0,0
+18_3,18,Pilot-1,3,1,dresses,Invalid Filler,Darii*,1,NA,7960,Darii,0,0,0,0
+18_4,18,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,11040,Dimatis,1,1,0,0
+18_5,18,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,4607,Datisi,1,1,0,0
+18_6,18,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,5063,Darii,1,1,0,0
+18_7,18,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,41561,Darii,1,1,0,0
+18_8,18,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,33874,Disamis,0,1,0,0
+18_9,18,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,5151,Disamis,0,1,0,0
+18_10,18,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,11001,Barbara,0,1,0,0
+18_11,18,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,6076,Disamis,1,1,0,0
+18_12,18,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,5366,Datisi,0,1,0,0
+18_13,18,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,12451,Dimatis,0,1,0,0
+18_14,18,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,5236,Dimatis,0,1,0,0
+18_15,18,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4242,Datisi,0,1,0,0
+18_16,18,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,14122,Datisi,0,1,0,0
+18_17,18,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,3799,Barbara,0,1,0,0
+18_18,18,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,5064,Barbara,1,1,0,0
+18_19,18,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,10866,Dimatis,0,1,0,0
+18_20,18,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,4624,Darii,0,0,0,0
+18_21,18,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,5352,Barbara,0,1,0,0
+18_22,18,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,8155,Dimatis,1,1,0,0
+18_23,18,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,19144,Dimatis,0,0,0,0
+18_24,18,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,23900,Disamis,0,1,0,0
+18_25,18,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,12555,Disamis,0,0,0,0
+18_26,18,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,4919,Darii,0,1,0,0
+18_27,18,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,8007,Barbara,1,1,0,0
+18_28,18,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,4220,Barbara,1,1,0,0
+18_29,18,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,16482,Dimatis,0,1,0,0
+18_30,18,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,4789,Barbara,0,1,0,0
+18_31,18,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,14755,Disamis,0,0,0,0
+18_32,18,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3183,Disamis,1,1,0,0
+18_33,18,Pilot-1,33,0,swords,Valid Filler,Disamis,1,NA,3618,Disamis,1,0,0,0
+18_34,18,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,6018,Datisi,1,1,0,0
+18_35,18,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,4086,Datisi,1,1,0,0
+18_36,18,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2585,Dimatis,1,1,0,0
+18_37,18,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,5052,Disamis,0,1,0,0
+18_38,18,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,6112,Darii,1,1,0,0
+18_39,18,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,3803,Dimatis,0,1,0,0
+18_40,18,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,15966,Dimatis,0,1,0,0
+18_41,18,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,7005,Darii,0,1,0,0
+18_42,18,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,6321,Datisi,0,1,0,0
+18_43,18,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3291,Datisi,0,1,0,0
+18_44,18,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3668,Barbara,0,1,0,0
+18_45,18,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2464,Barbara,0,1,0,0
+18_46,18,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,4341,Datisi,0,1,0,0
+18_47,18,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,7036,Darii,0,1,0,0
+18_48,18,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3151,Dimatis,1,1,0,0
+18_49,18,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,5270,Disamis,0,0,0,0
+18_50,18,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,8568,Barbara,1,1,0,0
+18_51,18,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,9146,Darii,0,1,0,0
+18_52,18,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,4400,Dimatis,0,1,0,0
+18_53,18,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,4067,Darii,0,1,0,0
+18_54,18,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,5835,Disamis,0,1,0,0
+18_55,18,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,5486,Datisi,0,1,0,0
+18_56,18,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,3686,Datisi,0,1,0,0
+18_57,18,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,4954,Darii,1,1,0,0
+18_58,18,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,7178,Darii,0,1,0,0
+18_59,18,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,5121,Barbara,0,1,0,0
+18_60,18,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3216,Barbara,0,1,0,0
+19_1,19,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,4638,Dimatis,0,1,0,0
+19_2,19,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3245,Barbara,0,1,0,0
+19_3,19,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,2777,Barbara,1,1,0,0
+19_4,19,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,3775,Darii,0,1,0,0
+19_5,19,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,2609,Disamis,0,0,0,0
+19_6,19,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4053,Barbara,1,1,0,0
+19_7,19,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,3725,Datisi,0,0,0,0
+19_8,19,Pilot-1,8,1,arms,Homonymy,Disamis,2,NA,3442,Disamis,0,0,0,0
+19_9,19,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,3077,Datisi,0,1,0,0
+19_10,19,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,3611,Barbara,1,1,0,0
+19_11,19,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,2719,Datisi,0,0,0,0
+19_12,19,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,3473,Datisi,0,0,0,0
+19_13,19,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,4298,Datisi,0,0,0,0
+19_14,19,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2257,Darii,1,1,0,0
+19_15,19,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,2634,Disamis,0,0,0,0
+19_16,19,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2010,Datisi,1,1,0,0
+19_17,19,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,1866,Disamis,1,1,0,0
+19_18,19,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2859,Darii,0,1,0,0
+19_19,19,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1728,Dimatis,1,1,0,0
+19_20,19,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,2233,Dimatis,0,1,0,0
+19_21,19,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,1630,Datisi,1,1,0,0
+19_22,19,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1760,Datisi,1,1,0,0
+19_23,19,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,2825,Dimatis,0,1,0,0
+19_24,19,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,3841,Dimatis,0,0,0,0
+19_25,19,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,2792,Dimatis,1,1,0,0
+19_26,19,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,3090,Darii,0,0,0,0
+19_27,19,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2234,Darii,1,1,0,0
+19_28,19,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1532,Disamis,1,1,0,0
+19_29,19,Pilot-1,29,1,dreams,Polysemy,Barbara,2,NA,1971,Barbara,0,0,0,0
+19_30,19,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2161,Disamis,1,1,0,0
+19_31,19,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,2624,Dimatis,0,1,0,0
+19_32,19,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,3078,Darii,0,0,0,0
+19_33,19,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,14670,Darii,1,1,0,0
+19_34,19,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2160,Dimatis,0,1,0,0
+19_35,19,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,3437,Barbara,0,1,0,0
+19_36,19,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,1692,Darii,1,1,0,0
+19_37,19,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,2466,Disamis,0,1,0,0
+19_38,19,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,3106,Disamis,0,0,0,0
+19_39,19,Pilot-1,39,1,admissions,Homonymy,Barbara,2,NA,2009,Barbara,0,0,0,0
+19_40,19,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,2348,Darii,0,0,0,0
+19_41,19,Pilot-1,41,1,chickens,Polysemy,Datisi,2,NA,3407,Datisi,0,0,0,0
+19_42,19,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,2521,Barbara,1,0,0,0
+19_43,19,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3723,Disamis,0,1,0,0
+19_44,19,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2572,Darii,0,1,0,0
+19_45,19,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,6359,Dimatis,1,1,0,0
+19_46,19,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,1846,Disamis,0,1,0,0
+19_47,19,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,1469,Datisi,1,1,0,0
+19_48,19,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,1911,Barbara,0,1,0,0
+19_49,19,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2422,Barbara,0,1,0,0
+19_50,19,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,2582,Darii,0,0,0,0
+19_51,19,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3145,Barbara,0,1,0,0
+19_52,19,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1618,Dimatis,1,1,0,0
+19_53,19,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,2344,Dimatis,0,1,0,0
+19_54,19,Pilot-1,54,1,panels,Homonymy,Datisi,2,NA,2353,Datisi,0,0,0,0
+19_55,19,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,2074,Dimatis,0,1,0,0
+19_56,19,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,3565,Datisi,0,0,0,0
+19_57,19,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2895,Disamis,1,1,0,0
+19_58,19,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,4222,Disamis,0,1,0,0
+19_59,19,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2676,Barbara,0,1,0,0
+19_60,19,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,1991,Darii,0,1,0,0
+20_1,20,Pilot-1,1,-99,mugs,Valid Filler,Datisi,1,NA,180012,Datisi,1,0,0,1
+20_2,20,Pilot-1,2,-99,burgers,Valid Filler,Disamis,1,NA,179997,Disamis,1,0,0,1
+20_3,20,Pilot-1,3,-99,dresses,Invalid Filler,Darii*,1,NA,138146,Darii,0,0,0,1
+20_4,20,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2303,Dimatis,1,1,0,0
+20_5,20,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,12717,Datisi,1,1,0,0
+20_6,20,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,17861,Darii,1,1,0,0
+20_7,20,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,9519,Darii,1,1,0,0
+20_8,20,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,3572,Disamis,0,1,0,0
+20_9,20,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,2546,Disamis,0,1,0,0
+20_10,20,Pilot-1,10,1,dinners,Polysemy,Barbara,1,NA,2614,Barbara,0,0,0,0
+20_11,20,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3420,Disamis,1,1,0,0
+20_12,20,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,1737,Datisi,0,1,0,0
+20_13,20,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,2089,Dimatis,0,1,0,0
+20_14,20,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,1911,Dimatis,0,1,0,0
+20_15,20,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,3826,Datisi,0,1,0,0
+20_16,20,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,2922,Datisi,0,1,0,0
+20_17,20,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,9353,Barbara,0,1,0,0
+20_18,20,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,8035,Barbara,1,1,0,0
+20_19,20,Pilot-1,19,1,spices,Invalid Filler,Dimatis*,1,NA,8328,Dimatis,0,0,0,0
+20_20,20,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,1613,Darii,0,0,0,0
+20_21,20,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,1866,Barbara,0,1,0,0
+20_22,20,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,1737,Dimatis,1,1,0,0
+20_23,20,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,2227,Dimatis,0,0,0,0
+20_24,20,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,4302,Disamis,0,1,0,0
+20_25,20,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,3132,Disamis,0,0,0,0
+20_26,20,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,2866,Darii,0,1,0,0
+20_27,20,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,2212,Barbara,1,1,0,0
+20_28,20,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,22877,Barbara,1,1,0,0
+20_29,20,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3082,Dimatis,0,1,0,0
+20_30,20,Pilot-1,30,1,buildings,Invalid Filler,Barbara*,1,NA,1688,Barbara,0,0,0,0
+20_31,20,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,4200,Disamis,0,1,0,0
+20_32,20,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,1539,Disamis,1,1,0,0
+20_33,20,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,4492,Disamis,1,1,0,0
+20_34,20,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,1968,Datisi,1,1,0,0
+20_35,20,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,2219,Datisi,1,1,0,0
+20_36,20,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,1785,Dimatis,1,1,0,0
+20_37,20,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,2242,Disamis,0,1,0,0
+20_38,20,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3144,Darii,1,1,0,0
+20_39,20,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,3579,Dimatis,0,1,0,0
+20_40,20,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,5226,Dimatis,0,0,0,0
+20_41,20,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,2055,Darii,0,1,0,0
+20_42,20,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,2208,Datisi,0,1,0,0
+20_43,20,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,6558,Datisi,0,1,0,0
+20_44,20,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,2439,Barbara,0,1,0,0
+20_45,20,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,1805,Barbara,0,1,0,0
+20_46,20,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,2989,Datisi,0,0,0,0
+20_47,20,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,1781,Darii,0,1,0,0
+20_48,20,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,1346,Dimatis,1,1,0,0
+20_49,20,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,1554,Disamis,0,0,0,0
+20_50,20,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,2388,Barbara,1,0,0,0
+20_51,20,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,8206,Darii,0,0,0,0
+20_52,20,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,11570,Dimatis,0,1,0,0
+20_53,20,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,1912,Darii,0,1,0,0
+20_54,20,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,1862,Disamis,0,1,0,0
+20_55,20,Pilot-1,55,1,sausages,Invalid Filler,Datisi*,1,NA,1601,Datisi,0,0,0,0
+20_56,20,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,2743,Datisi,0,1,0,0
+20_57,20,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,1821,Darii,1,1,0,0
+20_58,20,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,1741,Darii,0,1,0,0
+20_59,20,Pilot-1,59,1,clocks,Invalid Filler,Barbara*,1,NA,2070,Barbara,0,0,0,0
+20_60,20,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,1941,Barbara,0,1,0,0
+21_1,21,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,2798,Dimatis,0,1,0,0
+21_2,21,Pilot-1,2,1,clocks,Invalid Filler,Barbara*,2,NA,26388,Barbara,0,0,0,0
+21_3,21,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,2425,Barbara,1,1,0,0
+21_4,21,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,15321,Darii,0,0,0,0
+21_5,21,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,1942,Disamis,0,0,0,0
+21_6,21,Pilot-1,6,0,negotiations,Valid Filler,Barbara,2,NA,61000,Barbara,1,0,0,0
+21_7,21,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3422,Datisi,0,1,0,0
+21_8,21,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2076,Disamis,0,1,0,0
+21_9,21,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,2166,Datisi,0,1,0,0
+21_10,21,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,1339,Barbara,1,1,0,0
+21_11,21,Pilot-1,11,0,actors,Invalid Filler,Datisi*,2,NA,3146,Datisi,0,1,0,0
+21_12,21,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,3489,Datisi,0,1,0,0
+21_13,21,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,2543,Datisi,0,0,0,0
+21_14,21,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,1788,Darii,1,1,0,0
+21_15,21,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,2601,Disamis,0,0,0,0
+21_16,21,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2424,Datisi,1,1,0,0
+21_17,21,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,1835,Disamis,1,1,0,0
+21_18,21,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2042,Darii,0,1,0,0
+21_19,21,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1594,Dimatis,1,1,0,0
+21_20,21,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,2629,Dimatis,0,1,0,0
+21_21,21,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2795,Datisi,1,1,0,0
+21_22,21,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1351,Datisi,1,1,0,0
+21_23,21,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,2400,Dimatis,0,1,0,0
+21_24,21,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,1767,Dimatis,0,1,0,0
+21_25,21,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1597,Dimatis,1,1,0,0
+21_26,21,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,3098,Darii,0,1,0,0
+21_27,21,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2084,Darii,1,1,0,0
+21_28,21,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1387,Disamis,1,1,0,0
+21_29,21,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2256,Barbara,0,1,0,0
+21_30,21,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2093,Disamis,1,1,0,0
+21_31,21,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,2109,Dimatis,0,0,0,0
+21_32,21,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,1917,Darii,0,0,0,0
+21_33,21,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2094,Darii,1,1,0,0
+21_34,21,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2762,Dimatis,0,1,0,0
+21_35,21,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,4267,Barbara,0,1,0,0
+21_36,21,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2071,Darii,1,1,0,0
+21_37,21,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,2609,Disamis,0,1,0,0
+21_38,21,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,3538,Disamis,0,0,0,0
+21_39,21,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2959,Barbara,0,1,0,0
+21_40,21,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,1653,Darii,0,1,0,0
+21_41,21,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,1330,Datisi,0,1,0,0
+21_42,21,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,2263,Barbara,1,1,0,0
+21_43,21,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,1791,Disamis,0,1,0,0
+21_44,21,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,3648,Darii,0,1,0,0
+21_45,21,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,10010,Dimatis,1,1,0,0
+21_46,21,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,1784,Disamis,0,1,0,0
+21_47,21,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,7694,Datisi,1,1,0,0
+21_48,21,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,1558,Barbara,0,1,0,0
+21_49,21,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2421,Barbara,0,1,0,0
+21_50,21,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,2774,Darii,0,1,0,0
+21_51,21,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2978,Barbara,0,1,0,0
+21_52,21,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2245,Dimatis,1,1,0,0
+21_53,21,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,2424,Dimatis,0,1,0,0
+21_54,21,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,1752,Datisi,0,1,0,0
+21_55,21,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,2035,Dimatis,0,1,0,0
+21_56,21,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,3726,Datisi,0,1,0,0
+21_57,21,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,1816,Disamis,1,1,0,0
+21_58,21,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3801,Disamis,0,0,0,0
+21_59,21,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,1644,Barbara,0,1,0,0
+21_60,21,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2931,Darii,0,1,0,0
+22_1,22,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,3655,Dimatis,0,1,0,0
+22_2,22,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3782,Barbara,0,1,0,0
+22_3,22,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,2266,Barbara,1,1,0,0
+22_4,22,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,3309,Darii,0,1,0,0
+22_5,22,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,3522,Disamis,0,0,0,0
+22_6,22,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,3673,Barbara,1,1,0,0
+22_7,22,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3479,Datisi,0,1,0,0
+22_8,22,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2749,Disamis,0,1,0,0
+22_9,22,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,2903,Datisi,0,1,0,0
+22_10,22,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,2787,Barbara,1,1,0,0
+22_11,22,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,2641,Datisi,0,0,0,0
+22_12,22,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,5402,Datisi,0,0,0,0
+22_13,22,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,3725,Datisi,0,1,0,0
+22_14,22,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3926,Darii,1,1,0,0
+22_15,22,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,2762,Disamis,0,0,0,0
+22_16,22,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2406,Datisi,1,1,0,0
+22_17,22,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2084,Disamis,1,1,0,0
+22_18,22,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2570,Darii,0,1,0,0
+22_19,22,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2075,Dimatis,1,1,0,0
+22_20,22,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,2779,Dimatis,0,1,0,0
+22_21,22,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2544,Datisi,1,1,0,0
+22_22,22,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2115,Datisi,1,1,0,0
+22_23,22,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,3044,Dimatis,0,1,0,0
+22_24,22,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,2804,Dimatis,0,1,0,0
+22_25,22,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,2299,Dimatis,1,1,0,0
+22_26,22,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,3128,Darii,0,1,0,0
+22_27,22,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2592,Darii,1,1,0,0
+22_28,22,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2026,Disamis,1,1,0,0
+22_29,22,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2632,Barbara,0,1,0,0
+22_30,22,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2279,Disamis,1,1,0,0
+22_31,22,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,3266,Dimatis,0,1,0,0
+22_32,22,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,3037,Darii,0,1,0,0
+22_33,22,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2923,Darii,1,1,0,0
+22_34,22,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,3295,Dimatis,0,1,0,0
+22_35,22,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,3098,Barbara,0,1,0,0
+22_36,22,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2183,Darii,1,1,0,0
+22_37,22,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,3969,Disamis,0,0,0,0
+22_38,22,Pilot-1,38,0,examinations,Polysemy,Disamis,2,NA,2935,Disamis,0,1,0,0
+22_39,22,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2544,Barbara,0,1,0,0
+22_40,22,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,2514,Darii,0,0,0,0
+22_41,22,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2094,Datisi,0,1,0,0
+22_42,22,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,3471,Barbara,1,1,0,0
+22_43,22,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3110,Disamis,0,1,0,0
+22_44,22,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2689,Darii,0,1,0,0
+22_45,22,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,2759,Dimatis,1,1,0,0
+22_46,22,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2611,Disamis,0,1,0,0
+22_47,22,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2160,Datisi,1,1,0,0
+22_48,22,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3013,Barbara,0,1,0,0
+22_49,22,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2759,Barbara,0,1,0,0
+22_50,22,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,3517,Darii,0,0,0,0
+22_51,22,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2829,Barbara,0,1,0,0
+22_52,22,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2200,Dimatis,1,1,0,0
+22_53,22,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,3140,Dimatis,0,1,0,0
+22_54,22,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2496,Datisi,0,1,0,0
+22_55,22,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,2561,Dimatis,0,0,0,0
+22_56,22,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,2779,Datisi,0,1,0,0
+22_57,22,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2728,Disamis,1,1,0,0
+22_58,22,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3450,Disamis,0,0,0,0
+22_59,22,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2427,Barbara,0,1,0,0
+22_60,22,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2522,Darii,0,1,0,0
+23_1,23,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,8518,Datisi,1,1,0,0
+23_2,23,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,5246,Disamis,1,1,0,0
+23_3,23,Pilot-1,3,1,dresses,Invalid Filler,Darii*,1,NA,31582,Darii,0,0,0,0
+23_4,23,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,4460,Dimatis,1,1,0,0
+23_5,23,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,3564,Datisi,1,1,0,0
+23_6,23,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,4291,Darii,1,1,0,0
+23_7,23,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,4010,Darii,1,1,0,0
+23_8,23,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,7388,Disamis,0,1,0,0
+23_9,23,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,31064,Disamis,0,1,0,0
+23_10,23,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,10488,Barbara,0,1,0,0
+23_11,23,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,4366,Disamis,1,1,0,0
+23_12,23,Pilot-1,12,1,chickens,Polysemy,Datisi,1,NA,20323,Datisi,0,0,0,0
+23_13,23,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,4634,Dimatis,0,1,0,0
+23_14,23,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,11465,Dimatis,0,1,0,0
+23_15,23,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,5645,Datisi,0,1,0,0
+23_16,23,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,5744,Datisi,0,1,0,0
+23_17,23,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,4363,Barbara,0,1,0,0
+23_18,23,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,4208,Barbara,1,1,0,0
+23_19,23,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,8628,Dimatis,0,1,0,0
+23_20,23,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,7631,Darii,0,0,0,0
+23_21,23,Pilot-1,21,1,admissions,Homonymy,Barbara,1,NA,4987,Barbara,0,0,0,0
+23_22,23,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,5219,Dimatis,1,1,0,0
+23_23,23,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,4925,Dimatis,0,0,0,0
+23_24,23,Pilot-1,24,1,colors,Invalid Filler,Disamis*,1,NA,7080,Disamis,0,0,0,0
+23_25,23,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,7750,Disamis,0,0,0,0
+23_26,23,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,5282,Darii,0,1,0,0
+23_27,23,Pilot-1,27,0,dinosaurs,Valid Filler,Barbara,1,NA,32403,Barbara,1,0,0,0
+23_28,23,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,4341,Barbara,1,1,0,0
+23_29,23,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,5685,Dimatis,0,1,0,0
+23_30,23,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,3563,Barbara,0,1,0,0
+23_31,23,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,6841,Disamis,0,0,0,0
+23_32,23,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,5166,Disamis,1,1,0,0
+23_33,23,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3686,Disamis,1,1,0,0
+23_34,23,Pilot-1,34,0,ponies,Valid Filler,Datisi,1,NA,36145,Datisi,1,0,0,0
+23_35,23,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,10486,Datisi,1,1,0,0
+23_36,23,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2779,Dimatis,1,1,0,0
+23_37,23,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,1,NA,3062,Disamis,0,0,0,0
+23_38,23,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2764,Darii,1,1,0,0
+23_39,23,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,6159,Dimatis,0,1,0,0
+23_40,23,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,5864,Dimatis,0,1,0,0
+23_41,23,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,13249,Darii,0,0,0,0
+23_42,23,Pilot-1,42,1,stones,Invalid Filler,Datisi*,1,NA,17650,Datisi,0,0,0,0
+23_43,23,Pilot-1,43,1,columns,Homonymy,Datisi,1,NA,8204,Datisi,0,0,0,0
+23_44,23,Pilot-1,44,1,movements,Homonymy,Barbara,1,NA,2930,Barbara,0,0,0,0
+23_45,23,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,3638,Barbara,0,1,0,0
+23_46,23,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,3990,Datisi,0,0,0,0
+23_47,23,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,4871,Darii,0,0,0,0
+23_48,23,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3694,Dimatis,1,1,0,0
+23_49,23,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,5020,Disamis,0,0,0,0
+23_50,23,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,4538,Barbara,1,1,0,0
+23_51,23,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,6747,Darii,0,0,0,0
+23_52,23,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,8118,Dimatis,0,0,0,0
+23_53,23,Pilot-1,53,1,dances,Invalid Filler,Darii*,1,NA,19186,Darii,0,0,0,0
+23_54,23,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3561,Disamis,0,1,0,0
+23_55,23,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3882,Datisi,0,1,0,0
+23_56,23,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,1,NA,5556,Datisi,0,0,0,0
+23_57,23,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,3723,Darii,1,1,0,0
+23_58,23,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,3249,Darii,0,1,0,0
+23_59,23,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,26070,Barbara,0,1,0,0
+23_60,23,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3480,Barbara,0,1,0,0
+24_1,24,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,3586,Datisi,1,1,0,0
+24_2,24,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,2232,Disamis,1,1,0,0
+24_3,24,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,3475,Darii,0,1,0,0
+24_4,24,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,1865,Dimatis,1,1,0,0
+24_5,24,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,1963,Datisi,1,1,0,0
+24_6,24,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,1953,Darii,1,1,0,0
+24_7,24,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2172,Darii,1,1,0,0
+24_8,24,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,2142,Disamis,0,1,0,0
+24_9,24,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,2491,Disamis,0,1,0,0
+24_10,24,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,3820,Barbara,0,1,0,0
+24_11,24,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2203,Disamis,1,1,0,0
+24_12,24,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,2351,Datisi,0,1,0,0
+24_13,24,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,2025,Dimatis,0,1,0,0
+24_14,24,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,2876,Dimatis,0,1,0,0
+24_15,24,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,2694,Datisi,0,1,0,0
+24_16,24,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,2789,Datisi,0,1,0,0
+24_17,24,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,3150,Barbara,0,1,0,0
+24_18,24,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,2420,Barbara,1,1,0,0
+24_19,24,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,2920,Dimatis,0,1,0,0
+24_20,24,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,3980,Darii,0,1,0,0
+24_21,24,Pilot-1,21,1,admissions,Homonymy,Barbara,1,NA,5259,Barbara,0,0,0,0
+24_22,24,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,2918,Dimatis,1,1,0,0
+24_23,24,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,3254,Dimatis,0,1,0,0
+24_24,24,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,2995,Disamis,0,1,0,0
+24_25,24,Pilot-1,25,0,examinations,Polysemy,Disamis,1,NA,5104,Disamis,0,1,0,0
+24_26,24,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,2188,Darii,0,1,0,0
+24_27,24,Pilot-1,27,0,dinosaurs,Valid Filler,Barbara,1,NA,4367,Barbara,1,0,0,0
+24_28,24,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,2585,Barbara,1,1,0,0
+24_29,24,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,4019,Dimatis,0,1,0,0
+24_30,24,Pilot-1,30,1,buildings,Invalid Filler,Barbara*,1,NA,5211,Barbara,0,0,0,0
+24_31,24,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,7813,Disamis,0,0,0,0
+24_32,24,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,4529,Disamis,1,1,0,0
+24_33,24,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3706,Disamis,1,1,0,0
+24_34,24,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,3179,Datisi,1,1,0,0
+24_35,24,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,4823,Datisi,1,1,0,0
+24_36,24,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,1869,Dimatis,1,1,0,0
+24_37,24,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,2515,Disamis,0,1,0,0
+24_38,24,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2156,Darii,1,1,0,0
+24_39,24,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,2478,Dimatis,0,1,0,0
+24_40,24,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,2923,Dimatis,0,0,0,0
+24_41,24,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,6340,Darii,0,0,0,0
+24_42,24,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,2720,Datisi,0,1,0,0
+24_43,24,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3925,Datisi,0,1,0,0
+24_44,24,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,2536,Barbara,0,1,0,0
+24_45,24,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,1992,Barbara,0,1,0,0
+24_46,24,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,2237,Datisi,0,0,0,0
+24_47,24,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,3194,Darii,0,0,0,0
+24_48,24,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2060,Dimatis,1,1,0,0
+24_49,24,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,4681,Disamis,0,0,0,0
+24_50,24,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,4991,Barbara,1,1,0,0
+24_51,24,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,4840,Darii,0,0,0,0
+24_52,24,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,7065,Dimatis,0,0,0,0
+24_53,24,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,3723,Darii,0,1,0,0
+24_54,24,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,1730,Disamis,0,1,0,0
+24_55,24,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,3540,Datisi,0,1,0,0
+24_56,24,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,2411,Datisi,0,1,0,0
+24_57,24,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,6224,Darii,1,1,0,0
+24_58,24,Pilot-1,58,1,mothers,Invalid Filler,Darii*,1,NA,2513,Darii,0,0,0,0
+24_59,24,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,3058,Barbara,0,1,0,0
+24_60,24,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,5381,Barbara,0,1,0,0
+25_1,25,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,4671,Datisi,1,1,0,0
+25_2,25,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3575,Disamis,1,1,0,0
+25_3,25,Pilot-1,3,1,dresses,Invalid Filler,Darii*,1,NA,6312,Darii,0,0,0,0
+25_4,25,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2247,Dimatis,1,1,0,0
+25_5,25,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2296,Datisi,1,1,0,0
+25_6,25,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,2311,Darii,1,1,0,0
+25_7,25,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2839,Darii,1,1,0,0
+25_8,25,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,9631,Disamis,0,1,0,0
+25_9,25,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,3199,Disamis,0,1,0,0
+25_10,25,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,2702,Barbara,0,1,0,0
+25_11,25,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2304,Disamis,1,1,0,0
+25_12,25,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,4191,Datisi,0,1,0,0
+25_13,25,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,3639,Dimatis,0,1,0,0
+25_14,25,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,3816,Dimatis,0,1,0,0
+25_15,25,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,3344,Datisi,0,1,0,0
+25_16,25,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,3592,Datisi,0,1,0,0
+25_17,25,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,2583,Barbara,0,1,0,0
+25_18,25,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,33672,Barbara,1,1,0,0
+25_19,25,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,10008,Dimatis,0,1,0,0
+25_20,25,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,8031,Darii,0,1,0,0
+25_21,25,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,3024,Barbara,0,1,0,0
+25_22,25,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,5792,Dimatis,1,1,0,0
+25_23,25,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,4863,Dimatis,0,0,0,0
+25_24,25,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,3007,Disamis,0,1,0,0
+25_25,25,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,4559,Disamis,0,0,0,0
+25_26,25,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,2439,Darii,0,1,0,0
+25_27,25,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,13879,Barbara,1,1,0,0
+25_28,25,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,3704,Barbara,1,1,0,0
+25_29,25,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3783,Dimatis,0,1,0,0
+25_30,25,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,2600,Barbara,0,1,0,0
+25_31,25,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,5487,Disamis,0,1,0,0
+25_32,25,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2351,Disamis,1,1,0,0
+25_33,25,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3400,Disamis,1,1,0,0
+25_34,25,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,3096,Datisi,1,1,0,0
+25_35,25,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,4456,Datisi,1,1,0,0
+25_36,25,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2416,Dimatis,1,1,0,0
+25_37,25,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3752,Disamis,0,1,0,0
+25_38,25,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2432,Darii,1,1,0,0
+25_39,25,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,3935,Dimatis,0,1,0,0
+25_40,25,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,5328,Dimatis,0,0,0,0
+25_41,25,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,7200,Darii,0,0,0,0
+25_42,25,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,2896,Datisi,0,1,0,0
+25_43,25,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,2911,Datisi,0,1,0,0
+25_44,25,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3399,Barbara,0,1,0,0
+25_45,25,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2111,Barbara,0,1,0,0
+25_46,25,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,10144,Datisi,0,1,0,0
+25_47,25,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,2359,Darii,0,1,0,0
+25_48,25,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3072,Dimatis,1,1,0,0
+25_49,25,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,7680,Disamis,0,0,0,0
+25_50,25,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,4304,Barbara,1,0,0,0
+25_51,25,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3112,Darii,0,1,0,0
+25_52,25,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,2311,Dimatis,0,1,0,0
+25_53,25,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,4247,Darii,0,1,0,0
+25_54,25,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,2240,Disamis,0,1,0,0
+25_55,25,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,2407,Datisi,0,1,0,0
+25_56,25,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,3504,Datisi,0,1,0,0
+25_57,25,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,4552,Darii,1,1,0,0
+25_58,25,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,11656,Darii,0,1,0,0
+25_59,25,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,2520,Barbara,0,1,0,0
+25_60,25,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,2632,Barbara,0,1,0,0
+26_1,26,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,3806,Datisi,1,1,0,0
+26_2,26,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3519,Disamis,1,1,0,0
+26_3,26,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,5837,Darii,0,1,0,0
+26_4,26,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2670,Dimatis,1,1,0,0
+26_5,26,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2312,Datisi,1,1,0,0
+26_6,26,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3831,Darii,1,1,0,0
+26_7,26,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2581,Darii,1,1,0,0
+26_8,26,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,8157,Disamis,0,1,0,0
+26_9,26,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,4781,Disamis,0,1,0,0
+26_10,26,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,7021,Barbara,0,1,0,0
+26_11,26,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,5062,Disamis,1,1,0,0
+26_12,26,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,4644,Datisi,0,1,0,0
+26_13,26,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,3946,Dimatis,0,1,0,0
+26_14,26,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,6119,Dimatis,0,1,0,0
+26_15,26,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,9798,Datisi,0,1,0,0
+26_16,26,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,5488,Datisi,0,1,0,0
+26_17,26,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,5552,Barbara,0,1,0,0
+26_18,26,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,2990,Barbara,1,1,0,0
+26_19,26,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,4854,Dimatis,0,1,0,0
+26_20,26,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,6731,Darii,0,0,0,0
+26_21,26,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,8449,Barbara,0,1,0,0
+26_22,26,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,6163,Dimatis,1,1,0,0
+26_23,26,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,6042,Dimatis,0,1,0,0
+26_24,26,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,5934,Disamis,0,1,0,0
+26_25,26,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,11427,Disamis,0,0,0,0
+26_26,26,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3776,Darii,0,1,0,0
+26_27,26,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,6322,Barbara,1,1,0,0
+26_28,26,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,5488,Barbara,1,0,0,0
+26_29,26,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,6295,Dimatis,0,1,0,0
+26_30,26,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,4864,Barbara,0,1,0,0
+26_31,26,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,7142,Disamis,0,0,0,0
+26_32,26,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3943,Disamis,1,1,0,0
+26_33,26,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,5039,Disamis,1,1,0,0
+26_34,26,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,4112,Datisi,1,1,0,0
+26_35,26,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,3327,Datisi,1,1,0,0
+26_36,26,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,3279,Dimatis,1,1,0,0
+26_37,26,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,26813,Disamis,0,1,0,0
+26_38,26,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,2847,Darii,1,1,0,0
+26_39,26,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,6554,Dimatis,0,1,0,0
+26_40,26,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,4222,Dimatis,0,0,0,0
+26_41,26,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,34847,Darii,0,1,0,0
+26_42,26,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3360,Datisi,0,1,0,0
+26_43,26,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,12872,Datisi,0,1,0,0
+26_44,26,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,4867,Barbara,0,1,0,0
+26_45,26,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,3379,Barbara,0,1,0,0
+26_46,26,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,5773,Datisi,0,0,0,0
+26_47,26,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,3936,Darii,0,0,0,0
+26_48,26,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3524,Dimatis,1,1,0,0
+26_49,26,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,5667,Disamis,0,0,0,0
+26_50,26,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,10535,Barbara,1,0,0,0
+26_51,26,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,10655,Darii,0,0,0,0
+26_52,26,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,6646,Dimatis,0,0,0,0
+26_53,26,Pilot-1,53,1,dances,Invalid Filler,Darii*,1,NA,9507,Darii,0,0,0,0
+26_54,26,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3732,Disamis,0,1,0,0
+26_55,26,Pilot-1,55,1,sausages,Invalid Filler,Datisi*,1,NA,10229,Datisi,0,0,0,0
+26_56,26,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,11456,Datisi,0,1,0,0
+26_57,26,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,5598,Darii,1,1,0,0
+26_58,26,Pilot-1,58,1,mothers,Invalid Filler,Darii*,1,NA,95417,Darii,0,0,0,0
+26_59,26,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,5488,Barbara,0,1,0,0
+26_60,26,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,4184,Barbara,0,1,0,0
+27_1,27,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,5163,Datisi,1,1,0,0
+27_2,27,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,4220,Disamis,1,1,0,0
+27_3,27,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,8678,Darii,0,1,0,0
+27_4,27,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,3116,Dimatis,1,1,0,0
+27_5,27,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,3415,Datisi,1,1,0,0
+27_6,27,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,4083,Darii,1,1,0,0
+27_7,27,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,3484,Darii,1,1,0,0
+27_8,27,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,3882,Disamis,0,1,0,0
+27_9,27,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,3550,Disamis,0,1,0,0
+27_10,27,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,7046,Barbara,0,1,0,0
+27_11,27,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3598,Disamis,1,1,0,0
+27_12,27,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,4015,Datisi,0,1,0,0
+27_13,27,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,3881,Dimatis,0,1,0,0
+27_14,27,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,5633,Dimatis,0,1,0,0
+27_15,27,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4266,Datisi,0,1,0,0
+27_16,27,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,4932,Datisi,0,1,0,0
+27_17,27,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,5217,Barbara,0,1,0,0
+27_18,27,Pilot-1,18,0,whales,Valid Filler,Barbara,1,NA,5582,Barbara,1,0,0,0
+27_19,27,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,3848,Dimatis,0,1,0,0
+27_20,27,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,3414,Darii,0,1,0,0
+27_21,27,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,5069,Barbara,0,1,0,0
+27_22,27,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,5947,Dimatis,1,1,0,0
+27_23,27,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,4765,Dimatis,0,1,0,0
+27_24,27,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,5448,Disamis,0,1,0,0
+27_25,27,Pilot-1,25,0,examinations,Polysemy,Disamis,1,NA,7666,Disamis,0,1,0,0
+27_26,27,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3249,Darii,0,1,0,0
+27_27,27,Pilot-1,27,0,dinosaurs,Valid Filler,Barbara,1,NA,3799,Barbara,1,0,0,0
+27_28,27,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,5466,Barbara,1,1,0,0
+27_29,27,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3983,Dimatis,0,1,0,0
+27_30,27,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,3016,Barbara,0,1,0,0
+27_31,27,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,4931,Disamis,0,1,0,0
+27_32,27,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3332,Disamis,1,1,0,0
+27_33,27,Pilot-1,33,0,swords,Valid Filler,Disamis,1,NA,4115,Disamis,1,0,0,0
+27_34,27,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,4332,Datisi,1,1,0,0
+27_35,27,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,4152,Datisi,1,1,0,0
+27_36,27,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,3650,Dimatis,1,1,0,0
+27_37,27,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3144,Disamis,0,1,0,0
+27_38,27,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3686,Darii,1,1,0,0
+27_39,27,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,5332,Dimatis,0,1,0,0
+27_40,27,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,6398,Dimatis,0,1,0,0
+27_41,27,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,5050,Darii,0,1,0,0
+27_42,27,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,4067,Datisi,0,1,0,0
+27_43,27,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3746,Datisi,0,1,0,0
+27_44,27,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,6549,Barbara,0,1,0,0
+27_45,27,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,3618,Barbara,0,1,0,0
+27_46,27,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,6900,Datisi,0,1,0,0
+27_47,27,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,3562,Darii,0,1,0,0
+27_48,27,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3964,Dimatis,1,1,0,0
+27_49,27,Pilot-1,49,0,classes,Polysemy,Disamis,1,NA,4319,Disamis,0,1,0,0
+27_50,27,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,6165,Barbara,1,1,0,0
+27_51,27,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3766,Darii,0,1,0,0
+27_52,27,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,4201,Dimatis,0,1,0,0
+27_53,27,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,4082,Darii,0,1,0,0
+27_54,27,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3200,Disamis,0,1,0,0
+27_55,27,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,5018,Datisi,0,1,0,0
+27_56,27,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,4448,Datisi,0,1,0,0
+27_57,27,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,6749,Darii,1,1,0,0
+27_58,27,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,3750,Darii,0,1,0,0
+27_59,27,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,3698,Barbara,0,1,0,0
+27_60,27,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3333,Barbara,0,1,0,0
+28_1,28,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,5153,Datisi,1,1,0,0
+28_2,28,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,9236,Disamis,1,1,0,0
+28_3,28,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,4800,Darii,0,1,0,0
+28_4,28,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,7222,Dimatis,1,1,0,0
+28_5,28,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,5523,Datisi,1,1,0,0
+28_6,28,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3604,Darii,1,1,0,0
+28_7,28,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,2835,Darii,1,1,0,0
+28_8,28,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,4805,Disamis,0,1,0,0
+28_9,28,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,6434,Disamis,0,1,0,0
+28_10,28,Pilot-1,10,1,dinners,Polysemy,Barbara,1,NA,19745,Barbara,0,0,0,0
+28_11,28,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2854,Disamis,1,1,0,0
+28_12,28,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,5502,Datisi,0,1,0,0
+28_13,28,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,8682,Dimatis,0,1,0,0
+28_14,28,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,6691,Dimatis,0,1,0,0
+28_15,28,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,7718,Datisi,0,1,0,0
+28_16,28,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,5970,Datisi,0,1,0,0
+28_17,28,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,4388,Barbara,0,1,0,0
+28_18,28,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,5068,Barbara,1,1,0,0
+28_19,28,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,6696,Dimatis,0,1,0,0
+28_20,28,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,3653,Darii,0,1,0,0
+28_21,28,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,12943,Barbara,0,1,0,0
+28_22,28,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,3480,Dimatis,1,1,0,0
+28_23,28,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,5734,Dimatis,0,1,0,0
+28_24,28,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,5267,Disamis,0,1,0,0
+28_25,28,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,16583,Disamis,0,0,0,0
+28_26,28,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,4035,Darii,0,1,0,0
+28_27,28,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,4818,Barbara,1,1,0,0
+28_28,28,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,7980,Barbara,1,0,0,0
+28_29,28,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,15640,Dimatis,0,1,0,0
+28_30,28,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,8399,Barbara,0,1,0,0
+28_31,28,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,9151,Disamis,0,0,0,0
+28_32,28,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3131,Disamis,1,1,0,0
+28_33,28,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,4688,Disamis,1,1,0,0
+28_34,28,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,4358,Datisi,1,1,0,0
+28_35,28,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,6002,Datisi,1,1,0,0
+28_36,28,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,2256,Dimatis,1,1,0,0
+28_37,28,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3052,Disamis,0,1,0,0
+28_38,28,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,5122,Darii,1,1,0,0
+28_39,28,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,5628,Dimatis,0,1,0,0
+28_40,28,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,7408,Dimatis,0,1,0,0
+28_41,28,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,4871,Darii,0,1,0,0
+28_42,28,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3057,Datisi,0,1,0,0
+28_43,28,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,5524,Datisi,0,1,0,0
+28_44,28,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,6382,Barbara,0,1,0,0
+28_45,28,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,4412,Barbara,0,1,0,0
+28_46,28,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,3990,Datisi,0,0,0,0
+28_47,28,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,4767,Darii,0,1,0,0
+28_48,28,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3647,Dimatis,1,1,0,0
+28_49,28,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,4634,Disamis,0,0,0,0
+28_50,28,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,4817,Barbara,1,1,0,0
+28_51,28,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,4157,Darii,0,1,0,0
+28_52,28,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,6931,Dimatis,0,1,0,0
+28_53,28,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,5658,Darii,0,1,0,0
+28_54,28,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3683,Disamis,0,1,0,0
+28_55,28,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,4251,Datisi,0,1,0,0
+28_56,28,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,5657,Datisi,0,1,0,0
+28_57,28,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,5294,Darii,1,1,0,0
+28_58,28,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4705,Darii,0,1,0,0
+28_59,28,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,4836,Barbara,0,1,0,0
+28_60,28,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3812,Barbara,0,1,0,0
+29_1,29,Pilot-1,1,0,mugs,Valid Filler,Datisi,1,NA,10355,Datisi,1,0,0,0
+29_2,29,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3967,Disamis,1,1,0,0
+29_3,29,Pilot-1,3,1,dresses,Invalid Filler,Darii*,1,NA,5309,Darii,0,0,0,0
+29_4,29,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2510,Dimatis,1,1,0,0
+29_5,29,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,3303,Datisi,1,1,0,0
+29_6,29,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,3533,Darii,1,1,0,0
+29_7,29,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,3812,Darii,1,1,0,0
+29_8,29,Pilot-1,8,1,arms,Homonymy,Disamis,1,NA,5397,Disamis,0,0,0,0
+29_9,29,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,3134,Disamis,0,1,0,0
+29_10,29,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,3671,Barbara,0,1,0,0
+29_11,29,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,2509,Disamis,1,1,0,0
+29_12,29,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,3716,Datisi,0,1,0,0
+29_13,29,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,2846,Dimatis,0,1,0,0
+29_14,29,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,4785,Dimatis,0,1,0,0
+29_15,29,Pilot-1,15,1,panels,Homonymy,Datisi,1,NA,5081,Datisi,0,0,0,0
+29_16,29,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,3232,Datisi,0,1,0,0
+29_17,29,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,3136,Barbara,0,1,0,0
+29_18,29,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,3706,Barbara,1,1,0,0
+29_19,29,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,4414,Dimatis,0,1,0,0
+29_20,29,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,4029,Darii,0,0,0,0
+29_21,29,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,3420,Barbara,0,1,0,0
+29_22,29,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,2694,Dimatis,1,1,0,0
+29_23,29,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,2973,Dimatis,0,0,0,0
+29_24,29,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,4888,Disamis,0,1,0,0
+29_25,29,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,4411,Disamis,0,0,0,0
+29_26,29,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,5367,Darii,0,1,0,0
+29_27,29,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,2933,Barbara,1,1,0,0
+29_28,29,Pilot-1,28,0,phones,Valid Filler,Barbara,1,NA,4360,Barbara,1,0,0,0
+29_29,29,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3688,Dimatis,0,1,0,0
+29_30,29,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,2655,Barbara,0,1,0,0
+29_31,29,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,3454,Disamis,0,0,0,0
+29_32,29,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2831,Disamis,1,1,0,0
+29_33,29,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,2252,Disamis,1,1,0,0
+29_34,29,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,2318,Datisi,1,1,0,0
+29_35,29,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,3181,Datisi,1,1,0,0
+29_36,29,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,3158,Dimatis,1,1,0,0
+29_37,29,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,3389,Disamis,0,1,0,0
+29_38,29,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3552,Darii,1,1,0,0
+29_39,29,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,5127,Dimatis,0,1,0,0
+29_40,29,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,3798,Dimatis,0,0,0,0
+29_41,29,Pilot-1,41,1,tracks,Homonymy,Darii,1,NA,6071,Darii,0,0,0,0
+29_42,29,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3502,Datisi,0,1,0,0
+29_43,29,Pilot-1,43,1,columns,Homonymy,Datisi,1,NA,4756,Datisi,0,0,0,0
+29_44,29,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3248,Barbara,0,1,0,0
+29_45,29,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,3285,Barbara,0,1,0,0
+29_46,29,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,4137,Datisi,0,0,0,0
+29_47,29,Pilot-1,47,1,subscriptions,Polysemy,Darii,1,NA,3993,Darii,0,0,0,0
+29_48,29,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2536,Dimatis,1,1,0,0
+29_49,29,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,3129,Disamis,0,0,0,0
+29_50,29,Pilot-1,50,0,negotiations,Valid Filler,Barbara,1,NA,8285,Barbara,1,0,0,0
+29_51,29,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,3776,Darii,0,1,0,0
+29_52,29,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,5199,Dimatis,0,1,0,0
+29_53,29,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,3220,Darii,0,1,0,0
+29_54,29,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,2654,Disamis,0,1,0,0
+29_55,29,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,2685,Datisi,0,1,0,0
+29_56,29,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,3909,Datisi,0,1,0,0
+29_57,29,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,2831,Darii,1,1,0,0
+29_58,29,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4055,Darii,0,1,0,0
+29_59,29,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,2229,Barbara,0,1,0,0
+29_60,29,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,2569,Barbara,0,1,0,0
+30_1,30,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,50778,Dimatis,0,1,0,0
+30_2,30,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,36509,Barbara,0,1,0,0
+30_3,30,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,19259,Barbara,1,1,0,0
+30_4,30,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,56408,Darii,0,0,0,0
+30_5,30,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,4777,Disamis,0,0,0,0
+30_6,30,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,5980,Barbara,1,1,0,0
+30_7,30,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,7663,Datisi,0,1,0,0
+30_8,30,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,62872,Disamis,0,1,0,0
+30_9,30,Pilot-1,9,1,stones,Invalid Filler,Datisi*,2,NA,18846,Datisi,0,0,0,0
+30_10,30,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,4272,Barbara,1,1,0,0
+30_11,30,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,38737,Datisi,0,0,0,0
+30_12,30,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,39755,Datisi,0,1,0,0
+30_13,30,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,19441,Datisi,0,0,0,0
+30_14,30,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,4767,Darii,1,1,0,0
+30_15,30,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,5984,Disamis,0,0,0,0
+30_16,30,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,13772,Datisi,1,1,0,0
+30_17,30,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,3328,Disamis,1,1,0,0
+30_18,30,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,6738,Darii,0,1,0,0
+30_19,30,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,3315,Dimatis,1,1,0,0
+30_20,30,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,7105,Dimatis,0,1,0,0
+30_21,30,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,3596,Datisi,1,1,0,0
+30_22,30,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3017,Datisi,1,1,0,0
+30_23,30,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,11002,Dimatis,0,1,0,0
+30_24,30,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,5244,Dimatis,0,0,0,0
+30_25,30,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,4018,Dimatis,1,1,0,0
+30_26,30,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,24182,Darii,0,1,0,0
+30_27,30,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,5134,Darii,1,1,0,0
+30_28,30,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,4418,Disamis,1,1,0,0
+30_29,30,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,5370,Barbara,0,1,0,0
+30_30,30,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,3312,Disamis,1,1,0,0
+30_31,30,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,16198,Dimatis,0,0,0,0
+30_32,30,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,10306,Darii,0,0,0,0
+30_33,30,Pilot-1,33,0,singers,Valid Filler,Darii,2,NA,16829,Darii,1,0,0,0
+30_34,30,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,9735,Dimatis,0,1,0,0
+30_35,30,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,7679,Barbara,0,1,0,0
+30_36,30,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,5518,Darii,1,1,0,0
+30_37,30,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,37646,Disamis,0,1,0,0
+30_38,30,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,8527,Disamis,0,0,0,0
+30_39,30,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,41065,Barbara,0,1,0,0
+30_40,30,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,6353,Darii,0,0,0,0
+30_41,30,Pilot-1,41,1,chickens,Polysemy,Datisi,2,NA,9310,Datisi,0,0,0,0
+30_42,30,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,27211,Barbara,1,1,0,0
+30_43,30,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,17031,Disamis,0,1,0,0
+30_44,30,Pilot-1,44,1,mothers,Invalid Filler,Darii*,2,NA,59746,Darii,0,0,0,0
+30_45,30,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,6072,Dimatis,1,1,0,0
+30_46,30,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,6860,Disamis,0,1,0,0
+30_47,30,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,10048,Datisi,1,1,0,0
+30_48,30,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,5258,Barbara,0,1,0,0
+30_49,30,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,9318,Barbara,0,1,0,0
+30_50,30,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,52671,Darii,0,1,0,0
+30_51,30,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,49228,Barbara,0,1,0,0
+30_52,30,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,10723,Dimatis,1,1,0,0
+30_53,30,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,51207,Dimatis,0,0,0,0
+30_54,30,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,5830,Datisi,0,1,0,0
+30_55,30,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,8032,Dimatis,0,0,0,0
+30_56,30,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,16333,Datisi,0,0,0,0
+30_57,30,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,11166,Disamis,1,1,0,0
+30_58,30,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,44364,Disamis,0,1,0,0
+30_59,30,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,3695,Barbara,0,1,0,0
+30_60,30,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,5878,Darii,0,1,0,0
+31_1,31,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,3158,Dimatis,0,1,0,0
+31_2,31,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,33512,Barbara,0,1,0,0
+31_3,31,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,12697,Barbara,1,1,0,0
+31_4,31,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,4268,Darii,0,1,0,0
+31_5,31,Pilot-1,5,0,classes,Polysemy,Disamis,2,NA,3864,Disamis,0,1,0,0
+31_6,31,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,6416,Barbara,1,1,0,0
+31_7,31,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,2685,Datisi,0,1,0,0
+31_8,31,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2020,Disamis,0,1,0,0
+31_9,31,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,14925,Datisi,0,1,0,0
+31_10,31,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,9340,Barbara,1,1,0,0
+31_11,31,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,4408,Datisi,0,0,0,0
+31_12,31,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,2380,Datisi,0,1,0,0
+31_13,31,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,3756,Datisi,0,0,0,0
+31_14,31,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,7869,Darii,1,1,0,0
+31_15,31,Pilot-1,15,0,dates,Homonymy,Disamis,2,NA,8087,Disamis,0,1,0,0
+31_16,31,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2660,Datisi,1,1,0,0
+31_17,31,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,2586,Disamis,1,1,0,0
+31_18,31,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,1782,Darii,0,1,0,0
+31_19,31,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,2450,Dimatis,1,1,0,0
+31_20,31,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,2382,Dimatis,0,1,0,0
+31_21,31,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,2088,Datisi,1,1,0,0
+31_22,31,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,1744,Datisi,1,1,0,0
+31_23,31,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,2782,Dimatis,0,1,0,0
+31_24,31,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,1928,Dimatis,0,1,0,0
+31_25,31,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1664,Dimatis,1,1,0,0
+31_26,31,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,7709,Darii,0,1,0,0
+31_27,31,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2096,Darii,1,1,0,0
+31_28,31,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,1690,Disamis,1,1,0,0
+31_29,31,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2330,Barbara,0,1,0,0
+31_30,31,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2682,Disamis,1,1,0,0
+31_31,31,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,4745,Dimatis,0,1,0,0
+31_32,31,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,14646,Darii,0,0,0,0
+31_33,31,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,2234,Darii,1,1,0,0
+31_34,31,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,2096,Dimatis,0,1,0,0
+31_35,31,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,2468,Barbara,0,1,0,0
+31_36,31,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,1797,Darii,1,1,0,0
+31_37,31,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,2462,Disamis,0,1,0,0
+31_38,31,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,4390,Disamis,0,0,0,0
+31_39,31,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,2452,Barbara,0,1,0,0
+31_40,31,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,1444,Darii,0,1,0,0
+31_41,31,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,2801,Datisi,0,1,0,0
+31_42,31,Pilot-1,42,0,dinosaurs,Valid Filler,Barbara,2,NA,2287,Barbara,1,0,0,0
+31_43,31,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,65334,Disamis,0,1,0,0
+31_44,31,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,3063,Darii,0,1,0,0
+31_45,31,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3276,Dimatis,1,1,0,0
+31_46,31,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,1572,Disamis,0,1,0,0
+31_47,31,Pilot-1,47,0,statues,Valid Filler,Datisi,2,NA,8630,Datisi,1,0,0,0
+31_48,31,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,1658,Barbara,0,1,0,0
+31_49,31,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2763,Barbara,0,1,0,0
+31_50,31,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,2290,Darii,0,0,0,0
+31_51,31,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,2464,Barbara,0,1,0,0
+31_52,31,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2119,Dimatis,1,1,0,0
+31_53,31,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,3241,Dimatis,0,1,0,0
+31_54,31,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,2656,Datisi,0,1,0,0
+31_55,31,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,20528,Dimatis,0,0,0,0
+31_56,31,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,3382,Datisi,0,1,0,0
+31_57,31,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,1839,Disamis,1,1,0,0
+31_58,31,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,4333,Disamis,0,0,0,0
+31_59,31,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,1607,Barbara,0,1,0,0
+31_60,31,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,1845,Darii,0,1,0,0
+32_1,32,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,9309,Dimatis,0,1,0,0
+32_2,32,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,3545,Barbara,0,1,0,0
+32_3,32,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,2974,Barbara,1,1,0,0
+32_4,32,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,5110,Darii,0,1,0,0
+32_5,32,Pilot-1,5,0,classes,Polysemy,Disamis,2,NA,18991,Disamis,0,1,0,0
+32_6,32,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,4818,Barbara,1,1,0,0
+32_7,32,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,3236,Datisi,0,1,0,0
+32_8,32,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2421,Disamis,0,1,0,0
+32_9,32,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,1599,Datisi,0,1,0,0
+32_10,32,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,4567,Barbara,1,1,0,0
+32_11,32,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,2490,Datisi,0,0,0,0
+32_12,32,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,3606,Datisi,0,1,0,0
+32_13,32,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,2589,Datisi,0,1,0,0
+32_14,32,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2783,Darii,1,1,0,0
+32_15,32,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,1840,Disamis,0,0,0,0
+32_16,32,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,2424,Datisi,1,1,0,0
+32_17,32,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,1908,Disamis,1,1,0,0
+32_18,32,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,2229,Darii,0,1,0,0
+32_19,32,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,1540,Dimatis,1,1,0,0
+32_20,32,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,13482,Dimatis,0,1,0,0
+32_21,32,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,8433,Datisi,1,1,0,0
+32_22,32,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2138,Datisi,1,1,0,0
+32_23,32,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,7589,Dimatis,0,1,0,0
+32_24,32,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,2261,Dimatis,0,1,0,0
+32_25,32,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1785,Dimatis,1,1,0,0
+32_26,32,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,3569,Darii,0,1,0,0
+32_27,32,Pilot-1,27,0,clowns,Valid Filler,Darii,2,NA,2707,Darii,1,0,0,0
+32_28,32,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2289,Disamis,1,1,0,0
+32_29,32,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,2756,Barbara,0,1,0,0
+32_30,32,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2673,Disamis,1,1,0,0
+32_31,32,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,2359,Dimatis,0,0,0,0
+32_32,32,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,4117,Darii,0,0,0,0
+32_33,32,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,4315,Darii,1,1,0,0
+32_34,32,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,4912,Dimatis,0,1,0,0
+32_35,32,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,8587,Barbara,0,1,0,0
+32_36,32,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,2528,Darii,1,1,0,0
+32_37,32,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,3459,Disamis,0,1,0,0
+32_38,32,Pilot-1,38,0,examinations,Polysemy,Disamis,2,NA,3285,Disamis,0,1,0,0
+32_39,32,Pilot-1,39,1,admissions,Homonymy,Barbara,2,NA,6235,Barbara,0,0,0,0
+32_40,32,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,2678,Darii,0,0,0,0
+32_41,32,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,85710,Datisi,0,1,0,0
+32_42,32,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,2911,Barbara,1,1,0,0
+32_43,32,Pilot-1,43,1,colors,Invalid Filler,Disamis*,2,NA,2797,Disamis,0,0,0,0
+32_44,32,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,2468,Darii,0,1,0,0
+32_45,32,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3156,Dimatis,1,1,0,0
+32_46,32,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,2804,Disamis,0,1,0,0
+32_47,32,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2549,Datisi,1,1,0,0
+32_48,32,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,4547,Barbara,0,1,0,0
+32_49,32,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2604,Barbara,0,1,0,0
+32_50,32,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,5443,Darii,0,1,0,0
+32_51,32,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3044,Barbara,0,1,0,0
+32_52,32,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,2420,Dimatis,1,1,0,0
+32_53,32,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,4365,Dimatis,0,1,0,0
+32_54,32,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,3067,Datisi,0,1,0,0
+32_55,32,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,2723,Dimatis,0,0,0,0
+32_56,32,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,110070,Datisi,0,0,0,0
+32_57,32,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,2191,Disamis,1,1,0,0
+32_58,32,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,3484,Disamis,0,0,0,0
+32_59,32,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,2994,Barbara,0,1,0,0
+32_60,32,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2899,Darii,0,1,0,0
+33_1,33,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,3564,Datisi,1,1,0,0
+33_2,33,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,3767,Disamis,1,1,0,0
+33_3,33,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,13610,Darii,0,1,0,0
+33_4,33,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2303,Dimatis,1,1,0,0
+33_5,33,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2745,Datisi,1,1,0,0
+33_6,33,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,1746,Darii,1,1,0,0
+33_7,33,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,1524,Darii,1,1,0,0
+33_8,33,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,3619,Disamis,0,1,0,0
+33_9,33,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,3235,Disamis,0,1,0,0
+33_10,33,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,2214,Barbara,0,1,0,0
+33_11,33,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,1882,Disamis,1,1,0,0
+33_12,33,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,2143,Datisi,0,1,0,0
+33_13,33,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,1853,Dimatis,0,1,0,0
+33_14,33,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,2953,Dimatis,0,1,0,0
+33_15,33,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4406,Datisi,0,1,0,0
+33_16,33,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,20440,Datisi,0,1,0,0
+33_17,33,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,1803,Barbara,0,1,0,0
+33_18,33,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,34437,Barbara,1,1,0,0
+33_19,33,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,5513,Dimatis,0,1,0,0
+33_20,33,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,3103,Darii,0,0,0,0
+33_21,33,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,2333,Barbara,0,1,0,0
+33_22,33,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,3173,Dimatis,1,1,0,0
+33_23,33,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,2926,Dimatis,0,1,0,0
+33_24,33,Pilot-1,24,1,colors,Invalid Filler,Disamis*,1,NA,3236,Disamis,0,0,0,0
+33_25,33,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,2793,Disamis,0,0,0,0
+33_26,33,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3767,Darii,0,1,0,0
+33_27,33,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,10061,Barbara,1,1,0,0
+33_28,33,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,2267,Barbara,1,1,0,0
+33_29,33,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,2563,Dimatis,0,1,0,0
+33_30,33,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,1866,Barbara,0,1,0,0
+33_31,33,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,1924,Disamis,0,0,0,0
+33_32,33,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2883,Disamis,1,1,0,0
+33_33,33,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,3692,Disamis,1,1,0,0
+33_34,33,Pilot-1,34,0,ponies,Valid Filler,Datisi,1,NA,3702,Datisi,1,0,0,0
+33_35,33,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,5834,Datisi,1,1,0,0
+33_36,33,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,1642,Dimatis,1,1,0,0
+33_37,33,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,2272,Disamis,0,1,0,0
+33_38,33,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,1833,Darii,1,1,0,0
+33_39,33,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,2193,Dimatis,0,1,0,0
+33_40,33,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,1923,Dimatis,0,0,0,0
+33_41,33,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,2533,Darii,0,1,0,0
+33_42,33,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,2094,Datisi,0,1,0,0
+33_43,33,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,2244,Datisi,0,1,0,0
+33_44,33,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,2566,Barbara,0,1,0,0
+33_45,33,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,1533,Barbara,0,1,0,0
+33_46,33,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,1813,Datisi,0,0,0,0
+33_47,33,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,1724,Darii,0,1,0,0
+33_48,33,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,1444,Dimatis,1,1,0,0
+33_49,33,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,2543,Disamis,0,0,0,0
+33_50,33,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,2224,Barbara,1,1,0,0
+33_51,33,Pilot-1,51,1,antiques,Invalid Filler,Darii*,1,NA,3877,Darii,0,0,0,0
+33_52,33,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,3015,Dimatis,0,1,0,0
+33_53,33,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,2607,Darii,0,1,0,0
+33_54,33,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,2914,Disamis,0,1,0,0
+33_55,33,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,1635,Datisi,0,1,0,0
+33_56,33,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,2004,Datisi,0,1,0,0
+33_57,33,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,1964,Darii,1,1,0,0
+33_58,33,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,1845,Darii,0,1,0,0
+33_59,33,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,7433,Barbara,0,1,0,0
+33_60,33,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,2992,Barbara,0,1,0,0
+34_1,34,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,7677,Dimatis,0,1,0,0
+34_2,34,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,6389,Barbara,0,1,0,0
+34_3,34,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,7642,Barbara,1,1,0,0
+34_4,34,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,9241,Darii,0,1,0,0
+34_5,34,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,6231,Disamis,0,0,0,0
+34_6,34,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,7099,Barbara,1,1,0,0
+34_7,34,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,6677,Datisi,0,1,0,0
+34_8,34,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,5460,Disamis,0,1,0,0
+34_9,34,Pilot-1,9,1,stones,Invalid Filler,Datisi*,2,NA,4580,Datisi,0,0,0,0
+34_10,34,Pilot-1,10,0,phones,Valid Filler,Barbara,2,NA,5521,Barbara,1,0,0,0
+34_11,34,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,5700,Datisi,0,0,0,0
+34_12,34,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,5897,Datisi,0,1,0,0
+34_13,34,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,4765,Datisi,0,1,0,0
+34_14,34,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,4366,Darii,1,1,0,0
+34_15,34,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,4979,Disamis,0,0,0,0
+34_16,34,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,5254,Datisi,1,1,0,0
+34_17,34,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,4579,Disamis,1,1,0,0
+34_18,34,Pilot-1,18,1,subscriptions,Polysemy,Darii,2,NA,6580,Darii,0,0,0,0
+34_19,34,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,4730,Dimatis,1,1,0,0
+34_20,34,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,5926,Dimatis,0,1,0,0
+34_21,34,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,4794,Datisi,1,1,0,0
+34_22,34,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3831,Datisi,1,1,0,0
+34_23,34,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,7908,Dimatis,0,1,0,0
+34_24,34,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,7646,Dimatis,0,0,0,0
+34_25,34,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,4337,Dimatis,1,1,0,0
+34_26,34,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,5461,Darii,0,1,0,0
+34_27,34,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,4338,Darii,1,1,0,0
+34_28,34,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,4697,Disamis,1,1,0,0
+34_29,34,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,4566,Barbara,0,1,0,0
+34_30,34,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,4254,Disamis,1,1,0,0
+34_31,34,Pilot-1,31,1,peppers,Invalid Filler,Dimatis*,2,NA,5793,Dimatis,0,0,0,0
+34_32,34,Pilot-1,32,0,tracks,Homonymy,Darii,2,NA,6883,Darii,0,1,0,0
+34_33,34,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,4419,Darii,1,1,0,0
+34_34,34,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,7065,Dimatis,0,1,0,0
+34_35,34,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,6344,Barbara,0,1,0,0
+34_36,34,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,4732,Darii,1,1,0,0
+34_37,34,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,4271,Disamis,0,0,0,0
+34_38,34,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,6666,Disamis,0,0,0,0
+34_39,34,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,5859,Barbara,0,1,0,0
+34_40,34,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,5552,Darii,0,0,0,0
+34_41,34,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,7377,Datisi,0,1,0,0
+34_42,34,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,6077,Barbara,1,1,0,0
+34_43,34,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,5069,Disamis,0,1,0,0
+34_44,34,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,4951,Darii,0,1,0,0
+34_45,34,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,5182,Dimatis,1,1,0,0
+34_46,34,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,4788,Disamis,0,1,0,0
+34_47,34,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,4180,Datisi,1,1,0,0
+34_48,34,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,4950,Barbara,0,1,0,0
+34_49,34,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,5407,Barbara,0,1,0,0
+34_50,34,Pilot-1,50,1,dresses,Invalid Filler,Darii*,2,NA,6303,Darii,0,0,0,0
+34_51,34,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,6429,Barbara,0,1,0,0
+34_52,34,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,5255,Dimatis,1,1,0,0
+34_53,34,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,6341,Dimatis,0,0,0,0
+34_54,34,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,5887,Datisi,0,1,0,0
+34_55,34,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,6170,Dimatis,0,1,0,0
+34_56,34,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,5698,Datisi,0,1,0,0
+34_57,34,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,9432,Disamis,1,1,0,0
+34_58,34,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,5600,Disamis,0,1,0,0
+34_59,34,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,4490,Barbara,0,1,0,0
+34_60,34,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,8287,Darii,0,1,0,0
+35_1,35,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,6584,Datisi,1,1,0,0
+35_2,35,Pilot-1,2,0,burgers,Valid Filler,Disamis,1,NA,5270,Disamis,1,0,0,0
+35_3,35,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,9963,Darii,0,1,0,0
+35_4,35,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,5140,Dimatis,1,1,0,0
+35_5,35,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,6283,Datisi,1,1,0,0
+35_6,35,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,4203,Darii,1,1,0,0
+35_7,35,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,5317,Darii,1,1,0,0
+35_8,35,Pilot-1,8,1,arms,Homonymy,Disamis,1,NA,6322,Disamis,0,0,0,0
+35_9,35,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,36960,Disamis,0,1,0,0
+35_10,35,Pilot-1,10,1,dinners,Polysemy,Barbara,1,NA,7694,Barbara,0,0,0,0
+35_11,35,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,4659,Disamis,1,1,0,0
+35_12,35,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,6592,Datisi,0,1,0,0
+35_13,35,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,6369,Dimatis,0,1,0,0
+35_14,35,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,6849,Dimatis,0,1,0,0
+35_15,35,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4521,Datisi,0,1,0,0
+35_16,35,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,6230,Datisi,0,1,0,0
+35_17,35,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,6056,Barbara,0,1,0,0
+35_18,35,Pilot-1,18,0,whales,Valid Filler,Barbara,1,NA,26012,Barbara,1,0,0,0
+35_19,35,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,9421,Dimatis,0,1,0,0
+35_20,35,Pilot-1,20,1,sandwiches,Polysemy,Darii,1,NA,6444,Darii,0,0,0,0
+35_21,35,Pilot-1,21,1,admissions,Homonymy,Barbara,1,NA,7801,Barbara,0,0,0,0
+35_22,35,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,5246,Dimatis,1,1,0,0
+35_23,35,Pilot-1,23,1,peppers,Invalid Filler,Dimatis*,1,NA,5582,Dimatis,0,0,0,0
+35_24,35,Pilot-1,24,1,colors,Invalid Filler,Disamis*,1,NA,6760,Disamis,0,0,0,0
+35_25,35,Pilot-1,25,0,examinations,Polysemy,Disamis,1,NA,9934,Disamis,0,1,0,0
+35_26,35,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,4386,Darii,0,1,0,0
+35_27,35,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,30456,Barbara,1,1,0,0
+35_28,35,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,3052,Barbara,1,1,0,0
+35_29,35,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,7720,Dimatis,0,1,0,0
+35_30,35,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,3495,Barbara,0,1,0,0
+35_31,35,Pilot-1,31,0,dates,Homonymy,Disamis,1,NA,5956,Disamis,0,1,0,0
+35_32,35,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,3370,Disamis,1,1,0,0
+35_33,35,Pilot-1,33,0,swords,Valid Filler,Disamis,1,NA,6169,Disamis,1,0,0,0
+35_34,35,Pilot-1,34,0,ponies,Valid Filler,Datisi,1,NA,20494,Datisi,1,0,0,0
+35_35,35,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,6617,Datisi,1,1,0,0
+35_36,35,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,4685,Dimatis,1,1,0,0
+35_37,35,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,1,NA,26586,Disamis,0,0,0,0
+35_38,35,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3535,Darii,1,1,0,0
+35_39,35,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,4264,Dimatis,0,1,0,0
+35_40,35,Pilot-1,40,0,thieves,Invalid Filler,Dimatis*,1,NA,7257,Dimatis,0,1,0,0
+35_41,35,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,5244,Darii,0,1,0,0
+35_42,35,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,23347,Datisi,0,1,0,0
+35_43,35,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,3580,Datisi,0,1,0,0
+35_44,35,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,7896,Barbara,0,1,0,0
+35_45,35,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,4393,Barbara,0,1,0,0
+35_46,35,Pilot-1,46,1,actors,Invalid Filler,Datisi*,1,NA,27348,Datisi,0,0,0,0
+35_47,35,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,3836,Darii,0,1,0,0
+35_48,35,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,3543,Dimatis,1,1,0,0
+35_49,35,Pilot-1,49,1,classes,Polysemy,Disamis,1,NA,3818,Disamis,0,0,0,0
+35_50,35,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,4109,Barbara,1,1,0,0
+35_51,35,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,4867,Darii,0,1,0,0
+35_52,35,Pilot-1,52,0,books,Polysemy,Dimatis,1,NA,3891,Dimatis,0,1,0,0
+35_53,35,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,5193,Darii,0,1,0,0
+35_54,35,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,3825,Disamis,0,1,0,0
+35_55,35,Pilot-1,55,0,sausages,Invalid Filler,Datisi*,1,NA,21015,Datisi,0,1,0,0
+35_56,35,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,5606,Datisi,0,1,0,0
+35_57,35,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,5776,Darii,1,1,0,0
+35_58,35,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,4267,Darii,0,1,0,0
+35_59,35,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,4048,Barbara,0,1,0,0
+35_60,35,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,4046,Barbara,0,1,0,0
+36_1,36,Pilot-1,1,1,mugs,Valid Filler,Datisi,1,NA,5013,Datisi,1,1,0,0
+36_2,36,Pilot-1,2,1,burgers,Valid Filler,Disamis,1,NA,5046,Disamis,1,1,0,0
+36_3,36,Pilot-1,3,0,dresses,Invalid Filler,Darii*,1,NA,10163,Darii,0,1,0,0
+36_4,36,Pilot-1,4,1,trucks,Valid Filler,Dimatis,1,NA,2557,Dimatis,1,1,0,0
+36_5,36,Pilot-1,5,1,poets,Valid Filler,Datisi,1,NA,2498,Datisi,1,1,0,0
+36_6,36,Pilot-1,6,1,doughnuts,Valid Filler,Darii,1,NA,2595,Darii,1,1,0,0
+36_7,36,Pilot-1,7,1,dolls,Valid Filler,Darii,1,NA,3039,Darii,1,1,0,0
+36_8,36,Pilot-1,8,0,arms,Homonymy,Disamis,1,NA,2996,Disamis,0,1,0,0
+36_9,36,Pilot-1,9,0,toilets,Invalid Filler,Disamis*,1,NA,4991,Disamis,0,1,0,0
+36_10,36,Pilot-1,10,0,dinners,Polysemy,Barbara,1,NA,3691,Barbara,0,1,0,0
+36_11,36,Pilot-1,11,1,rifles,Valid Filler,Disamis,1,NA,3464,Disamis,1,1,0,0
+36_12,36,Pilot-1,12,0,chickens,Polysemy,Datisi,1,NA,4393,Datisi,0,1,0,0
+36_13,36,Pilot-1,13,0,boards,Homonymy,Dimatis,1,NA,3347,Dimatis,0,1,0,0
+36_14,36,Pilot-1,14,0,foundations,Homonymy,Dimatis,1,NA,3112,Dimatis,0,1,0,0
+36_15,36,Pilot-1,15,0,panels,Homonymy,Datisi,1,NA,4644,Datisi,0,1,0,0
+36_16,36,Pilot-1,16,0,oil,Polysemy,Datisi,1,NA,49162,Datisi,0,1,0,0
+36_17,36,Pilot-1,17,0,dreams,Polysemy,Barbara,1,NA,2446,Barbara,0,1,0,0
+36_18,36,Pilot-1,18,1,whales,Valid Filler,Barbara,1,NA,4377,Barbara,1,1,0,0
+36_19,36,Pilot-1,19,0,spices,Invalid Filler,Dimatis*,1,NA,2556,Dimatis,0,1,0,0
+36_20,36,Pilot-1,20,0,sandwiches,Polysemy,Darii,1,NA,3616,Darii,0,1,0,0
+36_21,36,Pilot-1,21,0,admissions,Homonymy,Barbara,1,NA,3427,Barbara,0,1,0,0
+36_22,36,Pilot-1,22,1,suitcases,Valid Filler,Dimatis,1,NA,4638,Dimatis,1,1,0,0
+36_23,36,Pilot-1,23,0,peppers,Invalid Filler,Dimatis*,1,NA,13854,Dimatis,0,1,0,0
+36_24,36,Pilot-1,24,0,colors,Invalid Filler,Disamis*,1,NA,13708,Disamis,0,1,0,0
+36_25,36,Pilot-1,25,1,examinations,Polysemy,Disamis,1,NA,18353,Disamis,0,0,0,0
+36_26,36,Pilot-1,26,0,tapes,Homonymy,Darii,1,NA,3250,Darii,0,1,0,0
+36_27,36,Pilot-1,27,1,dinosaurs,Valid Filler,Barbara,1,NA,3721,Barbara,1,1,0,0
+36_28,36,Pilot-1,28,1,phones,Valid Filler,Barbara,1,NA,5944,Barbara,1,1,0,0
+36_29,36,Pilot-1,29,0,newspapers,Polysemy,Dimatis,1,NA,3550,Dimatis,0,1,0,0
+36_30,36,Pilot-1,30,0,buildings,Invalid Filler,Barbara*,1,NA,2913,Barbara,0,1,0,0
+36_31,36,Pilot-1,31,1,dates,Homonymy,Disamis,1,NA,10399,Disamis,0,0,0,0
+36_32,36,Pilot-1,32,1,grapes,Valid Filler,Disamis,1,NA,2494,Disamis,1,1,0,0
+36_33,36,Pilot-1,33,1,swords,Valid Filler,Disamis,1,NA,2917,Disamis,1,1,0,0
+36_34,36,Pilot-1,34,1,ponies,Valid Filler,Datisi,1,NA,3608,Datisi,1,1,0,0
+36_35,36,Pilot-1,35,1,statues,Valid Filler,Datisi,1,NA,4349,Datisi,1,1,0,0
+36_36,36,Pilot-1,36,1,widows,Valid Filler,Dimatis,1,NA,8696,Dimatis,1,1,0,0
+36_37,36,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,1,NA,9572,Disamis,0,1,0,0
+36_38,36,Pilot-1,38,1,clowns,Valid Filler,Darii,1,NA,3756,Darii,1,1,0,0
+36_39,36,Pilot-1,39,0,injuries,Invalid Filler,Dimatis*,1,NA,4236,Dimatis,0,1,0,0
+36_40,36,Pilot-1,40,1,thieves,Invalid Filler,Dimatis*,1,NA,4243,Dimatis,0,0,0,0
+36_41,36,Pilot-1,41,0,tracks,Homonymy,Darii,1,NA,5196,Darii,0,1,0,0
+36_42,36,Pilot-1,42,0,stones,Invalid Filler,Datisi*,1,NA,3614,Datisi,0,1,0,0
+36_43,36,Pilot-1,43,0,columns,Homonymy,Datisi,1,NA,2779,Datisi,0,1,0,0
+36_44,36,Pilot-1,44,0,movements,Homonymy,Barbara,1,NA,3980,Barbara,0,1,0,0
+36_45,36,Pilot-1,45,0,organs,Invalid Filler,Barbara*,1,NA,2494,Barbara,0,1,0,0
+36_46,36,Pilot-1,46,0,actors,Invalid Filler,Datisi*,1,NA,8150,Datisi,0,1,0,0
+36_47,36,Pilot-1,47,0,subscriptions,Polysemy,Darii,1,NA,2271,Darii,0,1,0,0
+36_48,36,Pilot-1,48,1,liars,Valid Filler,Dimatis,1,NA,2756,Dimatis,1,1,0,0
+36_49,36,Pilot-1,49,0,classes,Polysemy,Disamis,1,NA,4761,Disamis,0,1,0,0
+36_50,36,Pilot-1,50,1,negotiations,Valid Filler,Barbara,1,NA,5220,Barbara,1,1,0,0
+36_51,36,Pilot-1,51,0,antiques,Invalid Filler,Darii*,1,NA,8534,Darii,0,1,0,0
+36_52,36,Pilot-1,52,1,books,Polysemy,Dimatis,1,NA,6907,Dimatis,0,0,0,0
+36_53,36,Pilot-1,53,0,dances,Invalid Filler,Darii*,1,NA,3870,Darii,0,1,0,0
+36_54,36,Pilot-1,54,0,shapes,Invalid Filler,Disamis*,1,NA,4816,Disamis,0,1,0,0
+36_55,36,Pilot-1,55,1,sausages,Invalid Filler,Datisi*,1,NA,5294,Datisi,0,0,0,0
+36_56,36,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,1,NA,3189,Datisi,0,1,0,0
+36_57,36,Pilot-1,57,1,singers,Valid Filler,Darii,1,NA,3878,Darii,1,1,0,0
+36_58,36,Pilot-1,58,0,mothers,Invalid Filler,Darii*,1,NA,9339,Darii,0,1,0,0
+36_59,36,Pilot-1,59,0,clocks,Invalid Filler,Barbara*,1,NA,2958,Barbara,0,1,0,0
+36_60,36,Pilot-1,60,0,drivers,Invalid Filler,Barbara*,1,NA,3540,Barbara,0,1,0,0
+37_1,37,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,46944,Dimatis,0,1,0,0
+37_2,37,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,29926,Barbara,0,1,0,0
+37_3,37,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,19810,Barbara,1,1,0,0
+37_4,37,Pilot-1,4,1,antiques,Invalid Filler,Darii*,2,NA,7296,Darii,0,0,0,0
+37_5,37,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,7754,Disamis,0,0,0,0
+37_6,37,Pilot-1,6,0,negotiations,Valid Filler,Barbara,2,NA,77830,Barbara,1,0,0,0
+37_7,37,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,8020,Datisi,0,0,0,0
+37_8,37,Pilot-1,8,1,arms,Homonymy,Disamis,2,NA,4360,Disamis,0,0,0,0
+37_9,37,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,7283,Datisi,0,1,0,0
+37_10,37,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,4504,Barbara,1,1,0,0
+37_11,37,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,9256,Datisi,0,0,0,0
+37_12,37,Pilot-1,12,1,oil,Polysemy,Datisi,2,NA,9946,Datisi,0,0,0,0
+37_13,37,Pilot-1,13,1,sausages,Invalid Filler,Datisi*,2,NA,3150,Datisi,0,0,0,0
+37_14,37,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,2905,Darii,1,1,0,0
+37_15,37,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,4646,Disamis,0,0,0,0
+37_16,37,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,20871,Datisi,1,1,0,0
+37_17,37,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,5626,Disamis,1,1,0,0
+37_18,37,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,5111,Darii,0,1,0,0
+37_19,37,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,3923,Dimatis,1,1,0,0
+37_20,37,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,4235,Dimatis,0,1,0,0
+37_21,37,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,3342,Datisi,1,1,0,0
+37_22,37,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,2047,Datisi,1,1,0,0
+37_23,37,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,7346,Dimatis,0,1,0,0
+37_24,37,Pilot-1,24,1,books,Polysemy,Dimatis,2,NA,5024,Dimatis,0,0,0,0
+37_25,37,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,1927,Dimatis,1,1,0,0
+37_26,37,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,5727,Darii,0,0,0,0
+37_27,37,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,2727,Darii,1,1,0,0
+37_28,37,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2261,Disamis,1,1,0,0
+37_29,37,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,3546,Barbara,0,1,0,0
+37_30,37,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2760,Disamis,1,1,0,0
+37_31,37,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,7646,Dimatis,0,1,0,0
+37_32,37,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,8521,Darii,0,0,0,0
+37_33,37,Pilot-1,33,0,singers,Valid Filler,Darii,2,NA,4967,Darii,1,0,0,0
+37_34,37,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,6103,Dimatis,0,1,0,0
+37_35,37,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,8785,Barbara,0,1,0,0
+37_36,37,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,4576,Darii,1,1,0,0
+37_37,37,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,3624,Disamis,0,1,0,0
+37_38,37,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,5765,Disamis,0,0,0,0
+37_39,37,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,3792,Barbara,0,1,0,0
+37_40,37,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,2888,Darii,0,0,0,0
+37_41,37,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,3135,Datisi,0,1,0,0
+37_42,37,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,5808,Barbara,1,1,0,0
+37_43,37,Pilot-1,43,1,colors,Invalid Filler,Disamis*,2,NA,4195,Disamis,0,0,0,0
+37_44,37,Pilot-1,44,1,mothers,Invalid Filler,Darii*,2,NA,6796,Darii,0,0,0,0
+37_45,37,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,5896,Dimatis,1,1,0,0
+37_46,37,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,4406,Disamis,0,1,0,0
+37_47,37,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,2937,Datisi,1,1,0,0
+37_48,37,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,3262,Barbara,0,1,0,0
+37_49,37,Pilot-1,49,1,drivers,Invalid Filler,Barbara*,2,NA,6247,Barbara,0,0,0,0
+37_50,37,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,7455,Darii,0,1,0,0
+37_51,37,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3711,Barbara,0,1,0,0
+37_52,37,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,1967,Dimatis,1,1,0,0
+37_53,37,Pilot-1,53,1,spices,Invalid Filler,Dimatis*,2,NA,5049,Dimatis,0,0,0,0
+37_54,37,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,5751,Datisi,0,1,0,0
+37_55,37,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,3449,Dimatis,0,0,0,0
+37_56,37,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,4085,Datisi,0,1,0,0
+37_57,37,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,4041,Disamis,1,1,0,0
+37_58,37,Pilot-1,58,1,toilets,Invalid Filler,Disamis*,2,NA,7521,Disamis,0,0,0,0
+37_59,37,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,3014,Barbara,0,1,0,0
+37_60,37,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,4423,Darii,0,1,0,0
+38_1,38,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,7450,Dimatis,0,1,0,0
+38_2,38,Pilot-1,2,1,clocks,Invalid Filler,Barbara*,2,NA,24385,Barbara,0,0,0,0
+38_3,38,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,31364,Barbara,1,1,0,0
+38_4,38,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,10411,Darii,0,1,0,0
+38_5,38,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,10026,Disamis,0,0,0,0
+38_6,38,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,10852,Barbara,1,1,0,0
+38_7,38,Pilot-1,7,1,columns,Homonymy,Datisi,2,NA,8934,Datisi,0,0,0,0
+38_8,38,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,40603,Disamis,0,1,0,0
+38_9,38,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,7825,Datisi,0,1,0,0
+38_10,38,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,5119,Barbara,1,1,0,0
+38_11,38,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,6129,Datisi,0,0,0,0
+38_12,38,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,12831,Datisi,0,1,0,0
+38_13,38,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,36078,Datisi,0,1,0,0
+38_14,38,Pilot-1,14,0,dolls,Valid Filler,Darii,2,NA,16848,Darii,1,0,0,0
+38_15,38,Pilot-1,15,0,dates,Homonymy,Disamis,2,NA,18226,Disamis,0,1,0,0
+38_16,38,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,36666,Datisi,1,1,0,0
+38_17,38,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,6482,Disamis,1,1,0,0
+38_18,38,Pilot-1,18,1,subscriptions,Polysemy,Darii,2,NA,5150,Darii,0,0,0,0
+38_19,38,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,9702,Dimatis,1,1,0,0
+38_20,38,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,8407,Dimatis,0,1,0,0
+38_21,38,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,12513,Datisi,1,1,0,0
+38_22,38,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,7460,Datisi,1,1,0,0
+38_23,38,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,30992,Dimatis,0,1,0,0
+38_24,38,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,37178,Dimatis,0,1,0,0
+38_25,38,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,7114,Dimatis,1,1,0,0
+38_26,38,Pilot-1,26,1,dances,Invalid Filler,Darii*,2,NA,92902,Darii,0,0,0,0
+38_27,38,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,5975,Darii,1,1,0,0
+38_28,38,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,10580,Disamis,1,1,0,0
+38_29,38,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,8524,Barbara,0,1,0,0
+38_30,38,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,4541,Disamis,1,1,0,0
+38_31,38,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,94662,Dimatis,0,1,0,0
+38_32,38,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,17522,Darii,0,0,0,0
+38_33,38,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,7883,Darii,1,1,0,0
+38_34,38,Pilot-1,34,1,foundations,Homonymy,Dimatis,2,NA,10649,Dimatis,0,0,0,0
+38_35,38,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,28285,Barbara,0,1,0,0
+38_36,38,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,25310,Darii,1,1,0,0
+38_37,38,Pilot-1,37,1,steaks,Invalid Filler,Disamis*,2,NA,90881,Disamis,0,0,0,0
+38_38,38,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,5968,Disamis,0,0,0,0
+38_39,38,Pilot-1,39,1,admissions,Homonymy,Barbara,2,NA,5663,Barbara,0,0,0,0
+38_40,38,Pilot-1,40,0,sandwiches,Polysemy,Darii,2,NA,28673,Darii,0,1,0,0
+38_41,38,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,14123,Datisi,0,1,0,0
+38_42,38,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,27798,Barbara,1,1,0,0
+38_43,38,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,6081,Disamis,0,1,0,0
+38_44,38,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,6373,Darii,0,1,0,0
+38_45,38,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,22386,Dimatis,1,1,0,0
+38_46,38,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,7423,Disamis,0,1,0,0
+38_47,38,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,5392,Datisi,1,1,0,0
+38_48,38,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,4662,Barbara,0,1,0,0
+38_49,38,Pilot-1,49,1,drivers,Invalid Filler,Barbara*,2,NA,8014,Barbara,0,0,0,0
+38_50,38,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,18165,Darii,0,1,0,0
+38_51,38,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,17469,Barbara,0,1,0,0
+38_52,38,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,17030,Dimatis,1,1,0,0
+38_53,38,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,14855,Dimatis,0,1,0,0
+38_54,38,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,12354,Datisi,0,1,0,0
+38_55,38,Pilot-1,55,0,thieves,Invalid Filler,Dimatis*,2,NA,7030,Dimatis,0,1,0,0
+38_56,38,Pilot-1,56,1,funerals,Invalid Filler,Datisi*,2,NA,44784,Datisi,0,0,0,0
+38_57,38,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,4073,Disamis,1,1,0,0
+38_58,38,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,103766,Disamis,0,1,0,0
+38_59,38,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,4468,Barbara,0,1,0,0
+38_60,38,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,5290,Darii,0,1,0,0
+39_1,39,Pilot-1,1,0,boards,Homonymy,Dimatis,2,NA,5235,Dimatis,0,1,0,0
+39_2,39,Pilot-1,2,0,clocks,Invalid Filler,Barbara*,2,NA,7454,Barbara,0,1,0,0
+39_3,39,Pilot-1,3,1,whales,Valid Filler,Barbara,2,NA,6860,Barbara,1,1,0,0
+39_4,39,Pilot-1,4,0,antiques,Invalid Filler,Darii*,2,NA,11747,Darii,0,1,0,0
+39_5,39,Pilot-1,5,1,classes,Polysemy,Disamis,2,NA,5586,Disamis,0,0,0,0
+39_6,39,Pilot-1,6,1,negotiations,Valid Filler,Barbara,2,NA,5767,Barbara,1,1,0,0
+39_7,39,Pilot-1,7,0,columns,Homonymy,Datisi,2,NA,5563,Datisi,0,1,0,0
+39_8,39,Pilot-1,8,0,arms,Homonymy,Disamis,2,NA,2988,Disamis,0,1,0,0
+39_9,39,Pilot-1,9,0,stones,Invalid Filler,Datisi*,2,NA,3923,Datisi,0,1,0,0
+39_10,39,Pilot-1,10,1,phones,Valid Filler,Barbara,2,NA,4252,Barbara,1,1,0,0
+39_11,39,Pilot-1,11,1,actors,Invalid Filler,Datisi*,2,NA,3815,Datisi,0,0,0,0
+39_12,39,Pilot-1,12,0,oil,Polysemy,Datisi,2,NA,4085,Datisi,0,1,0,0
+39_13,39,Pilot-1,13,0,sausages,Invalid Filler,Datisi*,2,NA,4351,Datisi,0,1,0,0
+39_14,39,Pilot-1,14,1,dolls,Valid Filler,Darii,2,NA,3245,Darii,1,1,0,0
+39_15,39,Pilot-1,15,1,dates,Homonymy,Disamis,2,NA,3695,Disamis,0,0,0,0
+39_16,39,Pilot-1,16,1,ponies,Valid Filler,Datisi,2,NA,10924,Datisi,1,1,0,0
+39_17,39,Pilot-1,17,1,rifles,Valid Filler,Disamis,2,NA,3401,Disamis,1,1,0,0
+39_18,39,Pilot-1,18,0,subscriptions,Polysemy,Darii,2,NA,3831,Darii,0,1,0,0
+39_19,39,Pilot-1,19,1,liars,Valid Filler,Dimatis,2,NA,3360,Dimatis,1,1,0,0
+39_20,39,Pilot-1,20,0,injuries,Invalid Filler,Dimatis*,2,NA,3583,Dimatis,0,1,0,0
+39_21,39,Pilot-1,21,1,mugs,Valid Filler,Datisi,2,NA,4121,Datisi,1,1,0,0
+39_22,39,Pilot-1,22,1,poets,Valid Filler,Datisi,2,NA,3550,Datisi,1,1,0,0
+39_23,39,Pilot-1,23,0,newspapers,Polysemy,Dimatis,2,NA,6459,Dimatis,0,1,0,0
+39_24,39,Pilot-1,24,0,books,Polysemy,Dimatis,2,NA,3117,Dimatis,0,1,0,0
+39_25,39,Pilot-1,25,1,widows,Valid Filler,Dimatis,2,NA,3491,Dimatis,1,1,0,0
+39_26,39,Pilot-1,26,0,dances,Invalid Filler,Darii*,2,NA,3091,Darii,0,1,0,0
+39_27,39,Pilot-1,27,1,clowns,Valid Filler,Darii,2,NA,3109,Darii,1,1,0,0
+39_28,39,Pilot-1,28,1,grapes,Valid Filler,Disamis,2,NA,2993,Disamis,1,1,0,0
+39_29,39,Pilot-1,29,0,dreams,Polysemy,Barbara,2,NA,3640,Barbara,0,1,0,0
+39_30,39,Pilot-1,30,1,swords,Valid Filler,Disamis,2,NA,2766,Disamis,1,1,0,0
+39_31,39,Pilot-1,31,0,peppers,Invalid Filler,Dimatis*,2,NA,4335,Dimatis,0,1,0,0
+39_32,39,Pilot-1,32,1,tracks,Homonymy,Darii,2,NA,4351,Darii,0,0,0,0
+39_33,39,Pilot-1,33,1,singers,Valid Filler,Darii,2,NA,3797,Darii,1,1,0,0
+39_34,39,Pilot-1,34,0,foundations,Homonymy,Dimatis,2,NA,4170,Dimatis,0,1,0,0
+39_35,39,Pilot-1,35,0,movements,Homonymy,Barbara,2,NA,3084,Barbara,0,1,0,0
+39_36,39,Pilot-1,36,1,doughnuts,Valid Filler,Darii,2,NA,4587,Darii,1,1,0,0
+39_37,39,Pilot-1,37,0,steaks,Invalid Filler,Disamis*,2,NA,3850,Disamis,0,1,0,0
+39_38,39,Pilot-1,38,1,examinations,Polysemy,Disamis,2,NA,8110,Disamis,0,0,0,0
+39_39,39,Pilot-1,39,0,admissions,Homonymy,Barbara,2,NA,4034,Barbara,0,1,0,0
+39_40,39,Pilot-1,40,1,sandwiches,Polysemy,Darii,2,NA,4795,Darii,0,0,0,0
+39_41,39,Pilot-1,41,0,chickens,Polysemy,Datisi,2,NA,3588,Datisi,0,1,0,0
+39_42,39,Pilot-1,42,1,dinosaurs,Valid Filler,Barbara,2,NA,6883,Barbara,1,1,0,0
+39_43,39,Pilot-1,43,0,colors,Invalid Filler,Disamis*,2,NA,3651,Disamis,0,1,0,0
+39_44,39,Pilot-1,44,0,mothers,Invalid Filler,Darii*,2,NA,3387,Darii,0,1,0,0
+39_45,39,Pilot-1,45,1,suitcases,Valid Filler,Dimatis,2,NA,3328,Dimatis,1,1,0,0
+39_46,39,Pilot-1,46,0,shapes,Invalid Filler,Disamis*,2,NA,3467,Disamis,0,1,0,0
+39_47,39,Pilot-1,47,1,statues,Valid Filler,Datisi,2,NA,4208,Datisi,1,1,0,0
+39_48,39,Pilot-1,48,0,organs,Invalid Filler,Barbara*,2,NA,2869,Barbara,0,1,0,0
+39_49,39,Pilot-1,49,0,drivers,Invalid Filler,Barbara*,2,NA,2962,Barbara,0,1,0,0
+39_50,39,Pilot-1,50,0,dresses,Invalid Filler,Darii*,2,NA,5550,Darii,0,1,0,0
+39_51,39,Pilot-1,51,0,dinners,Polysemy,Barbara,2,NA,3990,Barbara,0,1,0,0
+39_52,39,Pilot-1,52,1,trucks,Valid Filler,Dimatis,2,NA,3114,Dimatis,1,1,0,0
+39_53,39,Pilot-1,53,0,spices,Invalid Filler,Dimatis*,2,NA,8358,Dimatis,0,1,0,0
+39_54,39,Pilot-1,54,0,panels,Homonymy,Datisi,2,NA,3630,Datisi,0,1,0,0
+39_55,39,Pilot-1,55,1,thieves,Invalid Filler,Dimatis*,2,NA,4888,Dimatis,0,0,0,0
+39_56,39,Pilot-1,56,0,funerals,Invalid Filler,Datisi*,2,NA,3300,Datisi,0,1,0,0
+39_57,39,Pilot-1,57,1,burgers,Valid Filler,Disamis,2,NA,5041,Disamis,1,1,0,0
+39_58,39,Pilot-1,58,0,toilets,Invalid Filler,Disamis*,2,NA,4777,Disamis,0,1,0,0
+39_59,39,Pilot-1,59,0,buildings,Invalid Filler,Barbara*,2,NA,3719,Barbara,0,1,0,0
+39_60,39,Pilot-1,60,0,tapes,Homonymy,Darii,2,NA,2723,Darii,0,1,0,0

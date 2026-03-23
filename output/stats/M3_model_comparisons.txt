@@ -1,0 +1,172 @@
+
+
+### Exp 3 (Semantic Relatedness) Nested Models: Full with random slopes or intercepts (Valid / Invalid Fillers)
+Data: data
+Models:
+M3.models$M3.VI.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M3.models$M3.VI.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                               npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)   
+M3.models$M3.VI.randInt.full      8 946.80 986.00 -465.40   930.80                        
+M3.models$M3.VI.randSlope.full   10 938.68 987.68 -459.34   918.68 12.114  2   0.002342 **
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 3 (Semantic Relatedness) LRT prose for paper: Full with random slopes or intercepts (Valid / Invalid Fillers)
+$\chi^2(2) = 12.11, \textit{p} = 0.002$ 
+
+
+### Exp 3 (Semantic Relatedness) Nested Models: Full vs. no trial type (Valid / Invalid Fillers)
+Data: data
+Models:
+M3.models$M3.VI.randSlope.notrialtype: Response ~ RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+M3.models$M3.VI.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                                      npar    AIC     BIC  logLik deviance  Chisq Df       Pr(>Chisq)    
+M3.models$M3.VI.randSlope.notrialtype    9 983.97 1028.07 -482.99   965.97                               
+M3.models$M3.VI.randSlope.full          10 938.68  987.68 -459.34   918.68 47.291  1 0.00000000000612 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 3 (Semantic Relatedness) LRT prose for paper: Full vs. no trial type (Valid / Invalid Fillers)
+$\chi^2(1) = 47.29, \textit{p} < .001$ 
+
+
+### M3 Summary Table: Best fitting model (VI) Valid vs. Invalid Fillers
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: Response ~ 1 + TrialType + RT + ItemNum + stim.premiseJudgment_P1 +      stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 |      TargetWord)
+   Data: data
+Control: glmerControl(optimizer = c("Nelder_Mead", "bobyqa"))
+
+     AIC      BIC   logLik deviance df.resid 
+   938.7    987.7   -459.3    918.7      982 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-6.3654 -0.5331  0.2004  0.4054  2.6667 
+
+Random effects:
+ Groups     Name                  Variance Std.Dev. Corr 
+ TargetWord (Intercept)           0.4192   0.6475        
+ SubjectID  (Intercept)           0.8595   0.9271        
+            TrialTypeValid Filler 1.2282   1.1082   -0.23
+Number of obs: 992, groups:  TargetWord, 32; SubjectID, 31
+
+Fixed effects:
+                        Estimate Std. Error z value             Pr(>|z|)    
+(Intercept)             -0.79604    0.26297  -3.027              0.00247 ** 
+TrialTypeValid Filler    3.32988    0.39693   8.389 < 0.0000000000000002 ***
+RT                      -0.16629    0.09702  -1.714              0.08653 .  
+ItemNum                  0.03983    0.10866   0.367              0.71396    
+stim.premiseJudgment_P1 -0.18866    0.16787  -1.124              0.26108    
+stim.premiseJudgment_P2 -0.09651    0.14671  -0.658              0.51067    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) TrlTVF RT     ItemNm s.J_P1
+TrlTypVldFl -0.486                            
+RT          -0.022 -0.007                     
+ItemNum     -0.059  0.072  0.121              
+stm.prmJ_P1 -0.133  0.130  0.001 -0.001       
+stm.prmJ_P2  0.020 -0.005 -0.011 -0.048  0.207
+
+
+### Exp 3 (Semantic Relatedness) Nested Models: Full with random slopes or intercepts (Related / Unrelated)
+Data: data
+Models:
+M3.models$M3.RU.randInt.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+M3.models$M3.RU.randSlope.full: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 + stim.premiseJudgment_P2 + (1 + TrialType | SubjectID) + (1 | TargetWord)
+                               npar    AIC    BIC  logLik deviance  Chisq Df Pr(>Chisq)  
+M3.models$M3.RU.randInt.full      9 594.71 636.22 -288.36   576.71                       
+M3.models$M3.RU.randSlope.full   11 593.93 644.67 -285.97   571.93 4.7799  2    0.09163 .
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+
+### Exp 3 (Semantic Relatedness) LRT prose for paper: Full with random slopes or intercepts (Related / Unrelated)
+$\chi^2(2) = 4.78, \textit{p} = 0.092$ 
+
+
+### M3 Summary Table: Best fitting model (PH) Valid vs. Invalid Fillers
+Generalized linear mixed model fit by maximum likelihood (Laplace Approximation) ['glmerMod']
+ Family: binomial  ( logit )
+Formula: Response ~ 1 + TrialType + RT + ItemNum + stim.ConcTruth + stim.premiseJudgment_P1 +      stim.premiseJudgment_P2 + (1 | SubjectID) + (1 | TargetWord)
+   Data: data
+Control: glmerControl(optimizer = c("Nelder_Mead", "bobyqa"))
+
+     AIC      BIC   logLik deviance df.resid 
+   594.7    636.2   -288.4    576.7      735 
+
+Scaled residuals: 
+    Min      1Q  Median      3Q     Max 
+-2.1102 -0.4129 -0.2616 -0.1433  4.5489 
+
+Random effects:
+ Groups     Name        Variance Std.Dev.
+ SubjectID  (Intercept) 1.3827   1.1759  
+ TargetWord (Intercept) 0.1292   0.3594  
+Number of obs: 744, groups:  SubjectID, 31; TargetWord, 24
+
+Fixed effects:
+                        Estimate Std. Error z value            Pr(>|z|)    
+(Intercept)             -2.58877    0.32409  -7.988 0.00000000000000137 ***
+TrialTypeRelated         0.85127    0.29983   2.839             0.00452 ** 
+RT                       0.02933    0.11421   0.257             0.79729    
+ItemNum                 -0.24301    0.14157  -1.717             0.08606 .  
+stim.ConcTruth           0.67636    0.15948   4.241 0.00002223668321392 ***
+stim.premiseJudgment_P1  0.07806    0.17441   0.448             0.65448    
+stim.premiseJudgment_P2  0.03912    0.16293   0.240             0.81025    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Correlation of Fixed Effects:
+            (Intr) TrlTyR RT     ItemNm stm.CT s.J_P1
+TrilTypRltd -0.557                                   
+RT           0.027 -0.024                            
+ItemNum      0.139 -0.085  0.129                     
+stm.CncTrth -0.084 -0.069 -0.012 -0.380              
+stm.prmJ_P1 -0.140  0.257  0.015 -0.265  0.447       
+stm.prmJ_P2  0.004 -0.017  0.066 -0.030 -0.051  0.408
+
+
+### M3 Best fitting model display summary for paper: xtable Related vs. Unrelated
+% latex table generated in R 4.3.1 by xtable 1.8-4 package
+% Mon Mar 23 15:11:33 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrll}
+  \hline
+ & Fixed effect & Coefficient & z & p & Odds Ratio \\ 
+  \hline
+1 & (Intercept) & -2.59 [-3.22, -1.95] & -7.99 & $<$ .001 & 0.08 [0.04, 0.14] \\ 
+  2 & Semantically Related & 0.85 [0.26, 1.44] & 2.84 & .005 & 2.34 [1.3, 4.22] \\ 
+  3 & RT & 0.03 [-0.19, 0.25] & 0.26 & .797 & 1.03 [0.82, 1.29] \\ 
+  4 & Trial Number & -0.24 [-0.52, 0.03] & -1.72 & .086 & 0.78 [0.59, 1.04] \\ 
+  5 & Conclusion Strength & 0.68 [0.36, 0.99] & 4.24 & $<$ .001 & 1.97 [1.44, 2.69] \\ 
+  6 & Premise1 Strength & 0.08 [-0.26, 0.42] & 0.45 & .654 & 1.08 [0.77, 1.52] \\ 
+  7 & Premise2 Strength & 0.04 [-0.28, 0.36] & 0.24 & .81 & 1.04 [0.76, 1.43] \\ 
+   \hline
+\end{tabular}
+\end{table}
+
+
+### M3 Best fitting model display summary for paper (Valid / Invalid fillers): xtable Valid vs. Invalid Fillers
+% latex table generated in R 4.3.1 by xtable 1.8-4 package
+% Mon Mar 23 15:11:33 2026
+\begin{table}[ht]
+\centering
+\begin{tabular}{rllrll}
+  \hline
+ & Fixed effect & Coefficient & z & p & Odds Ratio \\ 
+  \hline
+1 & (Intercept) & -0.8 [-1.31, -0.28] & -3.03 & .002 & 0.45 [0.27, 0.76] \\ 
+  2 & Valid Filler & 3.33 [2.55, 4.11] & 8.39 & $<$ .001 & 27.94 [12.83, 60.82] \\ 
+  3 & RT & -0.17 [-0.36, 0.02] & -1.71 & .087 & 0.85 [0.7, 1.02] \\ 
+  4 & Trial Number & 0.04 [-0.17, 0.25] & 0.37 & .714 & 1.04 [0.84, 1.29] \\ 
+  5 & Premise1 Strength & -0.19 [-0.52, 0.14] & -1.12 & .261 & 0.83 [0.6, 1.15] \\ 
+  6 & Premise2 Strength & -0.1 [-0.38, 0.19] & -0.66 & .511 & 0.91 [0.68, 1.21] \\ 
+   \hline
+\end{tabular}
+\end{table}

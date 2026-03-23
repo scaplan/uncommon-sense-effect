@@ -1,0 +1,90 @@
+
+
+### Exp 1 (Fully Crossed) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler       1553         99       0.918        0.00698             0.943          0.0783         0.758       0.213         0.791       0.182  10359. 6326.
+2 Polysemy           1172         99       0.612        0.0142              0.363          0.255          0.586       0.300         0.663       0.281  11981. 7370.
+3 Homonymy           1174         99       0.305        0.0134              0.166          0.166          0.630       0.303         0.578       0.348  12212. 7728.
+4 Invalid Filler     1561         99       0.407        0.0124              0.248          0.154          0.793       0.208         0.784       0.208  12298. 7365.
+
+
+### Exp 2 (Balanced Conclusions) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        442         28       0.910         0.0137             0.944          0.0871         0.707       0.275         0.817       0.186   9491. 5447.
+2 Polysemy            336         28       0.646         0.0261             0.309          0.198          0.600       0.281         0.664       0.316  10904. 5827.
+3 Homonymy            303         28       0.475         0.0287             0.314          0.313          0.625       0.298         0.652       0.286  10617. 5544.
+4 Invalid Filler      446         28       0.457         0.0236             0.279          0.151          0.819       0.179         0.820       0.158  11346. 6198.
+
+
+### Exp 3 (Semantic Relatedness) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        489         31       0.873         0.0151             0.957          0.0688         0.743       0.280         0.866       0.146  10995. 5384.
+2 Related             364         31       0.245         0.0226             0.279          0.226          0.740       0.270         0.864       0.141  11913. 6309.
+3 Unrelated           363         31       0.102         0.0159             0.139          0.151          0.914       0.130         0.783       0.192  11973. 7319.
+4 Invalid Filler      486         31       0.342         0.0215             0.299          0.211          0.861       0.173         0.847       0.186  12509. 6037.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler       1868        118       0.866        0.00788             0.943          0.0871         0.707       0.274         0.818       0.186  15053. 8993.
+2 Polysemy           1399        118       0.555        0.0133              0.308          0.197          0.601       0.281         0.664       0.315  15682. 9490.
+3 Homonymy           1280        118       0.441        0.0139              0.314          0.314          0.625       0.297         0.652       0.286  15423. 9379.
+4 Invalid Filler     1855        118       0.398        0.0114              0.279          0.151          0.818       0.179         0.821       0.157  15970. 9728.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        462         29       0.829         0.0175             0.944          0.0870         0.709       0.274         0.817       0.186   7494. 4082.
+2 Polysemy            347         29       0.573         0.0266             0.308          0.197          0.600       0.281         0.663       0.316   7488. 3605.
+3 Homonymy            315         29       0.524         0.0282             0.311          0.315          0.629       0.298         0.650       0.288   7254. 3281.
+4 Invalid Filler      456         29       0.478         0.0234             0.280          0.150          0.817       0.179         0.819       0.157   7940. 4175.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        477         30       0.891         0.0143             0.944          0.0871         0.706       0.274         0.818       0.186   9732. 4746.
+2 Polysemy            358         30       0.506         0.0265             0.310          0.198          0.598       0.281         0.667       0.315   9575. 3875.
+3 Homonymy            326         30       0.331         0.0261             0.313          0.314          0.625       0.298         0.651       0.287   9513. 3786.
+4 Invalid Filler      478         30       0.356         0.0219             0.279          0.151          0.820       0.178         0.820       0.158   9504. 3281.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        453         29       0.883         0.0151             0.943          0.0874         0.706       0.275         0.819       0.185  20998. 7455.
+2 Polysemy            338         29       0.541         0.0271             0.306          0.198          0.603       0.280         0.663       0.316  22367. 7926.
+3 Homonymy            315         29       0.438         0.0280             0.314          0.313          0.627       0.298         0.651       0.287  21559. 7427.
+4 Invalid Filler      451         29       0.397         0.0231             0.280          0.151          0.818       0.179         0.823       0.155  22976. 8071.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        476         30       0.861         0.0159             0.943          0.0872         0.707       0.274         0.817       0.186  22064. 7701.
+2 Polysemy            356         30       0.598         0.0260             0.308          0.197          0.601       0.281         0.664       0.316  23463. 7797.
+3 Homonymy            324         30       0.475         0.0278             0.317          0.316          0.621       0.297         0.657       0.285  23345. 8357.
+4 Invalid Filler      470         30       0.366         0.0222             0.279          0.152          0.818       0.179         0.822       0.158  23613. 8526.
+
+
+### SI Exp 1 (Cognitive Load) - Descriptive Statistics by Trial Type
+# A tibble: 4 × 13
+  TrialType      N_trials N_subjects ArgResponse ArgResponse_SE ConcStrength_mean ConcStrength_SD Premise1_mean Premise1_SD Premise2_mean Premise2_SD RT_mean RT_SD
+  <fct>             <int>      <int>       <dbl>          <dbl>             <dbl>           <dbl>         <dbl>       <dbl>         <dbl>       <dbl>   <dbl> <dbl>
+1 Valid Filler        354         30       0.887         0.0169             0.943          0.0864         0.703       0.275         0.817       0.188  22065. 7743.
+2 Polysemy            258         30       0.616         0.0303             0.302          0.198          0.608       0.282         0.652       0.321  23910. 8044.
+3 Homonymy            228         29       0.461         0.0331             0.327          0.327          0.622       0.295         0.659       0.284  23623. 8650.
+4 Invalid Filler      321         30       0.361         0.0269             0.280          0.151          0.819       0.179         0.819       0.159  23962. 8682.

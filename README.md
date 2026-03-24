@@ -1,14 +1,16 @@
 ## Code for "The Uncommon Sense Effect: experimental evidence for underspecification as the mental basis of logical inference"
 
-Please email any of the corresponding authors if you have theoretical or paper questions.
-- **Spencer Caplan** scaplan@gc.cuny.edu
-- **Griffin Pion** gpion@gradcenter.cuny.edu
-- **Elliot Schwartz** eschwartz@gradcenter.cuny.edu
+[Elliot Schwartz](https://www.schwartzworld.net/), [Griffin Pion](https://www.griffinpion.com/), [Jake Quilty-Dunn](https://sites.google.com/site/jakequiltydunn/home), [Eric Mandelbaum](https://www.ericmandelbaum.com/), & [Spencer Caplan](https://www.spencercaplan.org/)
+
+Please email any of the corresponding authors if you have theoretical or paper questions:
+ - scaplan@gc.cuny.edu
+ - gpion@gradcenter.cuny.edu
+ - eschwartz@gradcenter.cuny.edu}
 
 (For questions about the code or analysis specifically, please reach out to Spencer)
 
 ### Preprint link to be added below:
- - TBD
+ - [PsyArXiv](https://osf.io/preprints/psyarxiv/yecmg_v1)
 
 ---
 

@@ -5,7 +5,7 @@
 Please email any of the corresponding authors if you have theoretical or paper questions:
  - scaplan@gc.cuny.edu
  - gpion@gradcenter.cuny.edu
- - eschwartz@gradcenter.cuny.edu}
+ - eschwartz@gradcenter.cuny.edu
 
 (For questions about the code or analysis specifically, please reach out to Spencer)
 

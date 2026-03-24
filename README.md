@@ -9,7 +9,7 @@ Please email any of the corresponding authors if you have theoretical or paper q
 
 (For questions about the code or analysis specifically, please reach out to Spencer)
 
-### Preprint link to be added below:
+### Preprint:
  - [PsyArXiv](https://osf.io/preprints/psyarxiv/yecmg_v1)
 
 ---
